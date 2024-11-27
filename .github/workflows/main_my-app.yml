@@ -1,7 +1,5 @@
-# Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
-# More GitHub Actions for Azure: https://github.com/Azure/actions
-
 name: Deploy WordPress app to Azure Web App - My-app
+
 on:
   push:
     branches:
@@ -13,13 +11,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
 
       - name: Zip artifact for deployment
-        run: zip release.zip ./* -r
-        
+        run: |
+          zip -r release.zip ./* -x "*.git/*" "*.github/*" "node_modules/*" "*.DS_Store"
+
       - name: Upload artifact for deployment job
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: wordpress-app
           path: release.zip
@@ -29,13 +28,11 @@ jobs:
     needs: build
     environment:
       name: 'Production'
-      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
-    permissions:
-      id-token: write #This is required for requesting the JWT
+      url: 'http://my-app-g6gbcdg7hxf5faet.eastus2-01.azurewebsites.net'
 
     steps:
       - name: Download artifact from build job
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v3
         with:
           name: wordpress-app
 
@@ -43,19 +40,12 @@ jobs:
         run: |
           unzip release.zip
           rm release.zip
-      
-      - name: Login to Azure
-        uses: azure/login@v2
-        with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_CCABE38BFE634CAA93C9A80507D9EACF }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_A36FBB9FD64242B49568468625C8C25B }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_126DC09F069F4F529BA32EC3FDA8CDF6 }}
 
       - name: 'Deploy to Azure Web App'
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
           app-name: 'My-app'
-          slot-name: 'Production'
-          package: .
-          
+          slot-name: 'production'
+          package: release.zip
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
