@@ -1,0 +1,126 @@
+
+---Downloaded files---
+The import files for: Doccure Elementor were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost/doccure-ele2301
+Data file = C:\xampp\htdocs\doccure-ele2301/wp-content/themes/doccure/demo-content/demo-elementor/content.xml
+Widget file = C:\xampp\htdocs\doccure-ele2301/wp-content/themes/doccure/demo-content/demo-elementor/widgets.wie
+Customizer file = C:\xampp\htdocs\doccure-ele2301/wp-content/themes/doccure/demo-content/demo-elementor/doccure-export.dat
+Redux files:
+doccure_options -> C:\xampp\htdocs\doccure-ele2301/wp-content/themes/doccure/demo-content/demo-elementor/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "13-410x260" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Doccure Recent Posts - Latest Posts - Imported
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Archives - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Footer column 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer column 2 : 
+
+Navigation Menu - Specialities - Imported
+
+Footer column 3 : 
+
+Navigation Menu - Services - Imported
+
+Footer column 4 : 
+
+Custom HTML - Contact Us - Imported
+
+Homefour Firstarea : 
+
+Custom HTML - Contact Us - Imported
+
+Homefour lastarea : 
+
+Custom HTML - Social Network - Imported
+
+Homefive secondarea : 
+
+Custom HTML - No Title - Imported
+
+Homefive thirdarea : 
+
+Navigation Menu - Specialities - Imported
+
+Homefive fourtharea : 
+
+Navigation Menu - Services - Imported
+
+Custom Header Widget : 
+
+Custom HTML - No Title - Imported
+
+Button Widget : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: doccure_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

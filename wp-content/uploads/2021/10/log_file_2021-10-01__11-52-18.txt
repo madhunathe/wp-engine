@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://doccure-wp.dreamguystech.com
+Data file = /home/doccure-wp/public_html/wp-content/plugins/sigma-core/includes/sample-demos/default/content.xml
+Widget file = /home/doccure-wp/public_html/wp-content/plugins/sigma-core/includes/sample-demos/default/widget.wie
+Customizer file = /home/doccure-wp/public_html/wp-content/plugins/sigma-core//includes/sample-demos/default/customizer.dat
+Redux files:
+doccure_options -> /home/doccure-wp/public_html/wp-content/plugins/sigma-core/includes/sample-demos/default/redux.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Categories - Categories - Widget already exists
+Sigma Recent Posts - Recent Post - Widget already exists
+Tag Cloud - Tags - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: doccure_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+ Slider processed

@@ -1,0 +1,2434 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Doccure Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-19 08:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: doccure_core"
+
+#: helpers/EmailHelper.php:86
+msgid " | All Rights Reserved"
+msgstr ""
+
+#: helpers/templates/article-status.php:75
+#, php-format
+msgid "%doctor_name% send article"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:318
+msgid "24/7 Working Time"
+msgstr ""
+
+#: hooks/hooks.php:1012
+#, php-format
+msgid "<i class=\"ti-heart\"></i> %s Like"
+msgid_plural "<i class=\"ti-heart\"></i> %s Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: helpers/templates/email-receiver-chat-notification.php:24
+msgid "A new message received"
+msgstr ""
+
+#: helpers/templates/email-published.php:22
+msgid "Account Approved!"
+msgstr ""
+
+#: helpers/templates/email-delete-account.php:22
+msgid "Account Deleted"
+msgstr ""
+
+#: hooks/hooks.php:152
+msgid "Account has been approved and email has been sent to user."
+msgstr ""
+
+#: hooks/hooks.php:119
+msgid "Account has been disabled"
+msgstr ""
+
+#: hooks/hooks.php:1442
+msgid "Account Settings"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:142 admin/metaboxes/page-options.php:188
+#: admin/metaboxes/post-options.php:176
+msgid "Add any shortcode in textarea"
+msgstr ""
+
+#: admin/post-types/bookings.php:42
+msgid "Add Booking"
+msgstr ""
+
+#: admin/post-types/doctors.php:75
+msgid "Add Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:136
+msgid "Add Doctor Location"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:335
+msgid "Add Education"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:286
+msgid "Add Experience"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:818
+msgid "Add gallery"
+msgstr ""
+
+#: admin/post-types/bookings.php:43
+msgid "Add New Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:109
+msgid "Add New Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:239
+msgid "Add New Disease"
+msgstr ""
+
+#: admin/post-types/doctors.php:76
+msgid "Add New Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:137
+msgid "Add New Doctor Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:265
+msgid "Add New Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:115
+msgid "Add New Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:60
+msgid "Add New Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:213
+msgid "Add New Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:187
+msgid "Add New Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:135
+msgid "Add New Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:161
+msgid "Add New Medicine Usage"
+msgstr ""
+
+#: admin/post-types/regular_users.php:40
+msgid "Add New Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:45
+msgid "Add New Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:44
+msgid "Add New Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:176
+msgid "Add New Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:92
+msgid "Add New Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:83
+msgid "Add New Vital Sign"
+msgstr ""
+
+#: admin/post-types/regular_users.php:39
+msgid "Add Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:44
+msgid "Add Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:43
+msgid "Add Review"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:160
+#: admin/metaboxes/doctors-options.php:185
+#: admin/metaboxes/doctors-options.php:273
+#: admin/metaboxes/doctors-options.php:388
+#: admin/metaboxes/doctors-options.php:414
+#: admin/metaboxes/doctors-options.php:467
+#: admin/metaboxes/hospitals-options.php:130
+#: admin/metaboxes/hospitals-options.php:189
+msgid "Add row"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:522
+#: admin/metaboxes/hospitals-options.php:250
+#: admin/metaboxes/classes/class-form-attributes.php:608
+msgid "Add Services"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:139 admin/metaboxes/page-options.php:184
+#: admin/metaboxes/post-options.php:172
+msgid "Add shortcode"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:257
+#: admin/metaboxes/doctors-options.php:258
+msgid "Add video url"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:204
+#: admin/metaboxes/hospitals-options.php:148
+msgid "Address"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:188
+msgid "Admin Share"
+msgstr ""
+
+#: admin/post-types/prescription.php:104
+msgid "All Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:234
+msgid "All Diseases"
+msgstr ""
+
+#: admin/post-types/prescription.php:260
+msgid "All Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:110
+msgid "All Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:55
+msgid "All Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:208
+msgid "All Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:182
+msgid "All Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:130
+msgid "All Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:156
+msgid "All Medicine Usage"
+msgstr ""
+
+#: admin/settings/settings.php:167
+msgid "All Rights Reserved"
+msgstr ""
+
+#: admin/post-types/texonomies.php:171
+msgid "All services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:87
+msgid "All Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:78
+msgid "All Vital Sign"
+msgstr ""
+
+#: admin/settings/settings.php:140
+msgid "allow_url_fopen and allow_url_include must be on"
+msgstr ""
+
+#: shortcodes/class-authentication.php:158
+msgid "Already Have an Account?"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:186
+#: admin/partials/class-system-payout-listing.php:176
+#: admin/partials/class-system-payout-listing.php:333
+msgid "Amount"
+msgstr ""
+
+#: helpers/templates/booking-request.php:129
+msgid "Appoinment request"
+msgstr ""
+
+#: helpers/templates/booking-request.php:66
+msgid "Appointment confirmation"
+msgstr ""
+
+#: helpers/templates/booking-request.php:187
+msgid "Approved appoinment"
+msgstr ""
+
+#: helpers/templates/team-request.php:73
+msgid "Approved request to join hospital"
+msgstr ""
+
+#: includes/class-system-activator.php:61
+#: includes/class-system-activator.php:62
+msgid "Authentication"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:341
+msgid "Availability Text"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:383
+msgid "Awards"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:33
+msgid "Awards & Downloads"
+msgstr ""
+
+#: hooks/hooks.php:1201
+msgid "Bank Account Name "
+msgstr ""
+
+#: hooks/hooks.php:1202
+msgid "Bank Account Number "
+msgstr ""
+
+#: hooks/hooks.php:1206
+msgid "Bank BIC/SWIFT"
+msgstr ""
+
+#: hooks/hooks.php:1205
+msgid "Bank IBAN"
+msgstr ""
+
+#: hooks/hooks.php:1203
+msgid "Bank Name"
+msgstr ""
+
+#: hooks/hooks.php:1204
+msgid "Bank Routing Number"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:184
+#: admin/post-types/bookings.php:39 admin/post-types/bookings.php:40
+#: admin/post-types/bookings.php:41
+msgid "Booking"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:509
+msgid "Booking Contact number"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:190
+msgid "Booking detail"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:39
+#: admin/metaboxes/classes/class-metaboxes.php:28
+msgid "Booking Details"
+msgstr ""
+
+#: admin/post-types/bookings.php:86
+msgid "Booking ID#"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:153 admin/metaboxes/post-options.php:141
+msgid "Breadcrumb background color"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:162 admin/metaboxes/post-options.php:150
+msgid "Breadcrumb text color"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:118 admin/metaboxes/page-options.php:137
+#: admin/metaboxes/post-options.php:125
+msgid "Breadcrumb?"
+msgstr ""
+
+#: helpers/templates/booking-request.php:240
+msgid "Cancelled appointment"
+msgstr ""
+
+#: helpers/templates/team-request.php:121
+msgid "Cancelled request to join hospital"
+msgstr ""
+
+#: chat/class-chat-system.php:461
+msgid "Chat Messages Found!"
+msgstr ""
+
+#: chat/class-chat-system.php:677
+msgid "Chat messages found!"
+msgstr ""
+
+#: admin/post-types/prescription.php:101 admin/post-types/prescription.php:102
+#: admin/post-types/prescription.php:111
+msgid "Childhood illness"
+msgstr ""
+
+#: admin/partials/functions.php:91
+msgid "Choose File"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:94 admin/metaboxes/page-options.php:101
+#: admin/metaboxes/post-options.php:101
+msgid "Choose left sidebar."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:130 admin/metaboxes/page-options.php:174
+#: admin/metaboxes/post-options.php:162
+msgid "Choose Resolution Slider"
+msgstr ""
+
+#: admin/post-types/reviews.php:119 admin/post-types/reviews.php:132
+msgid "Click for user details"
+msgstr ""
+
+#: hooks/hooks.php:602
+msgid "Close"
+msgstr ""
+
+#: admin/post-types/texonomies.php:319 admin/post-types/texonomies.php:385
+msgid "Color"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:288
+msgid "Company Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:587
+msgid "Company name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:179
+msgid "Contact phone numbers"
+msgstr ""
+
+#: helpers/EmailHelper.php:86
+msgid "Copyright"
+msgstr ""
+
+#: hooks/hooks.php:625 hooks/hooks.php:642
+msgid "Create account"
+msgstr ""
+
+#: admin/settings/settings.php:161
+msgid "Create Support Ticket"
+msgstr ""
+
+#: admin/partials/functions.php:276
+msgid "CRON Interval has been updated"
+msgstr ""
+
+#: admin/settings/settings.php:138
+msgid "CURL should be enabled to download Unyson extensions and demo content."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:109 admin/metaboxes/page-options.php:128
+#: admin/metaboxes/post-options.php:116
+msgid "Custom Settings"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:111 admin/metaboxes/page-options.php:130
+#: admin/metaboxes/post-options.php:118
+msgid "Custom Shortcode"
+msgstr ""
+
+#: hooks/hooks.php:1432
+msgid "Dasboard"
+msgstr ""
+
+#: admin/metaboxes/hospitals-options.php:116
+msgid "Days I Offer My Services"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:82 admin/metaboxes/forum-options.php:108
+#: admin/metaboxes/page-options.php:89 admin/metaboxes/page-options.php:127
+#: admin/metaboxes/post-options.php:89 admin/metaboxes/post-options.php:115
+msgid "Default Setting"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:368
+msgid "Degree description"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:361
+#: admin/metaboxes/doctors-options.php:616
+msgid "Degree title"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:134
+#: admin/partials/class-system-payout-listing.php:141
+msgid "Delete"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:552
+#: admin/metaboxes/hospitals-options.php:280
+#: admin/metaboxes/classes/class-form-attributes.php:597
+msgid "Description"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:335
+msgid "Details"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:124 admin/metaboxes/page-options.php:147
+#: admin/metaboxes/post-options.php:135
+msgid "Disable"
+msgstr ""
+
+#: admin/post-types/prescription.php:231 admin/post-types/prescription.php:232
+msgid "Disease"
+msgstr ""
+
+#: admin/post-types/prescription.php:241
+msgid "Diseases"
+msgstr ""
+
+#: hooks/hooks.php:1193 shortcodes/class-authentication.php:133
+msgid "Display Name"
+msgstr ""
+
+#: shortcodes/class-authentication.php:117
+msgid "Display name"
+msgstr ""
+
+#: admin/partials/functions.php:23
+msgid "doccure"
+msgstr ""
+
+#. Name of the plugin
+msgid "Doccure Core"
+msgstr ""
+
+#: admin/post-types/bookings.php:84 admin/post-types/doctors.php:74
+msgid "Doctor"
+msgstr ""
+
+#: hooks/hooks.php:1196
+msgid "Doctor checkup starting price"
+msgstr ""
+
+#: admin/post-types/doctors.php:135
+msgid "Doctor Location"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:187
+msgid "Doctor Share"
+msgstr ""
+
+#: admin/post-types/doctors.php:72 admin/post-types/doctors.php:73
+msgid "Doctors"
+msgstr ""
+
+#: admin/post-types/doctors.php:133 admin/post-types/doctors.php:134
+msgid "Doctors Locations"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:29
+msgid "Doctors Options"
+msgstr ""
+
+#: hooks/hooks.php:1209
+msgid "Download prescription"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:409
+msgid "Downloads"
+msgstr ""
+
+#. Author of the plugin
+#: admin/settings/settings.php:167
+msgid "Dreamguys"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:20
+#: admin/partials/class-system-earnings-listing.php:21
+#: admin/partials/class-system-earnings.php:35
+#: admin/partials/class-system-earnings.php:36
+#: admin/partials/class-system-earnings.php:56
+#: admin/partials/class-system-earnings.php:92
+msgid "Earnings"
+msgstr ""
+
+#: admin/post-types/bookings.php:44 admin/post-types/doctors.php:77
+#: admin/post-types/doctors.php:138 admin/post-types/prescription.php:46
+#: admin/post-types/regular_users.php:41 admin/post-types/reviews.php:45
+msgid "Edit"
+msgstr ""
+
+#: admin/post-types/bookings.php:45
+msgid "Edit Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:107
+msgid "Edit Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:237
+msgid "Edit Disease"
+msgstr ""
+
+#: admin/post-types/doctors.php:78
+msgid "Edit Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:139
+msgid "Edit Doctor Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:263
+msgid "Edit Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:113
+msgid "Edit Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:58
+msgid "Edit Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:211
+msgid "Edit Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:185
+msgid "Edit Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:133
+msgid "Edit Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:159
+msgid "Edit Medicine Usage"
+msgstr ""
+
+#: admin/post-types/regular_users.php:42
+msgid "Edit Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:47
+msgid "Edit Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:46
+msgid "Edit Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:174
+msgid "Edit Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:90
+msgid "Edit Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:81
+msgid "Edit Vital Sign"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:330
+msgid "Education"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:32
+msgid "Education & Experience"
+msgstr ""
+
+#: hooks/hooks.php:632 shortcodes/class-authentication.php:89
+msgid "Email"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:58
+msgid "Email address is required."
+msgstr ""
+
+#: helpers/templates/booking-request.php:25
+msgid "Email Verification code"
+msgstr ""
+
+#: helpers/templates/email-authe.php:288
+msgid "Email Verification Link"
+msgstr ""
+
+#: helpers/EmailHelper.php:158
+msgid "email-header"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:123 admin/metaboxes/page-options.php:146
+#: admin/metaboxes/post-options.php:134
+msgid "Enable"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:121 admin/metaboxes/page-options.php:144
+#: admin/metaboxes/page-options.php:157 admin/metaboxes/post-options.php:132
+#: admin/metaboxes/post-options.php:145
+msgid "Enable or disable breadcrumb for this page."
+msgstr ""
+
+#: admin/metaboxes/page-options.php:169 admin/metaboxes/page-options.php:206
+#: admin/metaboxes/post-options.php:157
+msgid "Enable or disable text for this page."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:593
+#: admin/metaboxes/doctors-options.php:613
+#: admin/partials/class-system-payouts.php:65
+msgid "End date"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:304
+#: admin/metaboxes/doctors-options.php:353
+msgid "Ending date"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:18
+msgid "Enter your email"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:281
+msgid "Experiences"
+msgstr ""
+
+#: hooks/hooks.php:954 hooks/hooks.php:1237
+msgid "Facebook"
+msgstr ""
+
+#: hooks/hooks.php:1285
+msgid "Facebook Link"
+msgstr ""
+
+#: hooks/hooks.php:1284
+msgid "Facebook Link?"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:64
+msgid "Featured date"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:70
+msgid "Featured user date, leave it empty to remove user from featured."
+msgstr ""
+
+#: helpers/templates/feedback.php:24
+msgid "Feedback received"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:93
+msgid "Female"
+msgstr ""
+
+#: hooks/hooks.php:1191 shortcodes/class-authentication.php:79
+msgid "First Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:111
+#: admin/metaboxes/hospitals-options.php:74
+msgid "First name"
+msgstr ""
+
+#: hooks/hooks.php:181 hooks/hooks.php:182
+msgid "First Name is required"
+msgstr ""
+
+#: hooks/hooks.php:1341
+msgid "Flickr Link"
+msgstr ""
+
+#: hooks/hooks.php:1340
+msgid "Flickr Link?"
+msgstr ""
+
+#: helpers/templates/email-get-password.php:24
+msgid "Forgot Password"
+msgstr ""
+
+#: hooks/hooks.php:623
+msgid "Forgot password?"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:36
+#: admin/metaboxes/doctors-options.php:242
+#: admin/metaboxes/hospitals-options.php:26
+#: admin/metaboxes/hospitals-options.php:53
+msgid "Gallery"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:87
+msgid "Gender"
+msgstr ""
+
+#: hooks/hooks.php:1208
+msgid "Generate prescription"
+msgstr ""
+
+#: hooks/hooks.php:636
+msgid "Get Pasword"
+msgstr ""
+
+#: admin/settings/settings.php:159
+msgid "Get Support"
+msgstr ""
+
+#: hooks/hooks.php:1252 hooks/hooks.php:1257
+msgid "Google Plus"
+msgstr ""
+
+#: hooks/hooks.php:955
+msgid "Google+"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:31
+msgid "Health Forum Options"
+msgstr ""
+
+#: helpers/templates/article-status.php:76
+msgid ""
+"Hello !<br/>\n"
+"\n"
+"\t\t\t\t\t\t\t%doctor_name% send article %article_title% with pending status."
+"<br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/team-request.php:74
+msgid ""
+"Hello %doctor_name%,<br/>\n"
+"\t\t\t\t\t\t\t\t\tYour request to join <a href=\"%hospital_link%\">"
+"%hospital_name%</a> is <b>Approved</b>.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/team-request.php:122
+msgid ""
+"Hello %doctor_name%,<br/>\n"
+"\t\t\t\t\t\t\t\t\tYour request to join <a href=\"%hospital_link%\">"
+"%hospital_name%</a> is <b>Cancelled</b>.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:130
+msgid ""
+"Hello %doctor_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\t%user_name% is request you for appoinment in hospital "
+"%doctor_name% on date  %appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/article-status.php:27
+msgid ""
+"Hello %doctor_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\tYour article %article_title% has been received with pending "
+"status. <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/article-status.php:128
+msgid ""
+"Hello %doctor_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\tYour article %article_title% has been received with publish "
+"status. <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/feedback.php:25
+msgid ""
+"Hello %doctor_name%<br>\n"
+"\t\t\t%user_name% has given the feedback with the following details :<br>\n"
+"Recommend \t\t\t: %recommend% <br>\n"
+"Waiting time \t\t: %waiting_time% <br>\n"
+"Rating\t\t\t\t: %rating% <br>\n"
+"Description \t\t: %description% <br>\n"
+"%signature%,<br/>\n"
+"\t\t\t%signature%,"
+msgstr ""
+
+#: helpers/templates/team-request.php:25
+msgid ""
+"Hello %hospital_name%,<br/>\n"
+"\t\t\t\t\t\t\t\t\t<a href=\"%doctor_link%\">%doctor_name%</a> has sent you a "
+"new request to join your hospital.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:188
+msgid ""
+"Hello %user_name%<br/>\n"
+"\t\t\t\t\t\t\t%doctor_name% is approved to your appoinment on date  "
+"%appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:241
+msgid ""
+"Hello %user_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t%doctor_name% is cancelled to your appoinment with "
+"%doctor_name% on date  %appointment_date% at %appointment_time% <br/>\n"
+"\t\t\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/booking-request.php:67
+msgid ""
+"Hello %user_name%<br/>\n"
+"\n"
+"\t\t\t\t\t\t\tYour appoinment booking request has been received with the "
+"following details<br/>\n"
+"\t\t\t\t\t\t\tAppointment date \t: %appointment_date% <br>\n"
+"\t\t\t\t\t\t\tAppointment time \t: %appointment_time% <br>\n"
+"\t\t\t\t\t\t\tDoctor name \t\t: %doctor_name% <br>\n"
+"\t\t\t\t\t\t\tHospital name \t\t: %hospital_name% <br>\n"
+"\t\t\t\t\t\t\tConsultation fee \t: %consultant_fee% <br>\n"
+"\t\t\t\t\t\t\tPrice \t\t\t\t: %price% <br>\n"
+"\t\t\t\t\t\t\tDescription \t\t: %description% <br>\n"
+"\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/forum.php:24
+msgid ""
+"Hello,\n"
+"\t\t\t\t\t\t\t\t\tA new question has been posted and needs an approval.\n"
+"\t\t\t\t\t\t\t\t\t%signature%"
+msgstr ""
+
+#: helpers/templates/app-link.php:25
+msgid ""
+"Hello,<br/>\n"
+"\t\t\t\t\t\t\t\t\tYour should be download the app from our site.<br/>\n"
+"\t\t\t\t\t\t\t\t\t%signature%,<br/>"
+msgstr ""
+
+#: helpers/templates/invitations.php:25
+msgid ""
+"Hello,<br>\n"
+"\t\t\tYou have an invitation from %doctor_name% to register on the site. He "
+"wants to list yourself in your hospital onboard doctors.<br>\n"
+"\t\t\tCreate your profile and get listed on the site. He have leave a "
+"message for you<br>\n"
+"\t\t\t%invitation_content% <br>\n"
+"\t\t\t%signature%"
+msgstr ""
+
+#: helpers/templates/invitations.php:78
+msgid ""
+"Hello,<br>\n"
+"\t\t\tYou have an invitation from %hospital_name% to register on the site. "
+"They wants to list you as their onboard doctors<br>\n"
+"\t\t\tCreate your profile and get listed on the site. They have leave a "
+"message for you<br>\n"
+"\t\t\t%invitation_content% <br>\n"
+"\t\t\t%signature%\n"
+"\t\t\t"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:116
+msgid "Hide it"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:30
+msgid "Hospital Options"
+msgstr ""
+
+#: admin/settings/settings.php:148
+msgid "How to Install?"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/Dreamguys"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/dreamstechnologies/portfolio"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:331
+msgid "ID"
+msgstr ""
+
+#: admin/partials/functions.php:81
+msgid "Import Dummy"
+msgstr ""
+
+#: admin/partials/functions.php:79 admin/partials/functions.php:87
+msgid "Import dummy"
+msgstr ""
+
+#: admin/partials/functions.php:94
+msgid "Import From File"
+msgstr ""
+
+#: admin/partials/functions.php:74 admin/partials/functions.php:77
+msgid "Import Users"
+msgstr ""
+
+#: hooks/hooks.php:957 hooks/hooks.php:1262
+msgid "Instagram"
+msgstr ""
+
+#: hooks/hooks.php:1333
+msgid "Instagram Link"
+msgstr ""
+
+#: hooks/hooks.php:1332
+msgid "Instagram Link?"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:337
+#: admin/metaboxes/doctors-options.php:607
+msgid "Institute name"
+msgstr ""
+
+#: helpers/templates/invitations.php:24 helpers/templates/invitations.php:77
+msgid "Invitation to signup"
+msgstr ""
+
+#: admin/settings/settings.php:92 admin/settings/settings.php:107
+msgid ""
+"It will be used at post / Taxonomy detail page in URL as slug. Please use "
+"words without spaces."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:319
+msgid "Job Description"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:312
+#: admin/metaboxes/doctors-options.php:596
+msgid "Job title"
+msgstr ""
+
+#: shortcodes/class-authentication.php:38
+msgid "Join For a Good Start"
+msgstr ""
+
+#: hooks/hooks.php:567
+msgid "Join Now"
+msgstr ""
+
+#: hooks/hooks.php:615
+msgid "Keep me logged in"
+msgstr ""
+
+#: admin/post-types/prescription.php:257 admin/post-types/prescription.php:258
+#: admin/post-types/prescription.php:267
+msgid "Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:108
+msgid "Language"
+msgstr ""
+
+#: admin/post-types/doctors.php:107 admin/post-types/doctors.php:117
+msgid "Languages"
+msgstr ""
+
+#: hooks/hooks.php:1192 shortcodes/class-authentication.php:82
+msgid "Last Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:119
+#: admin/metaboxes/hospitals-options.php:82
+msgid "Last name"
+msgstr ""
+
+#: hooks/hooks.php:183
+msgid "Last Name is required."
+msgstr ""
+
+#: hooks/hooks.php:1198 admin/metaboxes/doctors-options.php:215
+#: admin/metaboxes/hospitals-options.php:159
+msgid "Latitude"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:77 admin/metaboxes/page-options.php:84
+#: admin/metaboxes/post-options.php:84
+msgid "Layout"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:84 admin/metaboxes/page-options.php:91
+#: admin/metaboxes/post-options.php:91
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/post-types/doctors.php:34
+msgid "Linked Profile"
+msgstr ""
+
+#: hooks/hooks.php:1247
+msgid "LinkedIn"
+msgstr ""
+
+#: hooks/hooks.php:960
+msgid "Linkedin"
+msgstr ""
+
+#: hooks/hooks.php:1301
+msgid "Linkedin Link"
+msgstr ""
+
+#: hooks/hooks.php:1300
+msgid "Linkedin Link?"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:30
+#: admin/metaboxes/hospitals-options.php:21 admin/post-types/bookings.php:85
+#: admin/post-types/texonomies.php:53
+msgid "Location"
+msgstr ""
+
+#: hooks/hooks.php:185
+msgid "Location field is required"
+msgstr ""
+
+#: admin/post-types/texonomies.php:52 admin/post-types/texonomies.php:62
+msgid "Locations"
+msgstr ""
+
+#: hooks/hooks.php:563 hooks/hooks.php:601 hooks/hooks.php:617
+msgid "Login"
+msgstr ""
+
+#: hooks/hooks.php:640 shortcodes/class-authentication.php:158
+msgid "Login Now"
+msgstr ""
+
+#: admin/post-types/texonomies.php:298 admin/post-types/texonomies.php:307
+#: admin/post-types/texonomies.php:362 admin/post-types/texonomies.php:372
+#: admin/post-types/texonomies.php:425 admin/post-types/texonomies.php:434
+#: admin/post-types/texonomies.php:480 admin/post-types/texonomies.php:490
+msgid "Logo"
+msgstr ""
+
+#: hooks/hooks.php:1197 admin/metaboxes/doctors-options.php:226
+#: admin/metaboxes/hospitals-options.php:170
+msgid "Longitude"
+msgstr ""
+
+#: admin/partials/functions.php:232
+msgid "MailChimp is updated"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:92
+msgid "Male"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:462
+#: admin/metaboxes/hospitals-options.php:184
+msgid "Manage specialities & services"
+msgstr ""
+
+#: admin/post-types/prescription.php:205 admin/post-types/prescription.php:206
+#: admin/post-types/prescription.php:215
+msgid "Marital status"
+msgstr ""
+
+#: admin/settings/settings.php:133
+msgid "max_execution_time = 300"
+msgstr ""
+
+#: admin/settings/settings.php:134
+msgid "max_input_time = 300"
+msgstr ""
+
+#: admin/post-types/prescription.php:179 admin/post-types/prescription.php:180
+#: admin/post-types/prescription.php:189
+msgid "Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:128
+msgid "Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:127 admin/post-types/prescription.php:137
+msgid "Medicine types"
+msgstr ""
+
+#: admin/post-types/prescription.php:153 admin/post-types/prescription.php:154
+#: admin/post-types/prescription.php:163
+msgid "Medicine Usage"
+msgstr ""
+
+#: hooks/hooks.php:1349
+msgid "Medium Link"
+msgstr ""
+
+#: hooks/hooks.php:1348
+msgid "Medium Link?"
+msgstr ""
+
+#: chat/class-chat-system.php:769
+msgid "Member Since"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:31
+msgid "Membership"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:267
+#: admin/metaboxes/doctors-options.php:493
+msgid "Membership Name"
+msgstr ""
+
+#: admin/settings/settings.php:135
+msgid "memory_limit = 300"
+msgstr ""
+
+#: chat/class-chat-system.php:738
+msgid "Message deleted."
+msgstr ""
+
+#: chat/class-chat-system.php:525
+msgid "Message field is required."
+msgstr ""
+
+#: chat/class-chat-system.php:596
+msgid "Message send!"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:334
+msgid "Method"
+msgstr ""
+
+#: admin/settings/settings.php:131
+msgid "Minimum PHP version should be 7.0 or PHP version > 7.0"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:332
+msgid "Name"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:75
+#: admin/metaboxes/doctors-options.php:470
+#: admin/metaboxes/hospitals-options.php:192
+msgid "Name base"
+msgstr ""
+
+#: admin/post-types/bookings.php:46
+msgid "New Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:110
+msgid "New Childhood illness Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:240
+msgid "New Disease Name"
+msgstr ""
+
+#: admin/post-types/doctors.php:79
+msgid "New Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:140
+msgid "New Doctor Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:266
+msgid "New Laboratory Tests Name"
+msgstr ""
+
+#: admin/post-types/doctors.php:116
+msgid "New Language Name"
+msgstr ""
+
+#: admin/post-types/texonomies.php:61
+msgid "New Location Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:214
+msgid "New Marital status Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:188
+msgid "New Medicine Duration Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:136
+msgid "New Medicine type Name"
+msgstr ""
+
+#: admin/post-types/prescription.php:162
+msgid "New Medicine Usage Name"
+msgstr ""
+
+#: admin/post-types/regular_users.php:43
+msgid "New Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:48
+msgid "New Prescription"
+msgstr ""
+
+#: helpers/templates/forum.php:23
+msgid "New question posted"
+msgstr ""
+
+#: admin/post-types/reviews.php:47
+msgid "New Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:177
+msgid "New Services Name"
+msgstr ""
+
+#: admin/post-types/texonomies.php:93
+msgid "New Specialities Name"
+msgstr ""
+
+#: helpers/templates/email-authe.php:243
+msgid "New user registration"
+msgstr ""
+
+#: admin/post-types/prescription.php:84
+msgid "New Vital Sign Name"
+msgstr ""
+
+#: admin/post-types/bookings.php:50
+msgid "No Booking found"
+msgstr ""
+
+#: admin/post-types/bookings.php:51
+msgid "No Booking found in trash"
+msgstr ""
+
+#: admin/post-types/doctors.php:83
+msgid "No Doctor found"
+msgstr ""
+
+#: admin/post-types/doctors.php:84
+msgid "No Doctor found in trash"
+msgstr ""
+
+#: admin/post-types/doctors.php:144
+msgid "No Doctor found Location"
+msgstr ""
+
+#: admin/post-types/doctors.php:145
+msgid "No Doctor Location found in trash"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:116
+msgid "No Earnings avaliable."
+msgstr ""
+
+#: chat/class-chat-system.php:414 chat/class-chat-system.php:620
+#: chat/class-chat-system.php:706
+msgid "No Kiddies Please"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:88
+msgid "No list selected yet! please contact administrator"
+msgstr ""
+
+#: chat/class-chat-system.php:332
+msgid "No Message Selected"
+msgstr ""
+
+#: chat/class-chat-system.php:334
+msgid "No message selected to display"
+msgstr ""
+
+#: chat/class-chat-system.php:466
+msgid "No more messages..."
+msgstr ""
+
+#: admin/post-types/regular_users.php:47
+msgid "No Patient found"
+msgstr ""
+
+#: admin/post-types/regular_users.php:48
+msgid "No Patient found in trash"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:118
+msgid "No Payouts avaliable."
+msgstr ""
+
+#: admin/post-types/prescription.php:52
+msgid "No Prescription found"
+msgstr ""
+
+#: admin/post-types/prescription.php:53
+msgid "No Prescription found in trash"
+msgstr ""
+
+#: admin/post-types/reviews.php:51
+msgid "No Review found"
+msgstr ""
+
+#: admin/post-types/reviews.php:52
+msgid "No Review found in trash"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:17 admin/metaboxes/forum-options.php:83
+#: admin/metaboxes/page-options.php:19 admin/metaboxes/page-options.php:90
+#: admin/metaboxes/post-options.php:19 admin/metaboxes/post-options.php:90
+msgid "No Sidebar"
+msgstr ""
+
+#: hooks/hooks.php:129
+msgid "No user exists"
+msgstr ""
+
+#: admin/settings/settings.php:139
+msgid "Node.js for real-time chat"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:112 admin/metaboxes/page-options.php:131
+#: admin/metaboxes/post-options.php:119
+msgid "None, hide it"
+msgstr ""
+
+#: hooks/hooks.php:1405
+msgid "Odnoklassniki Link"
+msgstr ""
+
+#: hooks/hooks.php:1404
+msgid "Odnoklassniki Link?"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:185
+msgid "Order"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:94
+#: admin/metaboxes/classes/class-form-attributes.php:329
+msgid "Others"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:26
+msgid "Page Options"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:111
+msgid "Page Title"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:37 admin/metaboxes/forum-options.php:103
+#: admin/metaboxes/options.php:17 admin/metaboxes/page-options.php:41
+#: admin/metaboxes/page-options.php:122 admin/metaboxes/post-options.php:42
+#: admin/metaboxes/post-options.php:110
+msgid "Page Title Bar"
+msgstr ""
+
+#: admin/post-types/bookings.php:52
+msgid "Parent Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:105
+msgid "Parent Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:106
+msgid "Parent Childhood illness:"
+msgstr ""
+
+#: admin/post-types/prescription.php:235
+msgid "Parent Disease"
+msgstr ""
+
+#: admin/post-types/prescription.php:236
+msgid "Parent Disease:"
+msgstr ""
+
+#: admin/post-types/doctors.php:85
+msgid "Parent Doctors"
+msgstr ""
+
+#: admin/post-types/doctors.php:146
+msgid "Parent Doctors Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:261
+msgid "Parent Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/prescription.php:262
+msgid "Parent Laboratory Tests:"
+msgstr ""
+
+#: admin/post-types/doctors.php:111
+msgid "Parent Language"
+msgstr ""
+
+#: admin/post-types/doctors.php:112
+msgid "Parent Language:"
+msgstr ""
+
+#: admin/post-types/texonomies.php:56
+msgid "Parent Location"
+msgstr ""
+
+#: admin/post-types/texonomies.php:57
+msgid "Parent Location:"
+msgstr ""
+
+#: admin/post-types/prescription.php:209
+msgid "Parent Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:210
+msgid "Parent Marital status:"
+msgstr ""
+
+#: admin/post-types/prescription.php:183
+msgid "Parent Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:184
+msgid "Parent Medicine Duration:"
+msgstr ""
+
+#: admin/post-types/prescription.php:131
+msgid "Parent Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:132
+msgid "Parent Medicine type:"
+msgstr ""
+
+#: admin/post-types/prescription.php:157
+msgid "Parent Medicine Usage"
+msgstr ""
+
+#: admin/post-types/prescription.php:158
+msgid "Parent Medicine Usage:"
+msgstr ""
+
+#: admin/post-types/regular_users.php:49
+msgid "Parent Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:54
+msgid "Parent Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:53
+msgid "Parent Reviews"
+msgstr ""
+
+#: admin/post-types/texonomies.php:172
+msgid "Parent Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:173
+msgid "Parent Services:"
+msgstr ""
+
+#: admin/post-types/texonomies.php:88
+msgid "Parent Specialities"
+msgstr ""
+
+#: admin/post-types/texonomies.php:89
+msgid "Parent Specialities:"
+msgstr ""
+
+#: admin/post-types/prescription.php:79
+msgid "Parent Vital Sign"
+msgstr ""
+
+#: admin/post-types/prescription.php:80
+msgid "Parent Vital Sign:"
+msgstr ""
+
+#: hooks/hooks.php:610
+msgid "Password"
+msgstr ""
+
+#: hooks/hooks.php:227
+msgid "Password does not match."
+msgstr ""
+
+#: hooks/hooks.php:186
+msgid "Password field is required"
+msgstr ""
+
+#: hooks/hooks.php:218
+msgid "Password length should be minimum 6"
+msgstr ""
+
+#: hooks/hooks.php:48
+msgid "Password should not be empty."
+msgstr ""
+
+#: shortcodes/class-authentication.php:102
+msgid "Password*"
+msgstr ""
+
+#: admin/post-types/regular_users.php:36 admin/post-types/regular_users.php:37
+#: admin/post-types/regular_users.php:38
+msgid "Patients"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:177
+msgid "Payment Method"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:22
+#: admin/partials/class-system-payout-listing.php:288
+msgid "Payout"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:289
+msgid "Payout history starting from"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:23
+#: admin/partials/class-system-payouts.php:35
+#: admin/partials/class-system-payouts.php:36
+#: admin/partials/class-system-payouts.php:56
+#: admin/partials/class-system-payouts.php:92
+msgid "Payouts"
+msgstr ""
+
+#: hooks/hooks.php:1200
+msgid "PayPal Email Address"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:29
+#: admin/metaboxes/hospitals-options.php:20
+msgid "Personal details"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:143
+#: admin/metaboxes/hospitals-options.php:90
+msgid "Personal mobile number"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:638
+#: admin/metaboxes/hospitals-options.php:297
+msgid "Phone number"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:154
+#: admin/metaboxes/hospitals-options.php:124
+msgid "Phone Number\"s"
+msgstr ""
+
+#: hooks/hooks.php:1195
+msgid "Phone numbers"
+msgstr ""
+
+#: admin/settings/settings.php:132
+msgid "PHP Zip extension Should be Installed"
+msgstr ""
+
+#: hooks/hooks.php:958
+msgid "Pinterest"
+msgstr ""
+
+#: hooks/hooks.php:1317
+msgid "Pinterest Link"
+msgstr ""
+
+#: hooks/hooks.php:1316
+msgid "Pinterest Link?"
+msgstr ""
+
+#: hooks/hooks.php:210
+msgid "Please add a valid email address."
+msgstr ""
+
+#: hooks/hooks.php:278
+msgid "Please add all the required fields"
+msgstr ""
+
+#: hooks/hooks.php:249
+msgid "Please add valid email address"
+msgstr ""
+
+#: hooks/hooks.php:1015
+msgid "Post has been liked"
+msgstr ""
+
+#: hooks/hooks.php:993
+msgid "Post id is required"
+msgstr ""
+
+#: admin/metaboxes/classes/class-metaboxes.php:27
+msgid "Post Options"
+msgstr ""
+
+#: hooks/hooks.php:1207
+msgid "Post title"
+msgstr ""
+
+#: admin/settings/settings.php:136
+msgid "post_max_size = 100M"
+msgstr ""
+
+#: admin/post-types/prescription.php:41 admin/post-types/prescription.php:42
+#: admin/post-types/prescription.php:43
+msgid "Prescription"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:549
+#: admin/metaboxes/hospitals-options.php:277
+#: admin/metaboxes/classes/class-form-attributes.php:594
+msgid "Price"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:178
+msgid "Processing Date"
+msgstr ""
+
+#: hooks/hooks.php:1437
+msgid "Profile Settings"
+msgstr ""
+
+#: admin/post-types/reviews.php:106
+msgid "Rating:"
+msgstr ""
+
+#: helpers/EmailHelper.php:129
+msgid "Regards"
+msgstr ""
+
+#: shortcodes/class-authentication.php:59
+#: admin/metaboxes/doctors-options.php:34
+#: admin/metaboxes/hospitals-options.php:23
+msgid "Registration"
+msgstr ""
+
+#: hooks/hooks.php:1199 admin/metaboxes/doctors-options.php:432
+#: admin/metaboxes/hospitals-options.php:207
+msgid "Registration number"
+msgstr ""
+
+#: admin/post-types/texonomies.php:308 admin/post-types/texonomies.php:373
+#: admin/post-types/texonomies.php:435 admin/post-types/texonomies.php:491
+#: admin/metaboxes/classes/class-form-attributes.php:760
+msgid "Remove"
+msgstr ""
+
+#: admin/metaboxes/classes/class-form-attributes.php:819
+msgid "Remove all"
+msgstr ""
+
+#: shortcodes/class-authentication.php:105
+msgid "Retype Password*"
+msgstr ""
+
+#: admin/post-types/reviews.php:156
+msgid "Review"
+msgstr ""
+
+#: admin/post-types/reviews.php:116
+msgid "Review By"
+msgstr ""
+
+#: admin/post-types/reviews.php:158
+msgid "Review by"
+msgstr ""
+
+#: admin/post-types/reviews.php:83
+msgid "Review Info"
+msgstr ""
+
+#: admin/post-types/reviews.php:128
+msgid "Review To"
+msgstr ""
+
+#: admin/post-types/reviews.php:159
+msgid "Review to"
+msgstr ""
+
+#: admin/post-types/reviews.php:40 admin/post-types/reviews.php:41
+#: admin/post-types/reviews.php:42
+msgid "Reviews"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:110 admin/metaboxes/page-options.php:129
+#: admin/metaboxes/post-options.php:117
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/settings/settings.php:84
+msgid "Rewrite URL"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:85 admin/metaboxes/page-options.php:92
+#: admin/metaboxes/post-options.php:92
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/settings/settings.php:118
+msgid "Save Changes"
+msgstr ""
+
+#: hooks/hooks.php:1447
+msgid "Saved Items"
+msgstr ""
+
+#: admin/post-types/bookings.php:49
+msgid "Search Booking"
+msgstr ""
+
+#: admin/post-types/prescription.php:103
+msgid "Search Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:233
+msgid "Search Diseases"
+msgstr ""
+
+#: admin/post-types/doctors.php:82
+msgid "Search Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:143
+msgid "Search Doctor Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:259
+msgid "Search Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:109
+msgid "Search Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:54
+msgid "Search Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:207
+msgid "Search Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:181
+msgid "Search Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:129
+msgid "Search Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:155
+msgid "Search Medicine Usage"
+msgstr ""
+
+#: admin/post-types/regular_users.php:46
+msgid "Search Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:51
+msgid "Search Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:50
+msgid "Search Review"
+msgstr ""
+
+#: admin/post-types/texonomies.php:170
+msgid "Search services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:86
+msgid "Search Specialities"
+msgstr ""
+
+#: chat/class-chat-system.php:282
+msgid "Search Users"
+msgstr ""
+
+#: admin/post-types/prescription.php:77
+msgid "Search Vital Sign"
+msgstr ""
+
+#: chat/class-chat-system.php:471 chat/class-chat-system.php:513
+#: chat/class-chat-system.php:683 chat/class-chat-system.php:724
+msgid "Security check failed!"
+msgstr ""
+
+#: hooks/hooks.php:99
+msgid ""
+"Security check failed, this could be because of your browser cache. Please "
+"clear the cache and check it again"
+msgstr ""
+
+#: chat/class-chat-system.php:499 hooks/hooks.php:25 hooks/hooks.php:175
+#: hooks/hooks.php:987 admin/partials/functions.php:141
+#: admin/partials/functions.php:185 admin/partials/functions.php:217
+#: admin/partials/functions.php:259
+msgid ""
+"Security check failed, this could be because of your browser cache. Please "
+"clear the cache and check it againe"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:26 admin/metaboxes/page-options.php:28
+#: admin/metaboxes/post-options.php:28
+msgid "Select a slider"
+msgstr ""
+
+#: admin/post-types/prescription.php:313 admin/post-types/texonomies.php:221
+msgid "Select a speciality"
+msgstr ""
+
+#: hooks/hooks.php:494
+msgid "Select List"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:133 admin/metaboxes/page-options.php:178
+#: admin/metaboxes/post-options.php:166
+msgid "Select Revolution Slider."
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:80 admin/metaboxes/page-options.php:87
+#: admin/metaboxes/post-options.php:87
+msgid "Select sidebar layout to display sidebar on this page."
+msgstr ""
+
+#: admin/post-types/prescription.php:294 admin/post-types/texonomies.php:202
+msgid "Select speciality"
+msgstr ""
+
+#: helpers/templates/app-link.php:24
+msgid "Send App link"
+msgstr ""
+
+#: helpers/templates/team-request.php:24
+msgid "Send request"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:35 admin/metaboxes/options.php:15
+#: admin/metaboxes/page-options.php:38 admin/metaboxes/post-options.php:38
+msgid "Seo"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:56 admin/metaboxes/page-options.php:62
+#: admin/metaboxes/post-options.php:62
+msgid "Seo Description"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:65 admin/metaboxes/page-options.php:71
+#: admin/metaboxes/post-options.php:71
+msgid "Seo Keywords"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:47 admin/metaboxes/page-options.php:53
+#: admin/metaboxes/post-options.php:53
+msgid "Seo Title"
+msgstr ""
+
+#: admin/post-types/texonomies.php:168 admin/post-types/texonomies.php:169
+#: admin/post-types/texonomies.php:178
+msgid "Services"
+msgstr ""
+
+#: admin/settings/settings.php:23 admin/settings/settings.php:75
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/functions.php:192
+msgid "Settings updated"
+msgstr ""
+
+#: hooks/hooks.php:851
+msgid "Share on Facebook"
+msgstr ""
+
+#: hooks/hooks.php:855
+msgid "Share on Google"
+msgstr ""
+
+#: hooks/hooks.php:856
+msgid "Share on Pinterest"
+msgstr ""
+
+#: hooks/hooks.php:852
+msgid "Share on Twitter"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:127
+#: admin/metaboxes/hospitals-options.php:98
+msgid "Short description"
+msgstr ""
+
+#: admin/metaboxes/page-options.php:117
+msgid "Show it"
+msgstr ""
+
+#: admin/metaboxes/forum-options.php:36 admin/metaboxes/forum-options.php:91
+#: admin/metaboxes/options.php:16 admin/metaboxes/page-options.php:40
+#: admin/metaboxes/page-options.php:98 admin/metaboxes/post-options.php:41
+#: admin/metaboxes/post-options.php:98
+msgid "Sidebar"
+msgstr ""
+
+#: shortcodes/class-authentication.php:149
+msgid "Signup Now"
+msgstr ""
+
+#: hooks/hooks.php:959
+msgid "Skype"
+msgstr ""
+
+#: hooks/hooks.php:1309
+msgid "Skype ID"
+msgstr ""
+
+#: hooks/hooks.php:1308
+msgid "Skype ID?"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:68
+#: libraries/mailchimp/class-mailchimp.php:115
+msgid "Some error occur,please try again later."
+msgstr ""
+
+#: hooks/hooks.php:298 hooks/hooks.php:424
+msgid "Some error occurs, please try again later"
+msgstr ""
+
+#: chat/class-chat-system.php:519 chat/class-chat-system.php:716
+msgid "Something went wrong."
+msgstr ""
+
+#: hooks/hooks.php:788
+msgid "Sorry! you are restricted to perform this action on demo site."
+msgstr ""
+
+#: admin/post-types/texonomies.php:84 admin/post-types/texonomies.php:85
+#: admin/post-types/texonomies.php:94
+msgid "Specialities"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:35
+#: admin/metaboxes/hospitals-options.php:22
+msgid "Specialities & Services"
+msgstr ""
+
+#: shortcodes/class-authentication.php:110
+msgid "Start as :"
+msgstr ""
+
+#: hooks/hooks.php:1210
+msgid "Start chat"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:296
+#: admin/metaboxes/doctors-options.php:345
+#: admin/metaboxes/doctors-options.php:590
+#: admin/metaboxes/doctors-options.php:610
+#: admin/partials/class-system-payouts.php:64
+msgid "Start date"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:398
+msgid "Start Year"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:135
+msgid "Starting Price"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:189
+#: admin/partials/class-system-payout-listing.php:179
+#: admin/partials/class-system-payout-listing.php:336
+msgid "Status"
+msgstr ""
+
+#: shortcodes/class-authentication.php:117
+msgid "Store name"
+msgstr ""
+
+#: hooks/hooks.php:1190
+msgid "Sub Heading"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:102
+#: admin/metaboxes/hospitals-options.php:66
+msgid "Sub heading"
+msgstr ""
+
+#: libraries/mailchimp/class-mailchimp.php:109
+msgid "Subscribe Successfully"
+msgstr ""
+
+#: hooks/hooks.php:76
+msgid "Successfully Logged in"
+msgstr ""
+
+#: shortcodes/class-authentication.php:142
+msgid "Terms & Conditions"
+msgstr ""
+
+#: helpers/templates/package-subscription.php:22
+msgid "Thank you for purchasing the package!"
+msgstr ""
+
+#: helpers/templates/email-authe.php:65 helpers/templates/email-authe.php:110
+#: helpers/templates/email-authe.php:155 helpers/templates/email-authe.php:201
+msgid "Thank you for registering"
+msgstr ""
+
+#: hooks/hooks.php:455
+msgid "Thank you so much for the registration."
+msgstr ""
+
+#: admin/metaboxes/page-options.php:199
+msgid "Theme header Color"
+msgstr ""
+
+#: admin/settings/settings.php:127
+msgid "Theme Requirements"
+msgstr ""
+
+#: hooks/hooks.php:262
+msgid "This email already registered"
+msgstr ""
+
+#: admin/partials/class-system-payout-listing.php:299
+msgid "This is a computer generated payout slip"
+msgstr ""
+
+#: admin/post-types/bookings.php:56
+msgid "This is where you can add new Booking"
+msgstr ""
+
+#: admin/post-types/regular_users.php:53
+msgid "This is where you can add new company"
+msgstr ""
+
+#: admin/post-types/doctors.php:90
+msgid "This is where you can add new doctors"
+msgstr ""
+
+#: admin/post-types/doctors.php:151
+msgid "This is where you can add new doctors locations"
+msgstr ""
+
+#: admin/post-types/reviews.php:57
+msgid "This is where you can add new Reviews "
+msgstr ""
+
+#: admin/post-types/prescription.php:59
+msgid "This is where you can add prescription "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for creating custom post types and other functionality "
+"for doccure Theme"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:390
+#: admin/metaboxes/doctors-options.php:627
+msgid "Title"
+msgstr ""
+
+#: hooks/hooks.php:1357
+msgid "Tripadvisor Link"
+msgstr ""
+
+#: hooks/hooks.php:1356
+msgid "Tripadvisor Link?"
+msgstr ""
+
+#: hooks/hooks.php:956
+msgid "Tumbler"
+msgstr ""
+
+#: hooks/hooks.php:1325
+msgid "Tumblr Link"
+msgstr ""
+
+#: hooks/hooks.php:1324
+msgid "Tumblr Link?"
+msgstr ""
+
+#: hooks/hooks.php:953 hooks/hooks.php:1242
+msgid "Twitter"
+msgstr ""
+
+#: hooks/hooks.php:1293
+msgid "Twitter Link"
+msgstr ""
+
+#: hooks/hooks.php:1292
+msgid "Twitter Link?"
+msgstr ""
+
+#: admin/post-types/prescription.php:108
+msgid "Update Childhood illness"
+msgstr ""
+
+#: admin/post-types/prescription.php:238
+msgid "Update Disease"
+msgstr ""
+
+#: admin/post-types/prescription.php:264
+msgid "Update Laboratory Tests"
+msgstr ""
+
+#: admin/post-types/doctors.php:114
+msgid "Update Language"
+msgstr ""
+
+#: admin/post-types/texonomies.php:59
+msgid "Update Location"
+msgstr ""
+
+#: admin/post-types/prescription.php:212
+msgid "Update Marital status"
+msgstr ""
+
+#: admin/post-types/prescription.php:186
+msgid "Update Medicine Duration"
+msgstr ""
+
+#: admin/post-types/prescription.php:134
+msgid "Update Medicine type"
+msgstr ""
+
+#: admin/post-types/prescription.php:160
+msgid "Update Medicine Usage"
+msgstr ""
+
+#: admin/post-types/texonomies.php:175
+msgid "Update Services"
+msgstr ""
+
+#: admin/post-types/texonomies.php:91
+msgid "Update Specialities"
+msgstr ""
+
+#: admin/post-types/prescription.php:82
+msgid "Update Vital Sign"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:416
+#: admin/metaboxes/doctors-options.php:576 admin/post-types/texonomies.php:307
+#: admin/post-types/texonomies.php:308 admin/post-types/texonomies.php:372
+#: admin/post-types/texonomies.php:373 admin/post-types/texonomies.php:434
+#: admin/post-types/texonomies.php:435 admin/post-types/texonomies.php:490
+#: admin/post-types/texonomies.php:491
+#: admin/metaboxes/classes/class-form-attributes.php:693
+#: admin/metaboxes/classes/class-form-attributes.php:759
+msgid "Upload"
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:440
+#: admin/metaboxes/hospitals-options.php:215
+msgid "Upload document"
+msgstr ""
+
+#: admin/settings/settings.php:137
+msgid "upload_max_filesize = 100M"
+msgstr ""
+
+#: hooks/hooks.php:560
+msgid "user"
+msgstr ""
+
+#: admin/partials/functions.php:69 admin/partials/functions.php:160
+msgid "User Imported Successfully"
+msgstr ""
+
+#: admin/partials/class-system-earnings-listing.php:183
+#: admin/partials/class-system-payout-listing.php:175
+msgid "User Name"
+msgstr ""
+
+#: helpers/templates/package-subscription.php:78
+msgid "User purchase a package!"
+msgstr ""
+
+#: hooks/hooks.php:188
+msgid "User type field is required."
+msgstr ""
+
+#: hooks/hooks.php:607
+msgid "Username"
+msgstr ""
+
+#: shortcodes/class-authentication.php:85
+msgid "username"
+msgstr ""
+
+#: hooks/hooks.php:255
+msgid "Username already registered"
+msgstr ""
+
+#: hooks/hooks.php:184
+msgid "Username field is required."
+msgstr ""
+
+#: hooks/hooks.php:45
+msgid "Username should not be empty."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:450
+#: admin/metaboxes/hospitals-options.php:225
+msgid "Verified document"
+msgstr ""
+
+#: hooks/hooks.php:187
+msgid "Verify Password field is required."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:251
+msgid "Videos"
+msgstr ""
+
+#: admin/post-types/bookings.php:47 admin/post-types/bookings.php:48
+msgid "View Booking"
+msgstr ""
+
+#: admin/post-types/doctors.php:80 admin/post-types/doctors.php:81
+msgid "View Doctor"
+msgstr ""
+
+#: admin/post-types/doctors.php:141 admin/post-types/doctors.php:142
+msgid "View Doctor Location"
+msgstr ""
+
+#: admin/post-types/regular_users.php:44 admin/post-types/regular_users.php:45
+msgid "View Patient"
+msgstr ""
+
+#: admin/post-types/prescription.php:49 admin/post-types/prescription.php:50
+msgid "View Prescription"
+msgstr ""
+
+#: admin/post-types/reviews.php:48 admin/post-types/reviews.php:49
+msgid "View Review"
+msgstr ""
+
+#: admin/post-types/doctors.php:50
+msgid "View User Profile"
+msgstr ""
+
+#: hooks/hooks.php:1373
+msgid "Vimeo Link"
+msgstr ""
+
+#: hooks/hooks.php:1372
+msgid "Vimeo Link?"
+msgstr ""
+
+#: admin/post-types/prescription.php:76
+msgid "Vital Sign"
+msgstr ""
+
+#: admin/post-types/prescription.php:75 admin/post-types/prescription.php:85
+msgid "Vital Signs"
+msgstr ""
+
+#: hooks/hooks.php:1397
+msgid "Vkontakte Link"
+msgstr ""
+
+#: hooks/hooks.php:1396
+msgid "Vkontakte Link?"
+msgstr ""
+
+#: hooks/hooks.php:1194 admin/metaboxes/doctors-options.php:165
+#: admin/metaboxes/hospitals-options.php:134
+msgid "Web url"
+msgstr ""
+
+#: admin/settings/settings.php:70
+msgid "What's New?"
+msgstr ""
+
+#: hooks/hooks.php:1389
+msgid "Whatsapp Number"
+msgstr ""
+
+#: hooks/hooks.php:1388
+msgid "Whatsapp Number?"
+msgstr ""
+
+#: hooks/hooks.php:1365
+msgid "Wikipedia Link"
+msgstr ""
+
+#: hooks/hooks.php:1364
+msgid "Wikipedia Link?"
+msgstr ""
+
+#: admin/metaboxes/hospitals-options.php:107
+#: admin/metaboxes/classes/class-form-attributes.php:314
+msgid "Working Time"
+msgstr ""
+
+#: hooks/hooks.php:53
+msgid "Wrong email/username or password."
+msgstr ""
+
+#: admin/metaboxes/doctors-options.php:630
+msgid "Year"
+msgstr ""
+
+#: hooks/hooks.php:1019
+msgid "You have already liked this post"
+msgstr ""
+
+#: hooks/hooks.php:189
+msgid "You should agree to terms and conditions."
+msgstr ""
+
+#: hooks/hooks.php:457
+msgid ""
+"Your account has been created. After the verification your will be do "
+"anything on the site"
+msgstr ""
+
+#: hooks/hooks.php:453
+msgid ""
+"Your account has been created. Please check your email for the verification"
+msgstr ""
+
+#: helpers/templates/email-authe.php:24
+msgid "Your account is approved"
+msgstr ""
+
+#: helpers/templates/article-status.php:26
+msgid "Your Article is pending status"
+msgstr ""
+
+#: helpers/templates/article-status.php:127
+msgid "Your Article is publish status"
+msgstr ""
+
+#: hooks/hooks.php:190
+msgid "Your name field is required."
+msgstr ""
+
+#: hooks/hooks.php:1381
+msgid "Youtube Link"
+msgstr ""
+
+#: hooks/hooks.php:1380
+msgid "Youtube Link?"
+msgstr ""

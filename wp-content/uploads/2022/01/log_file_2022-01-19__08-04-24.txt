@@ -1,0 +1,495 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/doccure19
+Data file = C:\xampp\htdocs\doccure19\wp-content\plugins\sigma-core/includes/sample-demos/default/content.xml
+Widget file = C:\xampp\htdocs\doccure19\wp-content\plugins\sigma-core/includes/sample-demos/default/widget.wie
+Customizer file = C:\xampp\htdocs\doccure19\wp-content\plugins\sigma-core//includes/sample-demos/default/customizer.dat
+Redux files:
+doccure_options -> C:\xampp\htdocs\doccure19\wp-content\plugins\sigma-core/includes/sample-demos/default/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "feature-01" (Media)
+[ERROR] Failed to import "feature-02" (Media)
+[ERROR] Failed to import "feature-03" (Media)
+[ERROR] Failed to import "doctor-04-1" (Media)
+[ERROR] Failed to import "doctor-02-1" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Sigma Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+
+Custom Header Widget : 
+
+Custom HTML - No Title - Imported
+
+Button Widget : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: doccure_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+ Slider processed

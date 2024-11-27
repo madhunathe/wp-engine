@@ -1,0 +1,91 @@
+
+---Downloaded files---
+The import files for: Default Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/updatedoccure14
+Data file = C:\xampp\htdocs\updatedoccure14\wp-content\plugins\sigma-core/includes/sample-demos/default/content.xml
+Widget file = C:\xampp\htdocs\updatedoccure14\wp-content\plugins\sigma-core/includes/sample-demos/default/widget.wie
+Customizer file = C:\xampp\htdocs\updatedoccure14\wp-content\plugins\sigma-core//includes/sample-demos/default/customizer.dat
+Redux files:
+doccure_options -> C:\xampp\htdocs\updatedoccure14\wp-content\plugins\sigma-core/includes/sample-demos/default/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+search - No Title - Site does not support widget
+categories - Categories - Site does not support widget
+Sigma Recent Posts - Recent Post - Imported
+Tag Cloud - Tags - Imported
+
+Custom Header Widget : 
+
+Custom HTML - No Title - Imported
+
+Button Widget : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: doccure_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+ Slider processed

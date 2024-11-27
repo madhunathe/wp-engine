@@ -1,0 +1,798 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"Project-Id-Version: Doccure Elementor\n"
+"POT-Creation-Date: 2022-01-20 16:46+0100\n"
+"PO-Revision-Date: 2023-07-19 08:16+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: doccure-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: fr_FR\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#: widgets/class-doctors-carousel.php:169 widgets/class-portfolio-grid.php:141
+#: widgets/class-post-grid.php:162 widgets/class-testimonials.php:177
+msgid " Order by date."
+msgstr "Trier par date."
+
+#: widgets/class-doctors-carousel.php:170 widgets/class-portfolio-grid.php:142
+#: widgets/class-post-grid.php:163 widgets/class-testimonials.php:178
+msgid " Order by last modified date."
+msgstr "Trier par date de dernière modification."
+
+#: widgets/class-doctors-carousel.php:173 widgets/class-portfolio-grid.php:145
+#: widgets/class-post-grid.php:166 widgets/class-testimonials.php:181
+msgid " Order by number of commen"
+msgstr "Trier par nombre de commentaires"
+
+#: widgets/class-doctors-carousel.php:167 widgets/class-portfolio-grid.php:139
+#: widgets/class-post-grid.php:160 widgets/class-testimonials.php:175
+msgid " Order by post name (post slug)."
+msgstr "Trier par nom de poste (post slug)."
+
+#: widgets/class-doctors-carousel.php:168 widgets/class-portfolio-grid.php:140
+#: widgets/class-post-grid.php:161 widgets/class-testimonials.php:176
+msgid " Order by post type."
+msgstr "Trier par type de poste."
+
+#: widgets/class-doctors-carousel.php:171 widgets/class-portfolio-grid.php:143
+#: widgets/class-post-grid.php:164 widgets/class-testimonials.php:179
+msgid " Order by post/page parent id."
+msgstr "Trier par identifiant parent de publication/page."
+
+#: widgets/class-doctors-carousel.php:172 widgets/class-portfolio-grid.php:144
+#: widgets/class-post-grid.php:165 widgets/class-testimonials.php:180
+msgid " Random order."
+msgstr "Ordre aléatoire."
+
+#: widgets/class-tax-gallery.php:321
+#, php-format
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] "Liste %s"
+msgstr[1] "%s annonces"
+
+#: widgets/class-hero-two.php:134
+#, php-format
+msgid "100% Expert Doctors"
+msgstr "100% Expert Medecins "
+
+#: widgets/class-togglehome.php:144
+msgid "95k+"
+msgstr "95k+"
+
+#: widgets/class-tax-gallery.php:138
+#| msgid ""
+#| "<h2>Find Your Ultimate <br> Local Weekend</h2>\n"
+#| "\t\t\t\t\t<p>A curated collection of stays and experiences to inspire "
+#| "your next trip.</p>\n"
+#| "\t\t\t\t\t<a href=\"listings-list-with-sidebar.html\" class=\"button "
+#| "margin-top-25\">Discover Places</a>"
+msgid ""
+"<h2>Find Your Ultimate <br> Local Weekend</h2>\n"
+"\t\t\t\t\t<p>A curated collection of stays and experiences to inspire your "
+"next trip.</p>\n"
+"\t\t\t\t\t<a href=\"#\" class=\"button margin-top-25\">Discover Places</a>"
+msgstr ""
+"<h2>Trouvez votre week-end  <br> local ultime</h2>\n"
+"\t\t\t\t\t<p>Une collection organisée de séjours et d'expériences pour "
+"inspirer votre prochain voyage.</p>\n"
+"\t\t\t\t\t<a href=\"#\" class=\"button margin-top-25\">Découvrir des "
+"lieux</a>"
+
+#: widgets/class-aboutbanner.php:58
+msgid "About Us Banner"
+msgstr "À propos de nous Bannière"
+
+#: widgets/class-accordion.php:109
+msgid "Accordion"
+msgstr "Accordéon"
+
+#: widgets/class-accordion.php:148
+msgid "Accordion #1"
+msgstr "Accordéon #1"
+
+#: widgets/class-accordion.php:152
+msgid "Accordion #2"
+msgstr "Accordéon #2"
+
+#: widgets/class-accordion.php:143
+msgid "Accordion Items"
+msgstr "Articles d'accordéon"
+
+#: widgets/class-post-grid.php:264
+msgid "Add after excerpt"
+msgstr "Ajouter après l'extrait"
+
+#: widgets/class-clients.php:153
+msgid "Add Images"
+msgstr "Ajouter des images"
+
+#: widgets/class-imagebox.php:171
+msgid "Alternative"
+msgstr "Alternative"
+
+#: widgets/class-doctors-carousel.php:188
+#: widgets/class-doctors-services.php:151
+#: widgets/class-doctors-specialities.php:164
+#: widgets/class-portfolio-grid.php:158 widgets/class-post-grid.php:203
+#: widgets/class-services.php:138 widgets/class-testimonials.php:194
+msgid "Ascending. "
+msgstr "Ascendant."
+
+#: widgets/class-tax-gallery.php:231
+msgid "Auto Play"
+msgstr "Lecture automatique"
+
+#: widgets/class-tax-gallery.php:245
+msgid "Auto Play Speed"
+msgstr "Vitesse de lecture automatique"
+
+#: widgets/class-doctors-carousel.php:536
+#: widgets/class-doctors-carousel.php:667
+#: widgets/class-doctors-carousel.php:782
+msgid "Book Appointment"
+msgstr "Prendre rendez-vous"
+
+#: widgets/class-doctors-carousel.php:424 widgets/class-imagebox.php:149
+msgid "Book Now"
+msgstr "Réservez maintenant"
+
+#: widgets/class-imagebox.php:58
+msgid "Box Image"
+msgstr "Image de la boîte"
+
+#: widgets/class-togglehome.php:153
+msgid "Box Sub-title"
+msgstr "sous-titre de la boîte"
+
+#: widgets/class-togglehome.php:142
+msgid "BoxTitle"
+msgstr "Titre de la boîte"
+
+#: widgets/class-doctors-specialities.php:173 widgets/class-hero-main.php:140
+#| msgid "Buy button Label"
+msgid "Button Label"
+msgstr "Libellé du bouton"
+
+#: widgets/class-hero-two.php:124
+msgid "Button One"
+msgstr "bouton un"
+
+#: widgets/class-hero-two.php:132
+msgid "Button Two"
+msgstr "bouton deux"
+
+#: widgets/class-togglehome.php:231 widgets/class-togglehome.php:235
+msgid "Can i make an Appointment Online with White Plains Hospital Kendi?"
+msgstr ""
+"Puis-je prendre rendez-vous en ligne avec White Plains Hospital Kendi ?"
+
+#: widgets/class-headline.php:173
+msgid "Center"
+msgstr "Centre"
+
+#: widgets/class-howworks.php:205
+msgid "Check Doctor Profile"
+msgstr "Vérifier le profil du médecin"
+
+#: widgets/class-imagebox.php:155
+msgid "Choose Background Image"
+msgstr "Choisir l'image d'arrière-plan"
+
+#: widgets/class-howworks.php:184 widgets/class-togglehome.php:180
+msgid "Choose Icon Image"
+msgstr "Choisissez l'image de l'icône"
+
+#: widgets/class-togglehome.php:166
+msgid "Choose Image"
+msgstr "Choisir une image"
+
+#: widgets/class-aboutbanner.php:132
+msgid "Choose Image 1"
+msgstr "Choisir l'image 1"
+
+#: widgets/class-aboutbanner.php:143
+msgid "Choose Image 2"
+msgstr "Choisir l'image 2"
+
+#: widgets/class-contact-box.php:58
+msgid "Contact box"
+msgstr "Boîte de contact"
+
+#: widgets/class-contact-form.php:123
+msgid "Contact Details"
+msgstr "Coordonnées"
+
+#: widgets/class-contact-form.php:58
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+#: widgets/class-aboutbanner.php:106 widgets/class-aboutbanner.php:121
+#: widgets/class-clients.php:109 widgets/class-contact-box.php:114
+#: widgets/class-contact-box.php:130 widgets/class-contact-box.php:132
+#: widgets/class-contact-form.php:114 widgets/class-contact-form.php:141
+#: widgets/class-doctors-carousel.php:108
+#: widgets/class-doctors-services.php:108
+#: widgets/class-doctors-specialities.php:108 widgets/class-headline.php:105
+#: widgets/class-iconbox.php:114 widgets/class-iconbox.php:130
+#: widgets/class-iconbox.php:132 widgets/class-iconbox2.php:114
+#: widgets/class-iconbox2.php:130 widgets/class-iconbox2.php:132
+#: widgets/class-iconboxservice.php:114 widgets/class-iconboxservice.php:130
+#: widgets/class-iconboxservice.php:132 widgets/class-imagebox.php:115
+#: widgets/class-services.php:108 widgets/class-tax-gallery.php:125
+msgid "Content"
+msgstr "Contenu"
+
+#: widgets/class-doctors-carousel.php:187
+#: widgets/class-doctors-services.php:150
+#: widgets/class-doctors-specialities.php:163
+#: widgets/class-portfolio-grid.php:157 widgets/class-post-grid.php:202
+#: widgets/class-services.php:137 widgets/class-testimonials.php:193
+msgid "Descending"
+msgstr "Descendant"
+
+#: widgets/class-hero-main.php:133 widgets/class-hero-one.php:133
+msgid "Discover the best doctors, clinic & hospital the city nearest to you."
+msgstr ""
+"Découvrez les meilleurs médecins, cliniques et hôpitaux de la ville la plus "
+"proche de chez vous."
+
+#: widgets/class-hero-two.php:142
+msgid ""
+"Discover the best doctors, clinics & hospitals in the city nearest to you."
+msgstr ""
+"Découvrez les meilleurs médecins, cliniques et hôpitaux de la ville la plus "
+"proche de chez vous."
+
+#. Author of the plugin
+msgid "Doccure"
+msgstr "Documenter"
+
+#: widgets/class-accordion.php:56
+msgid "Doccure Accordion"
+msgstr "Accordéon"
+
+#: widgets/class-clients.php:58
+msgid "Doccure Clients"
+msgstr "Clients Doccure"
+
+#. Name of the plugin
+msgid "Doccure Elementor"
+msgstr "Élément de documentation"
+
+#: widgets/class-togglehome.php:56
+msgid "Doccure FAQ Home"
+msgstr "Document FAQ Accueil"
+
+#: widgets/class-hero-one.php:59 widgets/class-home-search-slider.php:59
+msgid "Doccure Hero"
+msgstr "Héros du documentaire"
+
+#: widgets/class-hero-two.php:59
+msgid "Doccure Hero 2"
+msgstr "Document Héros 2"
+
+#: widgets/class-hero-three.php:59
+msgid "Doccure Hero 3"
+msgstr "Document Héros 3"
+
+#: widgets/class-hero-four.php:59
+msgid "Doccure Hero 4"
+msgstr "Document Hero 4"
+
+#: widgets/class-hero-main.php:59
+msgid "Doccure Hero Main"
+msgstr "Document Hero Main"
+
+#: widgets/class-howworks.php:56
+msgid "Doccure How Works"
+msgstr "Documenter le fonctionnement"
+
+#: widgets/class-services.php:58
+msgid "Doccure Services"
+msgstr "Services de documentation"
+
+#: widgets/class-testimonials.php:58
+msgid "Doccure Testimonials"
+msgstr "Documenter des témoignages"
+
+#: widgets/class-toggle.php:56
+msgid "Doccure Toggle"
+msgstr "Bascule de document"
+
+#. Description of the plugin
+msgid "Doccure widgets for Elementor"
+msgstr "Widgets de documentation pour Elementor"
+
+#: widgets/class-doctors-specialities.php:386
+#: widgets/class-doctors-specialities.php:390
+msgid "Doctors"
+msgstr "Médecins"
+
+#: widgets/class-doctors-carousel.php:58
+msgid "Doctors Carousel"
+msgstr "Carrousel des médecins"
+
+#: widgets/class-doctors-services.php:58
+msgid "Doctors Services"
+msgstr "Services aux médecins"
+
+#: widgets/class-doctors-specialities.php:58
+msgid "Doctors Specialities"
+msgstr "Spécialités des médecins"
+
+#: widgets/class-doctors-carousel.php:146
+#: widgets/class-doctors-services.php:131
+#: widgets/class-doctors-specialities.php:144 widgets/class-services.php:118
+#| msgid "Vendors to display"
+msgid "Doctors to display"
+msgstr "Médecins à afficher"
+
+#: widgets/class-headline.php:148
+msgid "Element tag "
+msgstr "Étiquette d'élément"
+
+#: widgets/class-post-grid.php:252
+msgid "Excerpt length"
+msgstr "Longueur de l'extrait"
+
+#: widgets/class-post-grid.php:227
+msgid "Exclude posts"
+msgstr "Exclure les messages"
+
+#: widgets/class-howworks.php:127 widgets/class-togglehome.php:127
+msgid "Frequently Asked Questions"
+msgstr "Questions fréquemment posées"
+
+#: widgets/class-contact-form.php:132
+msgid "GET IN TOUCH"
+msgstr "ENTRER EN CONTACT"
+
+#: widgets/class-togglehome.php:136
+msgid "Get Your Answer"
+msgstr "Obtenez votre réponse"
+
+#: widgets/class-howworks.php:213
+msgid "Get Your Solution"
+msgstr "Obtenez votre solution"
+
+#: widgets/class-headline.php:152
+msgid "H1"
+msgstr "H1"
+
+#: widgets/class-headline.php:153
+msgid "H2"
+msgstr "H2"
+
+#: widgets/class-headline.php:154
+msgid "H3"
+msgstr "H3"
+
+#: widgets/class-headline.php:155
+msgid "H4"
+msgstr "H4"
+
+#: widgets/class-headline.php:156
+msgid "H5"
+msgstr "H5"
+
+#: widgets/class-togglehome.php:155 widgets/class-togglehome.php:317
+msgid "Happy Patients"
+msgstr "Patients heureux"
+
+#: widgets/class-headline.php:58
+msgid "Headline"
+msgstr "Titre"
+
+#: widgets/class-post-grid.php:277 widgets/class-post-grid.php:288
+#: widgets/class-post-grid.php:299
+msgid "Hide"
+msgstr "Masquer"
+
+#: widgets/class-clients.php:142 widgets/class-howworks.php:136
+msgid "How it Works"
+msgstr "Comment ça marche"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://doccure-wp.dreamguystech.com/"
+msgstr "https://doccure-wp.dreamguystech.com/"
+
+#: widgets/class-contact-box.php:155 widgets/class-hero-main.php:153
+#: widgets/class-iconbox.php:140 widgets/class-iconbox2.php:183
+#: widgets/class-iconboxservice.php:171 widgets/class-imagebox.php:134
+msgid "https://your-link.com"
+msgstr "https://votre-lien.com"
+
+#: widgets/class-contact-box.php:141 widgets/class-iconbox.php:178
+#: widgets/class-iconbox2.php:169 widgets/class-iconboxservice.php:157
+msgid "Icon"
+msgstr "Icône"
+
+#: widgets/class-iconbox.php:58
+#| msgid "IconBox"
+msgid "Icon Box"
+msgstr "Icon Box"
+
+#: widgets/class-iconbox2.php:58
+msgid "Icon Box 2"
+msgstr "Boîte d'icônes 2"
+
+#: widgets/class-iconboxservice.php:58
+msgid "Icon Box Service"
+msgstr "Service de boîte à icônes"
+
+#: widgets/class-iconbox.php:168 widgets/class-iconbox2.php:144
+#: widgets/class-iconboxservice.php:144
+#| msgid "Icon on the right. "
+msgid "Icon on the left. "
+msgstr "Icône à gauche."
+
+#: widgets/class-iconbox.php:167 widgets/class-iconbox2.php:143
+#: widgets/class-iconboxservice.php:143
+msgid "Icon on top"
+msgstr "Icône en haut"
+
+#: widgets/class-post-grid.php:239
+msgid "Include posts"
+msgstr "Inclure les messages"
+
+#: widgets/class-hero-two.php:126
+msgid "Instant Operation & Appointment"
+msgstr "Fonctionnement instantané et rendez-vous"
+
+#: widgets/class-headline.php:169
+msgid "Left"
+msgstr "Gauche"
+
+#: widgets/class-howworks.php:143
+msgid "Left Image"
+msgstr "Image de gauche"
+
+#: widgets/class-contact-box.php:153 widgets/class-doctors-carousel.php:198
+#: widgets/class-doctors-services.php:160
+#: widgets/class-doctors-specialities.php:184 widgets/class-hero-main.php:151
+#: widgets/class-iconbox.php:138 widgets/class-iconbox2.php:181
+#: widgets/class-iconboxservice.php:169 widgets/class-imagebox.php:132
+#: widgets/class-post-grid.php:186
+msgid "Link"
+msgstr "Lien"
+
+#: widgets/class-imagebox.php:147
+#| msgid "List Title"
+msgid "Link Title"
+msgstr "Titre du lien"
+
+#: widgets/class-howworks.php:202 widgets/class-howworks.php:206
+#: widgets/class-howworks.php:210 widgets/class-howworks.php:214
+msgid ""
+"Lorem ipsum dolor consectetur adipiscing elit, tempor incididunt labore "
+"dolore magna aliqua."
+msgstr ""
+"Le client pourra suivre le service client du client, au moment où il "
+"ressentira une grande douleur."
+
+#: widgets/class-togglehome.php:232 widgets/class-togglehome.php:236
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,"
+msgstr ""
+"Le client pourra suivre le service client du client, au moment où il "
+"ressentira une grande douleur."
+
+#: widgets/class-accordion.php:149 widgets/class-accordion.php:153
+#: widgets/class-toggle.php:149 widgets/class-toggle.php:153
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+"Le client pourra suivre le service client du client, au moment où il "
+"ressentira une grande douleur."
+
+#: widgets/class-doctors-carousel.php:163 widgets/class-portfolio-grid.php:135
+#: widgets/class-post-grid.php:156 widgets/class-testimonials.php:171
+msgid "No order"
+msgstr "Pas de commande"
+
+#: widgets/class-portfolio-grid.php:153 widgets/class-post-grid.php:198
+msgid "Order"
+msgstr "Commande"
+
+#: widgets/class-portfolio-grid.php:131 widgets/class-post-grid.php:152
+msgid "Order by"
+msgstr "Commander par"
+
+#: widgets/class-doctors-carousel.php:165 widgets/class-portfolio-grid.php:137
+#: widgets/class-post-grid.php:158 widgets/class-testimonials.php:173
+msgid "Order by author."
+msgstr "Trier par auteur."
+
+#: widgets/class-doctors-carousel.php:164 widgets/class-portfolio-grid.php:136
+#: widgets/class-post-grid.php:157 widgets/class-testimonials.php:172
+msgid "Order by post id. "
+msgstr "Commandez par identifiant postal."
+
+#: widgets/class-doctors-carousel.php:166 widgets/class-portfolio-grid.php:138
+#: widgets/class-post-grid.php:159 widgets/class-testimonials.php:174
+msgid "Order by title."
+msgstr "Trier par titre."
+
+#: widgets/class-clients.php:130
+msgid "Our Partners"
+msgstr "Nos partenaires"
+
+#: widgets/class-portfolio-grid.php:58
+msgid "Portfolio Grid"
+msgstr "Grille de portefeuille"
+
+#: widgets/class-post-grid.php:58
+msgid "Posts Grid"
+msgstr "Grille des messages"
+
+#: widgets/class-portfolio-grid.php:119 widgets/class-post-grid.php:123
+#: widgets/class-testimonials.php:115
+msgid "Posts to display"
+msgstr "Messages à afficher"
+
+#: widgets/class-home-search-slider.php:124
+msgid "Professional Services For Your Home & Commercial"
+msgstr "Services professionnels pour votre maison et votre commerce"
+
+#: widgets/class-portfolio-grid.php:112 widgets/class-post-grid.php:116
+#: widgets/class-testimonials.php:108
+msgid "Query"
+msgstr "Requête"
+
+#: widgets/class-post-grid.php:449 widgets/class-post-grid.php:499
+#: widgets/class-post-grid.php:536 widgets/class-post-grid.php:691
+msgid "Read More"
+msgstr "En savoir plus"
+
+#: widgets/class-headline.php:177
+msgid "Right"
+msgstr "Droit"
+
+#: widgets/class-tax-gallery.php:136
+msgid "Right side Content"
+msgstr "Contenu du côté droit"
+
+#: widgets/class-howworks.php:209
+msgid "Schedule Appointment"
+msgstr "Rendez-vous"
+
+#: widgets/class-howworks.php:201
+msgid "Search Doctor"
+msgstr "Rechercher un médecin"
+
+#: widgets/class-hero-four.php:122 widgets/class-hero-four.php:124
+#: widgets/class-hero-main.php:124 widgets/class-hero-one.php:124
+#: widgets/class-hero-three.php:122 widgets/class-hero-three.php:124
+#: widgets/class-hero-two.php:117
+msgid "Search Doctor, Make an Appointment"
+msgstr "Rechercher un médecin, prendre rendez-vous"
+
+#: widgets/class-home-search-slider.php:133
+msgid "Search From 100 Awesome Verified Ads"
+msgstr "Rechercher parmi 100 annonces vérifiées impressionnantes"
+
+#: widgets/class-doctors-specialities.php:175
+msgid "See All Specialities"
+msgstr "Voir toutes les spécialités"
+
+#: widgets/class-contact-form.php:139
+msgid "Shortcode"
+msgstr "Petit code"
+
+#: widgets/class-post-grid.php:276 widgets/class-post-grid.php:287
+#: widgets/class-post-grid.php:298
+msgid "Show"
+msgstr "Afficher"
+
+#: widgets/class-post-grid.php:214
+msgid "Show from categories"
+msgstr "Afficher à partir des catégories"
+
+#: widgets/class-tax-gallery.php:218
+msgid "Show listings counter"
+msgstr "Afficher le compteur d'annonces"
+
+#: widgets/class-tax-gallery.php:204
+msgid "Show only top terms"
+msgstr "Afficher uniquement les principaux termes"
+
+#: widgets/class-post-grid.php:296
+msgid "Show post category"
+msgstr "Afficher la catégorie de publication"
+
+#: widgets/class-post-grid.php:285
+msgid "Show post date"
+msgstr "Afficher la date de publication"
+
+#: widgets/class-post-grid.php:274
+msgid "Show post excerpt"
+msgstr "Afficher l'extrait de message"
+
+#: widgets/class-imagebox.php:170
+msgid "Standard"
+msgstr "Service"
+
+#: widgets/class-hero-main.php:142
+msgid "Start a Consult"
+msgstr "Démarrer une consultation"
+
+#: widgets/class-post-grid.php:135
+msgid "Style"
+msgstr "Stylé"
+
+#: widgets/class-imagebox.php:166
+msgid "Style "
+msgstr "Stylé"
+
+#: widgets/class-doctors-carousel.php:122
+#: widgets/class-doctors-services.php:120
+#: widgets/class-doctors-specialities.php:120 widgets/class-iconbox2.php:158
+#: widgets/class-post-grid.php:140 widgets/class-testimonials.php:132
+msgid "Style 1"
+msgstr "Modèle 1"
+
+#: widgets/class-iconbox2.php:159 widgets/class-post-grid.php:141
+msgid "Style 2"
+msgstr "Modèle 2"
+
+#: widgets/class-doctors-carousel.php:123
+#: widgets/class-doctors-services.php:121
+#: widgets/class-doctors-specialities.php:121
+msgid "Style 2 "
+msgstr "Modèle 2"
+
+#: widgets/class-testimonials.php:133
+msgid "Style 2. "
+msgstr "Modèle 2"
+
+#: widgets/class-doctors-carousel.php:124
+#: widgets/class-doctors-services.php:122
+#: widgets/class-doctors-specialities.php:122 widgets/class-iconbox2.php:160
+#: widgets/class-post-grid.php:142
+msgid "Style 3"
+msgstr "Modèle 3"
+
+#: widgets/class-doctors-carousel.php:125
+#: widgets/class-doctors-services.php:123
+#: widgets/class-doctors-specialities.php:123 widgets/class-post-grid.php:143
+msgid "Style 4"
+msgstr "Modèle 4"
+
+#: widgets/class-post-grid.php:144
+msgid "Style 5"
+msgstr "Modèle 5"
+
+#: widgets/class-doctors-carousel.php:121
+#: widgets/class-doctors-specialities.php:119 widgets/class-post-grid.php:139
+#: widgets/class-testimonials.php:131
+msgid "Style Main"
+msgstr "Style principal"
+
+#: widgets/class-headline.php:140 widgets/class-iconbox.php:155
+msgid "Style Section"
+msgstr "Rubrique Style"
+
+#: widgets/class-hero-main.php:131 widgets/class-hero-one.php:131
+#: widgets/class-hero-two.php:140 widgets/class-home-search-slider.php:131
+msgid "Sub-Title"
+msgstr "Sous-titre"
+
+#: widgets/class-clients.php:140 widgets/class-contact-form.php:130
+#: widgets/class-howworks.php:134 widgets/class-testimonials.php:155
+#: widgets/class-togglehome.php:134
+msgid "Sub-title"
+msgstr "Sous-titre"
+
+#: widgets/class-headline.php:120 widgets/class-tax-gallery.php:247
+msgid "Subtitle"
+msgstr "Sous-titre"
+
+#: widgets/class-tax-gallery.php:147
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: widgets/class-tax-gallery.php:72
+msgid "Taxonomy Gallery"
+msgstr "Galerie de taxonomie"
+
+#: widgets/class-tax-gallery.php:192
+msgid "Terms to display"
+msgstr "Termes à afficher"
+
+#: widgets/class-testimonials.php:157
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: widgets/class-aboutbanner.php:123
+msgid "Text after hover"
+msgstr "Texte après survol"
+
+#: widgets/class-headline.php:165
+msgid "Text align"
+msgstr "Aligner le texte"
+
+#: widgets/class-aboutbanner.php:113 widgets/class-aboutbanner.php:115
+#: widgets/class-clients.php:128 widgets/class-contact-box.php:121
+#: widgets/class-contact-box.php:123 widgets/class-contact-form.php:121
+#: widgets/class-doctors-carousel.php:133
+#: widgets/class-doctors-carousel.php:135
+#: widgets/class-doctors-specialities.php:131
+#: widgets/class-doctors-specialities.php:133 widgets/class-headline.php:112
+#: widgets/class-headline.php:114 widgets/class-hero-main.php:122
+#: widgets/class-hero-one.php:122 widgets/class-hero-two.php:115
+#: widgets/class-home-search-slider.php:122 widgets/class-howworks.php:125
+#: widgets/class-iconbox.php:121 widgets/class-iconbox.php:123
+#: widgets/class-iconbox2.php:121 widgets/class-iconbox2.php:123
+#: widgets/class-iconboxservice.php:121 widgets/class-iconboxservice.php:123
+#: widgets/class-imagebox.php:122 widgets/class-imagebox.php:124
+#: widgets/class-post-grid.php:174 widgets/class-testimonials.php:143
+#: widgets/class-togglehome.php:125
+msgid "Title"
+msgstr "Titre"
+
+#: widgets/class-howworks.php:106 widgets/class-toggle.php:109
+#: widgets/class-togglehome.php:106
+msgid "Toggle"
+msgstr "Basculer"
+
+#: widgets/class-toggle.php:148
+msgid "Toggle #1"
+msgstr "Basculer #1"
+
+#: widgets/class-toggle.php:152
+msgid "Toggle #2"
+msgstr "Basculer #2"
+
+#: widgets/class-howworks.php:196 widgets/class-toggle.php:143
+#: widgets/class-togglehome.php:226
+msgid "Toggle Items"
+msgstr "Basculer les éléments"
+
+#: widgets/class-tax-gallery.php:141
+msgid "Type content description here"
+msgstr "Tapez la description du contenu ici"
+
+#: widgets/class-doctors-carousel.php:611
+msgid "Verified"
+msgstr "Vérifié"
+
+#: widgets/class-accordion.php:164 widgets/class-howworks.php:225
+#: widgets/class-toggle.php:164 widgets/class-togglehome.php:247
+msgid "View"
+msgstr "Voir"
+
+#: widgets/class-doctors-carousel.php:556
+#: widgets/class-doctors-carousel.php:685
+#: widgets/class-doctors-services.php:252
+#: widgets/class-doctors-services.php:377
+#: widgets/class-doctors-specialities.php:405
+#: widgets/class-doctors-specialities.php:531 widgets/class-post-grid.php:712
+#: widgets/class-post-grid.php:718
+msgid "View More"
+msgstr "Voir plus"
+
+#: widgets/class-doctors-carousel.php:419
+msgid "View Profile"
+msgstr "Voir le profil"
+
+#: widgets/class-testimonials.php:145
+msgid "What Our Client Says"
+msgstr "Ce que dit notre client"

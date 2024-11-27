@@ -1,0 +1,1133 @@
+/* Download Style 1 */
+.doccure_download {
+    display: block;
+    background-color: #fff;
+    border: 1px solid var(--thm-border);
+    padding: 40px;
+    text-align: center;
+    transition: .3s;
+    margin-bottom: 30px;
+    color: var(--doccure_terthemecolor);
+    position: relative;
+}
+.doccure_download i {
+    font-size: 60px;
+    color: var(--thm-base);
+    line-height: 1;
+    transition: .3s;
+}
+.doccure_download h5 {
+    margin-bottom: 10px;
+    transition: .3s;
+}
+.doccure_download p {
+    margin: 0;
+    transition: .3s;
+}
+.doccure_download.style-1,
+.doccure_download.style-3{
+  text-align:left;
+}
+.doccure_download.style-1 i,
+.doccure_download.style-3 i{
+  margin-bottom: 20px;
+  display: block;
+}
+.doccure_download.style-1 .doccure_download-body p,
+.doccure_download.style-2 .doccure_download-body p {
+    color: var(--doccure_terthemecolor);
+}
+.doccure_download.style-1 .doccure_download-features,
+.doccure_download.style-3 .doccure_download-features,
+.doccure_download.style-1 .doccure_download-footer,
+.doccure_download.style-3 .doccure_download-footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid var(--thm-border);
+}
+.doccure_download.style-1 .doccure_download-features ul,
+.doccure_download.style-3 .doccure_download-features ul {
+    margin: 0;
+    padding: 0;
+}
+.doccure_download.style-1 .doccure_download-features ul li,
+.doccure_download.style-3 .doccure_download-features ul li {
+    position: relative;
+    color: var(--doccure_terthemecolor);
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+    margin: 0;
+}
+.doccure_download.style-1 .doccure_download-features ul li + li,
+.doccure_download.style-3 .doccure_download-features ul li + li {
+    margin-top: 10px;
+}
+.doccure_download.style-1 .doccure_download-features ul li::before,
+.doccure_download.style-3 .doccure_download-features ul li::before {
+    content: '-';
+    margin-right: 10px;
+    transition: .3s;
+    color: var(--thm-base);
+    display: block;
+}
+.doccure_download:hover {
+    background-color: var(--thm-base);
+    transform: translateY(-3px);
+}
+.doccure_download.style-1:hover *,
+.doccure_download.style-1:hover .doccure_download-features ul li,
+.doccure_download.style-1:hover .doccure_download-features ul li::before,
+.doccure_download.style-1:hover .doccure_download-body p {
+    color: #fff;
+}
+.doccure_download-price-wrapper .edd_price span {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--thm-base);
+}
+.doccure_download-purchase-button {
+    margin-top: 20px;
+}
+.doccure_download.style-1:hover .doccure_download-footer .doccure_btn,
+.doccure_download.style-4:hover .doccure_download-footer .doccure_btn {
+    background: #fff;
+    color: var(--thm-secondary);
+}
+.doccure_download.style-1:hover .doccure_download-footer .doccure_btn::before,
+.doccure_download.style-4:hover .doccure_download-footer .doccure_btn::before{
+    background-color: rgba(0, 0, 0, 0.1);
+}
+.doccure_download.style-1:hover .doccure_download-footer .doccure_btn .edd-add-to-cart-label,
+.doccure_download.style-4:hover .doccure_download-footer .doccure_btn .edd-add-to-cart-label {
+    color: var(--thm-secondary);
+}
+.doccure_download .doccure_download-purchase-button .edd_price_options ul li input {
+    border: 1px solid var(--thm-border);
+    box-shadow: none;
+}
+.doccure_download .doccure_download-purchase-button .edd_price_options ul li label {
+    display: flex;
+    align-items: center;
+}
+
+/* Download Style 2 */
+.doccure_download.style-2 h5{
+  margin-bottom: 10px;
+}
+.doccure_download.style-2:hover h5{
+  color: var(--thm-base);
+}
+.doccure_download.style-2 i{
+  position: absolute;
+  bottom: -30px;
+  right: 30px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--doccure_terthemecolor);
+  background-color: #fff;
+  font-size: 24px;
+  border-radius: 50%;
+  box-shadow: 0 0 40px 5px rgba(0,0,0,.03);
+}
+.doccure_download.style-2:hover i{
+  background-color: var(--thm-base);
+  color: #fff;
+}
+
+.doccure_download.style-2{
+  background-color: transparent;
+  box-shadow: none;
+  text-align: left;
+  padding: 0;
+}
+
+.doccure_download.style-2 .doccure_download-thumb{
+  position: relative;
+  margin: 0;
+  z-index: 1;
+}
+.doccure_download.style-2:hover i,
+.doccure_download.style-2:hover .doccure_download-thumb::before{
+  opacity: 1;
+  visibility: visible;
+}
+.doccure_download.style-2 p{
+  margin: 0;
+}
+.doccure_download.style-2 .doccure_download-body{
+  padding: 30px;
+}
+.doccure_download.style-2 .doccure_download-thumb img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.doccure_download.style-2 .doccure_download-footer {
+    padding: 0 30px 30px;
+}
+
+/* Download Style 3 */
+.doccure_download.style-3{
+  background: var(--thm-secondary);
+}
+.doccure_download.style-3 h5 a{
+  color: #fff;
+}
+.doccure_download.style-3 p,
+.doccure_download.style-3 .doccure_download-footer ul li{
+  color: var(--doccure_terthemecolor);
+}
+.doccure_download.style-3:hover .doccure_download-footer ul li:before{
+  color: #fff;
+}
+.doccure_download.style-3 .doccure_download-features,
+.doccure_download.style-3 .doccure_download-footer{
+  border-color: #ffffff1a;
+}
+
+/* Download Style 4 */
+.doccure_download.style-4 {
+    padding: 0;
+}
+.doccure_download.style-4 .doccure_download-content-wrapper {
+    padding: 40px;
+}
+.doccure_download.style-4 .doccure_download-content-wrapper .doccure_download-thumb {
+    margin-bottom: 40px;
+}
+.doccure_download.style-4 .doccure_download-content-wrapper .doccure_download-body p {
+    color: var(--doccure_terthemecolor);
+}
+.doccure_download.style-4:hover .doccure_download-content-wrapper .doccure_download-thumb i,
+.doccure_download.style-4:hover .doccure_download-content-wrapper .doccure_download-body h5 a,
+.doccure_download.style-4:hover .doccure_download-content-wrapper .doccure_download-body p,
+.doccure_download.style-4:hover .doccure_download-content-wrapper .doccure_download-footer .doccure_download-price-wrapper .edd_price span,
+.doccure_download.style-4:hover .doccure_download-purchase-button .edd_price_options ul li label span {
+    color: #fff;
+}
+.doccure_download.style-4 .doccure_download-footer,
+.doccure_download.style-5 .doccure_download-footer,
+.doccure_download.style-6 .doccure_download-footer,
+.doccure_download.style-8 .doccure_download-footer,
+.doccure_download.style-9 .doccure_download-footer,
+.doccure_download.style-11 .doccure_download-footer,
+.doccure_download.style-13 .doccure_download-footer,
+.doccure_download.style-14 .doccure_download-footer,
+.doccure_download.style-15 .doccure_download-footer,
+.doccure_download.style-16 .doccure_download-footer,
+.doccure_download.style-17 .doccure_download-footer,
+.doccure_download.style-18 .doccure_download-footer {
+    padding-top: 20px;
+}
+
+/* Download Style 5 */
+.doccure_download.style-5{
+  background-color: transparent;
+  box-shadow: none;
+  text-align: left;
+  padding: 0;
+}
+.doccure_download.style-5 .doccure_download-thumb{
+  position: relative;
+  margin: 0;
+  z-index: 1;
+}
+
+.doccure_download.style-5 i{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: #fff;
+  transition: .3s;
+  opacity: 0;
+  visibility: hidden;
+  transform: translate(-50%, -50%);
+}
+
+.doccure_download.style-5 .doccure_download-thumb::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.4);
+  transition: .3s;
+  opacity: 0;
+  visibility: hidden;
+}
+.doccure_download.style-5:hover .doccure_download-thumb::before{
+  opacity: 1;
+  visibility: visible;
+}
+
+.doccure_download.style-5:hover i{
+  opacity: 1;
+  visibility: visible;
+}
+
+.doccure_download.style-5 h5{
+  margin-bottom: 20px;
+}
+
+.doccure_download.style-5 p{
+  margin: 0;
+}
+
+.doccure_download.style-5 .doccure_download-body{
+  padding: 30px;
+}
+.doccure_download.style-5{
+  border: 0;
+}
+.doccure_download.style-5 .doccure_download-body{
+  position: relative;
+  background-color: #fff;
+  box-shadow: 0 0 40px 5px rgba(0,0,0,.03);
+  border: 0;
+}
+.doccure_download.style-5 .doccure_download-body::before{
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 3px;
+  background-color: var(--thm-base);
+  transition: .3s;
+}
+.doccure_download.style-5:hover .doccure_download-body::before{
+  width: 100%;
+}
+.doccure_download.style-5 .doccure_download-body p{
+  color: var(--doccure_terthemecolor);
+}
+
+/* Download Style 6 */
+.doccure_download.style-6 h5,
+.doccure_download.style-7 h5{
+  margin-bottom: 10px;
+}
+.doccure_download.style-6 i.icon-box,
+.doccure_download.style-7 .icon-box{
+  position: absolute;
+  bottom: -30px;
+  right: 30px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--doccure_terthemecolor);
+  background-color: #fff;
+  font-size: 24px;
+  border-radius: 50%;
+  box-shadow: 0 0 40px 5px rgba(0,0,0,.03);
+}
+.doccure_download.style-6,
+.doccure_download.style-7{
+  background-color: transparent;
+  box-shadow: none;
+  text-align: left;
+  padding: 0;
+}
+.doccure_download.style-6 .doccure_download-thumb,
+.doccure_download.style-7 .doccure_download-thumb{
+  position: relative;
+  margin: 0;
+  z-index: 1;
+}
+.doccure_download.style-6 p,
+.doccure_download.style-7 p{
+  margin: 0;
+}
+
+.doccure_download.style-6,
+.doccure_download.style-7{
+  border: 0;
+}
+.doccure_download.style-6,
+.doccure_download.style-7{
+  background-color: #fff;
+  padding: 25px;
+  box-shadow: 0 0 40px 5px rgb(0 0 0 / 3%);
+}
+
+.doccure_download.style-6:before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 126px;
+    width: 4px;
+    height: 68px;
+    background-color: var(--thm-base);
+    transition: 0.3s;
+}
+
+.doccure_download.style-6 .doccure_download-body{
+  padding-top: 25px;
+}
+
+.doccure_download.style-6 .doccure_download-body h5 a,
+.doccure_download.style-7 .doccure_download-body h5 a{
+  color: var(--thm-secondary);
+}
+
+.doccure_download.style-6 .doccure_download-body h5 a:hover,
+.doccure_download.style-7 .doccure_download-body h5 a:hover{
+  color: var(--thm-base-hover);
+}
+
+.doccure_download.style-6 .doccure_download-body .btn-link{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  color: var(--doccure_terthemecolor);
+  text-decoration: none;
+}
+.doccure_download.style-6 .doccure_download-body .btn-link i{
+  color: var(--doccure_terthemecolor);
+}
+
+.doccure_download.style-6 i.icon-box,
+.doccure_download.style-7 .icon-box{
+  border-radius: 0;
+  background-color: var(--thm-base);
+  color: #fff;
+  width: 70px;
+  height: 70px;
+  bottom: auto;
+  top: 30px;
+  right: 0;
+  font-size: 36px;
+}
+
+.doccure_download.style-6 .doccure_download-body .btn-link i{
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.doccure_download.style-6 .doccure_download-body .btn-link:hover i{
+  margin-left: 13px;
+}
+
+.doccure_download.style-6 .doccure_download-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row-reverse;
+}
+.doccure_download.style-6 .doccure_download-footer .doccure_download-purchase-button {
+    margin-top: 0;
+}
+
+/* Download Style 7 */
+.doccure_download.style-7 .doccure_download-body{
+  padding-bottom: 25px;
+}
+
+.doccure_download.style-7 .icon-box{
+  background-color: transparent;
+  border: 1px solid var(--thm-border);
+  margin-bottom: 22px;
+  position: relative;
+  top: 0;
+  right: auto;
+  left: 0;
+  box-shadow: 0 0 16px 0px rgb(0 0 0 / 3%);
+  color: var(--thm-secondary);
+}
+
+.doccure_download.style-7 .icon-box span{
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  border-radius: 50%;
+  background-color: var(--thm-base);
+  width: 25px;
+  height: 25px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.doccure_download.style-7 .doccure_download-footer {
+  margin-bottom: 25px;
+}
+
+/* Download Style 8 */
+.doccure_download.style-8 h5{
+  margin-bottom: 10px;
+}
+.doccure_download.style-8 .icon-box{
+  position: absolute;
+  bottom: -30px;
+  right: 30px;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--doccure_terthemecolor);
+  background-color: #fff;
+  font-size: 24px;
+  border-radius: 50%;
+  box-shadow: 0 0 40px 5px rgba(0,0,0,.03);
+}
+.doccure_download.style-8{
+  background-color: transparent;
+  box-shadow: none;
+  text-align: left;
+  padding: 0;
+}
+.doccure_download.style-8 .doccure_download-thumb{
+  position: relative;
+  margin: 0;
+  z-index: 1;
+}
+.doccure_download.style-8 .doccure_download-thumb img,
+.doccure_download.style-6 .doccure_download-thumb img,
+.doccure_download.style-5 .doccure_download-thumb img,
+.doccure_download.style-4 .doccure_download_thumbnail img,
+.doccure_download.style-7 .doccure_download-thumb img{
+  width: 100%;
+}
+.doccure_download.style-8 p{
+  margin: 0;
+}
+
+.doccure_download.style-8{
+  border: 0;
+}
+.doccure_download.style-8 .doccure_download-body h5 a{
+  color: var(--thm-secondary);
+}
+.doccure_download.style-8 .doccure_download-body h5 a:hover{
+  color: var(--thm-base-hover);
+}
+.doccure_download.style-8 .icon-box{
+  border-radius: 0;
+  background-color: var(--thm-base);
+  color: #fff;
+  width: 70px;
+  height: 70px;
+  bottom: auto;
+  top: 30px;
+  right: 0;
+  font-size: 36px;
+}
+.doccure_download.style-8{
+  background-color: #fff;
+  box-shadow: 0 0 40px 5px rgb(0 0 0 / 8%);
+}
+
+.doccure_download.style-8 .doccure_download-body{
+  padding: 60px 30px 30px;
+}
+
+.doccure_download.style-8 .icon-box{
+  bottom: -30px;
+  top: auto;
+  right: auto;
+  left: 30px;
+  font-weight: 600;
+}
+
+/* Download Style 9 */
+.doccure_download.style-9{
+  text-align: left;
+}
+.doccure_download.style-9 i{
+  margin-bottom: 20px;
+  display: block;
+}
+.doccure_download.style-9.dark{
+  background-color: var(--thm-secondary);
+  border-color: rgba(255,255,255,.1);
+}
+.doccure_download.style-9.dark i{
+  color: var(--thm-base);
+}
+.doccure_download.style-9.dark h5{
+  color: #fff;
+}
+.doccure_download.style-9.dark *{
+  color: var(--doccure_terthemecolor);
+}
+.doccure_download.style-9 .doccure_download-body h5 a:hover{
+  color: var(--thm-base-hover);
+}
+
+.doccure_download.style-9{
+  border: 0;
+}
+.doccure_download.style-9:before{
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 3px;
+  height: 0;
+  background-color: var(--thm-base);
+  transition: 0.3s;
+}
+.doccure_download.style-9:hover:before{
+  height: 100%;
+}
+.doccure_download.style-9.dark span.count{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 75px;
+    display: block;
+    line-height: 1;
+    font-weight: 600;
+    color: rgb(79 77 77 / 85%);
+}
+.doccure_download.style-9 .doccure_download-body h5 a{
+  color: #fff;
+}
+.doccure_download.style-9 .doccure_download-footer .doccure_download-price-wrapper .edd_price span {
+    color: var(--thm-base);
+}
+.doccure_download.style-9 .doccure_download-footer .doccure_download-purchase-button .edd-add-to-cart span,
+.doccure_download.style-9 .doccure_download-footer .doccure_download-purchase-button .edd_go_to_checkout{
+  color: #fff;
+}
+
+/* Style 10 */
+.doccure_download.style-10 {
+  padding: 0;
+  border: 2px solid var(--thm-border);
+}
+.doccure_download.style-10 .doccure_download-body {
+  padding: 30px;
+}
+.doccure_download.style-10:hover {
+    box-shadow: 0 0 20px 18px rgb(0 0 0 / 3%);
+    transform: none;
+    background: #fff;
+}
+.doccure_download.style-10 .doccure_download-body h5 a{
+  position:relative;
+}
+.doccure_download.style-10 .doccure_download-body h5 a:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--thm-secondary);
+    transition: 0.3s;
+}
+.doccure_download.style-10 .doccure_download-body h5 a:hover:before {
+    width: 100%;
+}
+.doccure_download.style-10 .doccure_download-body h5 a:hover{
+  color: var(--thm-secondary);
+}
+.doccure_download.style-10 .doccure_download-body .doccure_download-footer {
+    padding-top: 20px;
+}
+.doccure_download.style-10 .doccure_download-purchase-button .edd_price_options ul li label,
+.doccure_download.style-13 .doccure_download-purchase-button .edd_price_options ul li label,
+.doccure_download.style-19 .doccure_download-purchase-button .edd_price_options ul li label,
+.doccure_download.style-4 .doccure_download-purchase-button .edd_price_options ul li label{
+  justify-content: center;
+}
+
+/* Download Style 11 */
+.doccure_download.style-11 {
+  padding: 60px;
+  background-color: #fff;
+  max-width: 100%;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  border: 0;
+  box-shadow: 0 0 10px 10px rgb(0 0 0 / 3%);
+}
+.doccure_download.style-11 .doccure_download-thumb {
+    margin-bottom: 0;
+    margin-right: 26px;
+    text-align: center;
+}
+.doccure_download.style-11 .doccure_download-thumb i {
+    font-size: 46px;
+}
+.doccure_download.style-11 .doccure_download-body .number,
+.doccure_download.style-12 .doccure_download-body .number{
+    display: block;
+    -webkit-text-stroke: 1px var(--thm-base);
+    -webkit-text-fill-color: transparent;
+    font-size: 64px;
+    font-weight: 400;
+    margin-bottom: 15px;
+    line-height: 1;
+}
+
+/* Download Style 12 */
+.doccure_download.style-12 {
+    border: 0;
+    text-align: left;
+}
+.doccure_download.style-12 .doccure_download-body {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.doccure_download.style-12 .doccure_download-body .number {
+    font-size: 70px;
+}
+.doccure_download.style-12 .doccure_download-body i {
+    font-size: 36px;
+    margin-bottom: 0;
+    color: var(--doccure_terthemecolor);
+    opacity: 0.1;
+    display: block;
+}
+.doccure_download.style-12 .doccure_download-content,
+.doccure_download.style-12 .doccure_download-footer {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid var(--thm-border);
+    border-color: rgba(var(--thm-border-rgb), 0.3);
+}
+.doccure_download.style-12:hover,
+.doccure_download.style-13:hover {
+    background: #fff;
+    transform: none;
+}
+
+/* Download Style 13 */
+.doccure_download.style-13 {
+    border: 0;
+    padding: 40px 20px;
+}
+.doccure_download.style-13 .doccure_download-thumb {
+    margin-bottom: 40px;
+}
+.doccure_download.style-13:hover,
+.doccure_download.style-14:hover{
+    box-shadow: 0 0 10px 10px rgb(0 0 0 / 3%);
+    background-color: #fff;
+    transform: none;
+}
+
+/* Download Style 14 */
+.doccure_download.style-14 {
+    overflow: hidden;
+    text-align: left;
+}
+.doccure_download.style-14 .number {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1;
+    background-color: var(--thm-base-hue);
+    color: var(--thm-base);
+    width: 80px;
+    height: 80px;
+    border-bottom-left-radius: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Download Style 15 */
+.doccure_download.style-15 {
+    text-align: left;
+    padding: 30px 20px;
+    margin-bottom: 65px;
+}
+.doccure_download.style-15 .doccure_download-thumb {
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px 6px rgb(0 0 0 / 3%);
+    margin: -70px 0 26px;
+    background-color: #fff;
+}
+.doccure_download.style-15 .doccure_download-thumb i{
+  font-size: 44px;
+  color: var(--thm-secondary);
+}
+.doccure_download.style-15:hover {
+    background: #fff;
+    transform: none;
+}
+
+/* Download Style 16 */
+.doccure_download.style-16,
+.doccure_download.style-17 {
+    padding: 0;
+    border: 0;
+    display: flex;
+    margin-bottom: 30px;
+}
+.doccure_download.style-16 .doccure_download-thumb,
+.doccure_download.style-17 .doccure_download-thumb {
+    margin: 0 20px 0 0;
+}
+.doccure_download.style-16 .doccure_download-body,
+.doccure_download.style-17 .doccure_download-body {
+    flex: 1;
+    text-align: left;
+}
+.doccure_download.style-16 .doccure_download-thumb,
+.doccure_download.style-17 .doccure_download-thumb {
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 10px 6px rgb(0 0 0 / 3%);
+    background-color: #fff;
+}
+.doccure_download.style-16 .doccure_download-thumb i,
+.doccure_download.style-17 .doccure_download-thumb i {
+    font-size: 44px;
+    color: var(--thm-secondary);
+}
+.doccure_download.style-16:hover,
+.doccure_download.style-17:hover{
+  background: none;
+  box-shadow: none;
+  transform: none;
+}
+.doccure_download.style-17 .doccure_download-thumb{
+  box-shadow: none;
+}
+.doccure_download.style-17 {
+    background-color: #fff;
+    padding: 30px 20px;
+    border-radius: 6px;
+}
+
+/* Download Style 18 */
+
+.doccure_download.style-18 {
+  background-color: transparent;
+  text-align: left;
+  padding: 0;
+  border: 0;
+}
+.doccure_download.style-18 .doccure_download-body {
+    padding-top: 20px;
+}
+.doccure_download.style-18 .doccure_download-body .doccure_download-categories a {
+    color: var(--doccure_terthemecolor);
+    display: block;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.doccure_download.style-18 .doccure_download-body .doccure_download-categories a:hover{
+  color: var(--thm-base-hover);
+}
+.doccure_download.style-18 .doccure_download-body p {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid var(--thm-border);
+}
+.doccure_download.style-18:hover{
+  transform: none;
+}
+.doccure_download.style-18 .doccure_download-thumb{
+  overflow: hidden;
+  display: block;
+}
+.doccure_download.style-18 .doccure_download-thumb img{
+  transition: 0.3s;
+}
+.doccure_download.style-18 .doccure_download-thumb:hover img{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+
+/* Download Style 19 */
+.doccure_download.style-19 {
+  background-color: #fff;
+  text-align: center;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  box-shadow: 0 0 40px 5px rgb(0 0 0 / 3%);
+}
+.doccure_download.style-19 .doccure_download-thumb {
+    margin-bottom: 0;
+    position: relative;
+    overflow: hidden;
+    display: block;
+}
+.doccure_download.style-19 .doccure_download-thumb img {
+    transition: 0.3s;
+}
+.doccure_download.style-19 .doccure_download-body {
+    padding: 80px 30px 25px;
+    position: relative;
+}
+.doccure_download.style-19 .doccure_download-footer {
+    padding: 15px;
+    border-top: 1px solid rgba(var(--thm-border-rgb), 0.2);
+}
+.doccure_download.style-19 .doccure_download-body .doccure_download-icon {
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 5px rgb(0 0 0 / 3%);
+    margin: -50px auto 0;
+    color: var(--thm-base);
+    position: absolute;
+    left: 50%;
+    top: -6px;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.doccure_download.style-19 .doccure_download-body .doccure_download-icon:after {
+    content: "";
+    width: calc(100% + 40px);
+    height: calc(100% + 40px);
+    border: 3px solid var(--thm-base);
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+}
+.doccure_download.style-19:hover .doccure_download-body .doccure_download-icon:after {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Widgets CSS */
+.widget.widget_edd_categories_tags_widget ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li {
+  display: flex;
+  align-items: center;
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li a.edd-remove-from-cart {
+    margin-right: 15px;
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li .cart-item-body{
+  flex: 1;
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li .cart-item-body .edd-cart-item-title {
+  display: block;
+  color: var(--thm-secondary);
+  font-weight: 600;
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-family: var(--thm-font);
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li .cart-item-body .edd-cart-item-price {
+    font-weight: 600;
+    font-size: 14px;
+    color: var(--doccure_terthemecolor);
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget .edd-cart-number-of-items {
+    margin-bottom: 5px;
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li.cart_item.edd-cart-meta {
+    background: transparent;
+    border: 0;
+    color: var(--thm-secondary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li.cart_item.edd_checkout .doccure_btn {
+    padding: 12px 20px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #fff;
+}
+.widget-area.sidebar .widget.widget_edd_cart_widget li.cart_item.empty {
+    padding: 0;
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_categories_tags_widget ul>li a {
+    padding-left: 0;
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_categories_tags_widget ul>li {
+    background: var(--thm-tertiary);
+    padding: 0 15px;
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_categories_tags_widget ul>li a:hover {
+    padding-left: 6px;
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_cart_widget li a.edd-remove-from-cart {
+    padding: 0;
+    justify-content: center;
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_cart_widget ul li.cart_item.edd_checkout {
+    border-top: 1px solid var(--thm-border);
+    margin-top: 15px;
+    padding-top: 15px;
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_cart_widget ul li.cart_item.edd_checkout .doccure_btn {
+    background: var(--thm-base);
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_cart_widget ul li.cart_item.edd_checkout .doccure_btn::before {
+    display: flex;
+}
+.doccure_widget-style-7 .widget-area.sidebar .widget.widget_edd_cart_widget .edd-cart-number-of-items{
+  margin-bottom: 15px;
+}
+.doccure_widget-style-8 .widget.widget_edd_categories_tags_widget ul li>a:before,
+.doccure_widget-style-9 .widget.widget_edd_categories_tags_widget ul li>a:before{
+  display: none;
+}
+
+
+/* Download Details */
+.download-detail-thumbnail img {
+    width: 100%;
+}
+.download-detail-thumbnail {
+    margin-bottom: 20px;
+}
+.download-content-wrapper {
+    margin-bottom: 30px;
+}
+.single-download .download-content-wrapper .edd_download_purchase_form {
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.edd-submit.button.blue,
+.edd-submit.button.blue:hover,
+.edd-submit.button.blue.active,
+.edd-submit.button.blue:focus {
+    background: var(--thm-base);
+    border-color: var(--thm-base);
+    outline-color: var(--thm-base);
+}
+#edd_checkout_cart td,
+#edd_checkout_cart th{
+  padding: 1.387em;
+  color: var(--thm-secondary);
+}
+#edd_checkout_form_wrap .edd-payment-icons{
+  margin-bottom: 15px;
+}
+#edd_checkout_form_wrap #edd-payment-mode-wrap label {
+    display: inline-flex;
+    align-items: center;
+    font-weight: 500;
+}
+#edd_checkout_form_wrap input[type=radio]:checked {
+    border-color: var(--thm-base);
+}
+#edd_checkout_form_wrap input[type=radio] {
+    border: none;
+    margin-right: 5px;
+    border: 1px solid var(--thm-border);
+}
+#edd-purchase-button, [type=submit].edd-submit {
+    display: inline-block;
+    font-weight: 700;
+    background-color: var(--thm-base);
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 17px 30px;
+    font-size: 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    -webkit-transition: all 0.4s ease-out 0s;
+    transition: all 0.4s ease-out 0s;
+    text-transform: uppercase;
+    border: none;
+}
+#edd-purchase-button:hover, [type=submit].edd-submit:hover{
+  background-color: var(--thm-base-hover);
+}
+#edd_checkout_form_wrap fieldset,
+#edd_checkout_form_wrap label{
+  color: var(--thm-secondary);
+}
+#edd_checkout_form_wrap label{
+  margin: 0 0 10px;
+}
+#edd_checkout_form_wrap input[type=email],
+#edd_checkout_form_wrap input[type=password],
+#edd_checkout_form_wrap input[type=tel],
+#edd_checkout_form_wrap input[type=text],
+#edd_checkout_form_wrap textarea{
+  padding: 14px 20px;
+}
+table#edd_purchase_receipt_products li.edd_download_file{
+  margin-left: 0;
+}
+.edd_download_file a {
+  background-color: var(--thm-base);
+  cursor: pointer;
+  -webkit-transition: all 0.4s ease-out 0s;
+  transition: all 0.4s ease-out 0s;
+  text-transform: uppercase;
+  letter-spacing: normal;
+  display: inline-block;
+  line-height: 1.8;
+  border: 0;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 12px 20px;
+  overflow: hidden;
+  z-index: 1;
+  box-shadow: 0 3px 24px rgb(0 0 0 / 10%);
+}
+body.btn-rounded .edd_download_file a{
+  border-radius: 6px;
+}
+body.btn-pill .edd_download_file a{
+  border-radius: 30px;
+}
+.edd_download_file a:hover{
+  background: var(--thm-base-hover);
+}
+.single-download .download-content-wrapper .edd_download_purchase_form .edd_price_options li label,
+.edd_download_purchase_form .edd_price_options li label {
+    display: flex;
+    align-items: center;
+}
+.widget-area.sidebar .widget.widget_edd_product_details .edd-meta {
+    margin-bottom: 0;
+}
+.widget-area.sidebar .widget.widget_edd_product_details h3 {
+    font-size: 22px;
+}
+.widget-area.sidebar .widget.widget_edd_product_details .edd_download_purchase_form .edd-add-to-cart,
+.widget-area.sidebar .widget.widget_edd_product_details .edd_download_purchase_form .edd_go_to_checkout {
+    padding: 12px 20px;
+    margin-bottom: 15px;
+}

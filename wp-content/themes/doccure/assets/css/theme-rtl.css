@@ -1,0 +1,980 @@
+body.rtl {
+	text-align: right;
+}
+
+body.rtl .gtranslate_wrapper .gt_switcher .gt_selected a:after {
+      left: 5px;
+	  right: auto;
+}
+body.rtl  .banner-img .banner-img3 {
+     left: -50px;
+    right: auto;
+}
+ 
+body.rtl .banner-arrow-img img {
+ 
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+body.rtl .vc_icon_element.vc_icon_element-outer.vc_icon_element-align-left {
+    text-align: right;
+}
+
+body.rtl  div#lang-widget-area {
+    margin-right: 0px;
+    margin-left: 30px;
+}
+body.rtl .doccure_header .navbar-nav li:first-child>a {
+    padding-left: 20px;
+}
+body.rtl .doccure_header .navbar-nav > li:first-child>a {
+    padding-right:0;
+}
+body.rtl  .sticky-queue i {
+     margin-right: 0;
+     margin-left: 15px;
+}
+body.rtl .dc-doclocation span i {
+    display: inline-flex;
+}
+body.rtl  .dc-docsingle-holder .dc-feedback .dc-consultation-content .dc-consultation-title+.dc-description {
+     margin-left: 0;
+ }
+
+ body.rtl .testimonial-slider .slick-next:before {
+    transform: rotate(-180deg);
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-180deg);
+}
+body.rtl  .clinic-services span + span {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+body.rtl  .dc-disabled .dc-searchvlistvtwo .dc-docpostholder .dc-doclocation {
+
+}
+body.rtl .full-stars {
+    position: absolute;
+    right: 0;
+    left: a;
+}
+body.rtl .doccure_post .doccure_post-meta span {
+    padding-left: 7px !important;
+    margin-left: 7px !important;
+}
+body.rtl .doccure_post .doccure_post-meta span:last-child {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+
+body.rtl  .accordion .card-header:after {
+    float: left;
+}
+
+body.rtl  .accordion .card-header[aria-expanded="true"]:after { 
+       float: left; 
+	top: 10px;
+}
+
+body.rtl .page-template-homepagefour .features-clinic-slider-four .slick-prev {
+    left: auto;
+    right: 0;
+    margin-top: 30px;
+    transform: rotate(-180deg);
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-138deg);
+}
+body.rtl .page-template-homepagefour .features-clinic-slider-four .slick-next {
+    right: 55px;
+    margin-top: 30px;
+    left: auto;
+    transform: rotate(-180deg);
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-138deg);
+}
+
+body.rtl .doccure_post.style-7 .doccure_post-meta span:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+    height: 12px;
+    background-color: var(--thm-border);
+}
+body.rtl .doccure_post.style-7 .doccure_post-meta span:last-child:before {
+     display: none;
+}
+
+body.rtl .fa-chevron-right, body.rtl .fa-chevron-left, 
+body.rtl .nav-links .page-numbers.next:before,
+body.rtl .nav-links .page-numbers.prev:before{
+    transform: rotate(-180deg);
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-180deg);
+}
+body.rtl .testimonial-slider .slick-prev:before {
+    transform: rotate(-180deg);
+    -webkit-transform: rotate(-180deg);
+    -ms-transform: rotate(-180deg);
+}
+ body.rtl .custom-arrow {
+    transform: rotate(-138deg);
+    -webkit-transform: rotate(-138deg);
+    -ms-transform: rotate(-138deg);
+}
+
+
+body.rtl .doc-info-right span i {
+    padding-right: 0;
+    padding-left: 10px;
+    display: inline-flex;
+}
+
+body.rtl  .doccure_aside .navbar-nav li.menu-item-has-children>a:after {
+    left: 20px;
+	right: auto;
+}
+
+body.rtl  .doccure_aside .doccure_close {
+     right: auto;
+     left: 0;
+}
+
+body.rtl .footer-bottom ul.menu {
+    text-align: left;
+}
+body.rtl .gtranslate_wrapper .gt_switcher {
+ text-align: right;
+}
+
+body.rtl .doccure_header .nav-item.dropdown a span::after {
+	margin-left: 0;
+	margin-right: 10px;
+}
+body.rtl .dc-select:after { 
+	right: 0;
+    left: 15px;
+	text-align: left;
+}
+
+body.rtl.page-template-homepagetwo .appointment-info-holder p {
+	margin-right: 0.5rem!important;
+	margin-left: 0!important;
+}
+body.rtl .appointment-info-holder h2 {
+    margin-left: 0;
+    margin-top: -50px;
+    margin-right: 120px;
+}
+body.rtl.page-template-homepagetwo .appoinment-box .appoinment-location {
+      padding-right: 0;
+    padding-left: 15px;
+}
+body.rtl .page-template-homepagetwo .appoinment-box .appoinment-location {
+	padding-right: 0;
+  padding-left: 15px;
+}
+body.rtl .request_appoinment .request_appoinment_img {
+    margin-left: 1.5rem;
+	margin-right: 0;
+}
+
+body.rtl .page-template-homepagetwo .appointment-info-holder p {
+	margin-right:0;
+    margin-left: 1.5rem;
+}
+body.rtl .elementor-widget-wrap .appointment-info-holder h2 {
+    margin-left: 0;
+    margin-top: 0;
+	margin-right:0;
+    margin-left: 120px;
+}
+
+body.rtl.page-template-homepagefour ul.doccure_header-top-nav.social-info li{
+	padding: 0;
+}
+body.rtl.page-template-homepagefour ul.doccure_header-top-nav.social-info li:first-child{
+    margin-left: 15px;
+	border: none;
+}
+body.rtl.page-template-homepagefour ul.doccure_header-top-nav.social-info li:last-child{
+    margin-left: 0!important;
+}
+body.rtl.page-template-homepagefour ul.doccure_header-top-nav li {
+	padding-left: 20px;
+    margin-left: 20px;
+	padding-right: 0;
+    margin-right: 0;
+}
+body.rtl .doccure_header-top-contacts.style-2 .doccure_header-top-nav li a i {
+    margin-right: 0;
+	margin-left: 10px;
+}
+
+body.rtl.page-template-homepagefour ul.doccure_header-top-nav li:first-child {
+	border-left: 1px solid #fff;
+	border-right: none;
+}
+
+body.rtl.page-template-homepagethree .looking-grid {
+	margin-left: 24px;
+    margin-right: 0;
+}
+body.rtl .page-template-homepagethree .looking-grid {
+	margin-left: 24px;
+    margin-right: 0;
+}
+body.rtl.page-template-homepagefour .latest-news .blog-date-four {
+     right: 15px;
+      left: auto;
+}
+body.rtl .page-template-homepagefour .latest-news .blog-date-four { 
+	right: 15px;
+	left: auto;
+}
+body.rtl .latest-news article .homeblog_content_block .homeblog_date {
+      left: 120px;
+    right: auto;
+}
+body.rtl.page-template-homepagefour .latest-news .blog-doctors-four img {
+	margin-right: 0!important;
+    margin-left: 0.5rem!important;
+}
+
+body.rtl .page-template-homepagefour .latest-news .blog-doctors-four img {
+	margin-right: 0!important;
+    margin-left: 0.5rem!important;
+}
+
+body.rtl .text-end {
+    text-align: left!important;
+}
+
+body.rtl.page-template-homepagefive .looking-grid-five {
+    margin-right: 0;
+     margin-left: 23px;
+}
+
+body.rtl.page-template-homepagefive .looking-grid-five .vc_icon_element-icon {
+	right: 80px !important;
+}
+
+body.rtl.page-template-homepagefive .specialist-img-five { 
+	margin-left: 15px;
+	margin-right: 0;
+}
+body.rtl.page-template-homepagefive .ms-auto {
+	margin-left: 0!important;
+    margin-right: auto!important;
+}
+body.rtl.page-template-homepagefive .specialist-nav-five a {
+	right: 10px;
+    left: 0;
+}
+
+body.rtl.page-template-homepagefive .latest-news article .blog-doctors-profile span.author {
+	border-radius: 0 50px 50px 0;
+    left: -95px;
+	right: auto;
+	padding-right: 6px;
+	padding-left: 0;
+}
+body.rtl.page-template-homepagefive .latest-news article:hover .blog-doctors-profile span.author {
+    left: 0px;
+}
+
+body.rtl.page-template-homepagefive .latest-news article .blog-item-info {
+     right: 20px;
+	 left: auto;
+}
+body.rtl.page-template-homepagefive .latest-news article .blog-news-date {
+    float: right;
+}
+body.rtl.page-template-homepagefive .latest-news article:hover .blog-doctors-profile span.author a {
+    margin-left: 0!important;
+	margin-right: 0.5rem!important;
+}
+
+body.rtl .owl-carousel .owl-item {
+    min-height: 1px;
+    float: right;
+}
+body.rtl .homemain_clinic #sample_slider {
+    direction: ltr;
+}
+
+body.rtl .page-template-homepagefour .looking-grid-four:hover .looking-box-four .looking-inner-box .looking-four-btn a i {
+     left: -10px;
+}
+
+body.rtl  .work-info .work-icon {
+    margin-left: 20px;
+	margin-right: 0;
+}
+body.rtl .articles-info .articles-left {
+    margin-right: 0;
+	margin-left: 20px;
+}
+
+body.rtl .articles-content .articles-list {
+    margin-bottom: 10px;
+    padding: 0;
+}
+body.rtl .articles-content .articles-list li {
+    margin-left: 15px;
+	margin-right: 0;
+}
+body.rtl .articles-content .articles-list li:last-child {
+    margin-left: 0;
+	margin-right: 0;
+}
+
+body.rtl .testimonial-img {
+     margin-right: 0;
+	 margin-left: 50px;
+    
+}
+body.rtl .testimonial-slider .slick-next {
+    left: 0;
+	right: auto;
+}
+body.rtl .reviews-ratings span {
+    margin: 0 0 0 4px;
+ }
+ body.rtl .reviews-ratings span i {
+    margin-right: 0;
+	margin-left: 6px;
+}
+
+body.rtl .doccure_header .dropdown-menu-end {
+    right: auto;
+    left: 0;
+}
+
+body.rtl .doccure_header .dropdown-menu-end.showdropdown::before {
+	right: auto;
+    left: 35px;
+
+}
+body.rtl .user-header .user-text {
+    margin-left: 0;
+    margin-right: 10px;
+}
+
+body.rtl  .circle-bar {
+    margin-right: 0;
+	margin-left: 15px;
+}
+
+body.rtl .patient_img {
+    width: 40px;
+    height: auto;
+    margin-left: 0.5rem;
+	margin-right: 0;
+}
+
+body.rtl  .appointment-list .profile-info-widget {
+	margin-left: auto;
+	margin-right: 0;
+}
+
+body.rtl  .dc-clinics-title {
+    float: right;
+    width: auto;
+}
+
+body.rtl  .appointment-list .profile-info-widget img {
+    margin-left: 15px;
+	margin-right: 0;
+}
+
+body.rtl  .emojionearea .emojionearea-button {
+    left: 15px !important;
+    top: 14px !important;
+	right: auto !important;
+}
+
+body.rtl  .emojionearea .emojionearea-picker.emojionearea-picker-position-top {
+     left: -14px;
+	 right: auto !important;
+}
+body.rtl .dc-attachfilevtwo li{
+	float: right;
+}
+body.rtl .dc-formprojectinfo .dc-attachfilevtwo span {
+    padding-right: 0;
+	padding-left: 30px;
+    word-break: break-all;
+}
+body.rtl .dc-btnarea {
+	float: right;
+}
+body.rtl .dc-form-advancedsearch .dc-btnarea {
+	float: right;
+    width: 100%;
+    text-align: center;
+}
+
+body.rtl   .footer-bottom ul.menu li {
+     margin-right: 0;
+     margin-left: 15px;
+}
+
+body.rtl  .dc-doc-specilities-tag {
+    display: flex;
+ }
+
+ body.rtl .dc-doc-specilities-tag>a+a {
+    padding-left: 5px;
+    padding-right: 0;
+    margin-right: 5px;
+}
+body.rtl  .dc-doc-specilities-tag>a:after {
+     left: auto;
+     right: -4px;
+ }
+body.rtl .dc-pagination ul li.dc-nextpage {
+     margin-left: 0;
+     margin-right: 3px;
+}
+body.rtl .dc-pagination ul li.dc-prevpage {
+     margin-left: 3px;
+     margin-right: 0;
+ }
+
+ body.rtl .footer-bottom ul li a:hover {
+    padding-right: 20px;
+    padding-left: 0;
+ }
+
+body.rtl  .footer-bottom ul.menu li:last-child {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+body.rtl  .dc-accordioninnertitle .dc-rightarea a {
+     margin-left: 0;
+}
+
+body.rtl  .dc-radio, body.rtl .dc-radio label, body.rtl .dc-checkbox, body.rtl .dc-checkbox label {
+     float: right;
+}
+
+body.rtl .dc-docpostholder {
+    float: right;
+}
+body.rtl .doctor-img {
+    margin-right: 0;
+	margin-left: 20px;
+ }
+
+ body.rtl .dc-docsingle-content .dc-title h2 a {
+    float: right;
+ }
+ body.rtl .dc-docsingle-content .dc-title h2>a {
+    margin-left: 10px;
+	margin-right: 0;
+}
+body.rtl .dc-docpostcontent .dc-title h3 a {
+    float: right;
+}
+body.rtl .dc-docpostcontent .dc-title h3 i:nth-child(2) {
+    margin-left: 0;
+	margin-right: 8px;
+}
+
+body.rtl .blog_sidebar .recent-post-image {
+    margin-right: 0;
+	margin-left: 15px;
+}
+
+body.rtl.doccure_widget-style-9 .widget-area.sidebar .widget.widget_block .wp-block-search .wp-block-search__inside-wrapper button.wp-block-search__button {
+    left: 0;
+    right: auto;
+}
+
+
+body.rtl .doccure_post .doccure_post-body .btn-link i {
+    margin-left: 0;
+	margin-right: 5px;
+    margin-top: 3px;
+}
+
+body.rtl .about_testimonial .testmoinal_img {
+    margin-right: 0;
+    margin-left: 10px; 
+}
+body.rtl  .servicepage_testimonial span.fas.fa-quote-left {
+    margin-right: 0;
+	margin-left: 20px;
+}
+body.rtl .servicepage_testimonial .servicepage_testimonial_image {
+	margin-right: 0;
+	margin-left: 30px;
+}
+body.rtl .tabs_accordionblock .vc_toggle .vc_toggle_title:after {
+	left: 30px;
+	right: auto;
+}
+body.rtl .tabs_accordionblock .vc_tta-panels-container {
+    padding-right: 15px;
+	padding-left: 0;
+}
+
+body.rtl .tabs_accordionblock .vc_tta-tabs-container .vc_tta-tabs-list li a i:before {
+     left: 15px;
+	right: auto;
+}
+body.rtl .custom-contact-form-style .wpcf7-spinner {
+	position: absolute;
+}
+body.rtl .dc-specializationslist li {
+    float: right;
+	padding-left: 0;
+	padding-right: 20px;
+}
+body.rtl  .dc-specializationslist li:before {
+	right: 0;
+	left: auto;
+}
+body.rtl  .dc-tabbtns .dc-radio+.dc-radio {
+    margin-right: 10px;
+	margin-left: 10px;
+}
+body.rtl  .doccure_subheader.text-left .doccure_subheader-inner {
+     text-align: right;
+}
+body.rtl .dc-expandedu {
+	float: right;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+body.rtl .dc-expandedu li:before { 
+	left: auto;
+	right: 0;
+}
+
+body.rtl .homepage_footer .footer-top p i {
+    margin-right: 0;
+	margin-left: 10px;
+}
+body.rtl  .widget.widget_pages ul li > a::before, 
+body.rtl .widget.widget_nav_menu ul li > a::before, 
+body.rtl .widget.widget_categories ul li>a:before, 
+body.rtl .widget.widget_meta ul li>a:before, 
+body.rtl .widget.widget_recent_entries ul li:before, 
+body.rtl .widget.widget_recent_comments ul li:before, 
+body.rtl .widget.widget_edd_categories_tags_widget ul li>a:before, 
+body.rtl .widget.widget_archive ul li a:before, 
+body.rtl ul.wp-block-archives li>a:before {
+    padding-right: 0;
+	padding-left: 8px;
+}
+
+body.rtl .homepage_footer .social-icon ul li:first-child{
+    margin-right: 0;
+}
+
+body.rtl.page-template-homepagefive .latest-news article .blog-news-date span.posted-on i {
+     margin-right: 0;
+	 margin-left: 5px;
+}
+
+body.rtl .page-template-homepagefive .latest-news article .blog-news-date span.posted-on i {
+	margin-right: 0;
+	margin-left: 5px;
+}
+body.rtl .accordion .card-header.collapsed:after {
+	left: 1.25rem;
+     right: auto;
+}
+
+body.rtl .comment-list li.comment .comment-body .comment-content .reply a { 
+	left: 0;
+	right: auto;
+}
+body.rtl .comment-list li.comment .comment-body .comment-avatar img {
+     margin-left: 20px;
+	margin-right: 0;
+ }
+
+ body.rtl .post-details-box .doccure_post-details-inner .doccure_post-details-meta span i {
+    margin-right: 0;
+	margin-left: 5px;
+ }
+ body.rtl .post-details-box.style-4 .doccure_post-details-inner .doccure_post-details-meta span+span {
+    padding-right: 30px;
+	padding-left: 0;
+ }
+ body.rtl .post-details-box.style-4 .doccure_post-details-inner .doccure_post-details-meta span+span:before {
+    left:auto;
+    right: 0;
+ }
+
+ body.rtl  .post-details-box .doccure_post-details-inner .doccure_post-details-meta span:first-child {
+	margin-right: 0;
+ }
+
+ body.rtl  .doccure_header .navbar-nav li:last-child>a {
+    padding-right: 20px;
+}
+@media (min-width: 992px) {
+body.rtl  .doccure_header .navbar-nav li .sub-menu li:last-child>a {
+    padding-right: 15px;
+}
+}
+body.rtl .dc-navdashboard ul li a i,  body.rtl .dc-navdashboard ul li a span {
+    float: right;
+ }
+ body.rtl .dc-navdashboard ul li a span {
+    text-align: right;
+}
+body.rtl .dc-navdashboard ul li a i {
+    margin-left: 10px;
+    margin-right: 0;
+}
+body.rtl a {
+     text-decoration: none;
+}
+body.rtl .form-search-btn {
+    float: left;
+ }
+ 
+ body.rtl .main_manner .search-input {
+    float: right;
+}
+body.rtl .doc-pro-location p i {
+    margin-right: 0;
+    margin-left: 8px;
+ }
+
+ body.rtl .search-input i.feather-search.bficon {
+    right: auto;
+    left: 0;
+}
+body.rtl  .patient-details h5 i {
+     padding-right: 0;
+    padding-left: 5px;
+    float: right;
+    position: relative;
+}
+
+body.rtl  .dc-recent-content i.fa-eye {
+    margin-right: 0;
+    margin-left: 0.25rem;
+}
+body.rtl  .dc-recent-content i.fa-calendar {
+    margin-right: 0;
+    margin-left: 0.25rem;
+}
+
+body.rtl .search-input.search-map-line::before {
+     left: 0;
+    right: auto;
+}
+body.rtl  .custom-contact-form-style input:not([type=submit]), 
+body.rtl .custom-contact-form-style select, 
+body.rtl .custom-contact-form-style textarea {
+     text-align: right;
+}
+
+@media (max-width: 767.98px) { 
+ body.rtl .hero_banner_main .dc-select:after {
+    right: 0;
+    left: 0px;
+    text-align: left;
+}
+}
+
+@media (min-width: 992px) {
+body.rtl .doccure_header .navbar-nav li .sub-menu::before {
+    right: 0;
+    left: auto;
+}
+}
+body.rtl .toolip-wrapo input{
+    padding-right: 14px;
+}
+body.rtl .form-group.form-group-label label {
+    margin-left: 15px;
+    margin-right: 0px;
+}
+body.rtl .loc-icon input[type="text"] {
+    padding-right: 14px;
+}
+
+body.rtl .dc-spaces i{
+    right: 263px;
+}
+body.rtl .dc-offersmessages ul {
+    display: flex;
+}
+body.rtl .dc-chatarea {
+    float: left;
+}
+body.rtl .dc-offersmessages ul li {
+    float: right;
+}
+body.rtl .dc-select select {
+    padding: 14px;
+}
+body.rtl .dc-formprojectinfo .dc-attachfilevtwo em a {
+    left: -10px !important;
+    right: auto;
+}
+body.rtl .dc-haslayout .dc-updatall a.dc-btn {
+    float: inherit;
+    margin-left: 0;
+}
+body.rtl .dc-dashboardtabs {
+    float: right;
+}
+body.rtl .dc-on-off {
+    float: right;
+    margin-left: 10px;
+    margin-right: 0;
+    text-align: left;
+}
+body.rtl .woo-pagination a.prev {
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+   
+    float: right;
+}
+body.rtl  .woo-pagination a.next{ 
+    float: left;
+}
+body.rtl .woo-pagination a.prev, body.rtl  .woo-pagination a.next{
+    transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+  
+ 
+}
+body.rtl .woo-pagination a i{
+ 
+    line-height: initial;
+ 
+}
+
+body.rtl .post-pagination ul li a i {
+    transform: rotate(-50deg);
+    -webkit-transform: rotate(-179deg);
+    -ms-transform: rotate(-44deg)
+}
+body.rtl .doccure_header .navbar-nav li .sub-menu {
+    left: auto;
+}
+body.rtl .dc-titlewithicon h3 {
+    float: right;
+    padding-right: 23px;
+}
+body.rtl .dc-titlewithicon .dc-clickremoveall {
+    float: left;
+    padding: 0;
+}
+body.rtl .aboutimage_two{
+    right: auto;
+    left: 0;
+}
+body.rtl .aboutuspage_imgsection h2{
+    text-align: end;
+    padding-left: 20px;
+}
+body.rtl .dc-tabscontenttitle h3 {
+    float: right;
+}
+body.rtl .dc-addnew a {
+    float: left;
+}
+body.rtl .experience-list{
+    display: flex;
+}
+body.rtl .experience-list::before {
+    right: 10px;
+}
+body.rtl .experience-list>li .experience-user {
+    right: 5px;
+}
+body.rtl .experience-list>li .experience-content {
+    margin: 0 40px 20px 0px;
+}
+body.rtl  .woocommerce-MyAccount-content {
+    float: left;
+}
+body.rtl  .woocommerce-MyAccount-navigation {
+    float: right;
+}
+body.rtl .wpcf7-form input,
+body.rtl .wpcf7-form textarea {
+  max-width: 100%;
+  direction: rtl;
+}
+body.rtl .dc-btn{
+    margin-left: 235px;
+}
+body.rtl .dc-subpaneltitlevtwo>span{
+    float: right;
+}
+body.rtl .dc-rightarea {
+    float: left;
+    display: flex;
+}
+body.rtl .dc-subpaneltitlevtwo .dc-btnaction {
+    margin: auto;
+}
+body.rtl .dc-dayspaces-holder .dc-titlewithbtn .dc-rightarea{
+    margin: auto;
+}
+body.rtl .dc-titlewithbtn .dc-rightarea .dc-btn+.dc-btn {
+    margin-left:0 ;
+ }
+body.rtl .dc-titlewithbtn .dc-rightarea .dc-remove-appointment-all {
+     margin-right:15px;
+}
+body.rtl .dc-btn {
+    margin-left:0;
+}
+body.rtl .dc-addnew h2 {
+    float: initial;
+}
+body.rtl .servicedetail_online_con  .elementor-container {
+     direction:ltr;
+}
+body.rtl .servicedetail_online_con  .elementor-container h2 {
+    text-align: right !important;
+}
+body.rtl .dc-status-test .dc-rightarea{
+    display: block;
+    float: right;
+}
+body.rtl .dc-tabscontent {
+    padding: 0 30px 30px 0px;
+    border-right: 1px solid #f2f2f2 !important;
+    border-left: 0;
+}
+body.rtl .dc-emailnoti .form-disabeld:after {
+    content: "\f0e0";
+    left: 20px;
+    right: auto;
+}
+
+body.rtl  .dc-docsingle-holder .dc-feedback .dc-consultation-content .dc-consultation-title+.dc-description {
+    margin-right: 45px;
+    margin-left: 0;
+    float: right;
+}
+
+body.rtl  .dc-feedback-content .dc-consultation-img {
+     float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+body.rtl  .dc-tablecategories thead tr th {
+    text-align: right;
+}
+body.rtl  table.dc-tablecategories tbody tr td {
+     text-align: right;
+}
+body.rtl .dc-emailnoti .form-disabeld .form-control  {
+    background: #fff;
+    padding: 10px 20px 10px 20px;
+}
+
+body.rtl .dc-adcontent{
+    padding: 1px 10px 1px 0px;
+}
+body.rtl .dc-offersmessages .dc-ad figure {
+    float: right;
+}
+body.rtl .dcunread-count {
+    right: auto;
+    left: 10px;
+}
+body.rtl .dc-chatarea .dc-replaybox{
+    display: flex;
+}
+body.rtl .dc-replaybox .dc-iconbox{
+    float: left;
+}
+body.rtl .dc-offersmessages ul li:first-child {
+    padding-left: 10px;
+    border-left: 1px solid #f0f0f0;
+}
+ 
+ 
+body.rtl .dc-docsingle-content .dc-btnarea .dc-btn {
+    margin-left: auto;
+}
+body.rtl .dc-docsingle-content .dc-btnarea .dc-btn {
+    width: 100%;
+    margin-right: auto;
+}
+body.rtl .dc-btn.dc-booking-model {
+    width: 100%;
+    margin-right: auto;
+}
+body.rtl .style-lable , body.rtl .style-name  {
+     width: 400px;
+}
+body.rtl .woocommerce .dc-btn{
+    float: right;
+} body.rtl .remove-repeater {
+    left: 30px;
+    right: auto;
+} 
+body.rtl .am_field{
+    padding-left: 60px;
+    padding-right: initial;
+} 
+body.rtl .am_field.related-services{
+    padding: 0;
+    padding-right: initial;
+} 
+body.rtl .am_field .dropdown-style{
+    padding: 0;
+}
+body.rtl .dc-system-btn-holder .dc-btn{
+    margin-left: 0;
+}
+body.rtl .dc-btnaction .dc-addinfo {
+    float: right;
+    margin-right: 10px;
+    margin-left: auto;
+}
+body.rtl .dc-btnaction .dc-deleteinfo{
+    float: left;
+    margin-right: 10px;
+    margin-left: auto;
+}
+body.rtl .dc-providingservices .dc-btn{
+    float: right;
+}
+body.rtl  .woocommerce-form__input-checkbox{
+    margin: 4px 6px 4px 8px;
+}
+body.rtl .form-group>i{
+    right: 15px;
+}
+body.rtl .edit-payout.dc-haslayout .dc-btn{
+    float: right;
+}
+body.rtl .dc-myskills li .dc-rightarea a{
+    margin-right: 10px;
+    margin-left: 0;
+}
+body.rtl .dc-accordioninnertitle .dc-deleteinfo{
+    margin-right: 10px;
+}
+body.rtl .woocommerce-form-row i{
+    left: 21px;
+}
+form.dc-post-artical .dc-btnarea{
+    margin-top: 0 !important;
+}

@@ -1,0 +1,3996 @@
+@media (min-width: 1200px) {
+
+	.appoinment-wrapper.elemento_hometwohero{
+		position: absolute;
+		width: 100%;
+	 }
+	 .elementor_banner2 .search-box {
+		position: relative;
+ 	 }
+	 
+
+	.dc-99-section {
+        width: 70%
+    }
+    .dc-content.align-self-center.dc-para-padding {
+        padding-top: 0
+    }
+    .dc-p-flex {
+        padding: 0 0 26px 30px
+    }
+    .dc-p-flex2 {
+        padding: 0 30px 15px 0
+    }
+	.doccure-extend-des>.vc_column-inner {
+		max-width: 890px;
+		padding-top: 80px !important;
+		padding-bottom: 80px !important;
+		padding-left: 80px !important;
+	}
+}
+@media only screen and (min-width: 1200px) and (max-width: 1336px) {
+	ul#menu-homefivemenu li:nth-child(2) {
+		display: none;
+	}
+}
+@media only screen and (min-width: 1200px) and (max-width: 1315px) {
+	.doccure_header .container-fluid{
+		padding-left: 15px;
+   		padding-right: 15px;
+	}
+	.doccure_header.header-layout-10 .doccure_header-middle .navbar-nav{
+		padding-left: 10px !important;
+	}
+	header.doccure_header div#lang-widget-area {
+		margin-right: 15px;
+	}
+	.doccure_header .navbar-nav li a{
+		padding: 30px 14px;
+	}
+}
+@media only screen and (min-width: 1200px) and (max-width: 1599px) {
+
+	.services-secton.services-secton-three::before {
+		height: 320px;
+		width: 320px;
+	}
+	.services-secton.services-secton-three::after {
+		width: 400px;
+		height: 400px;
+		bottom: -150px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-image-container {
+		height: 550px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover {
+		left: 30px;
+		right: 50px;
+		padding: 40px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .portfolio-title {
+		font-size: 32px;
+	}
+}
+
+@media (min-width: 1600px) {
+	.about-section .about-tile-gallery .zero-icon {
+		bottom: 40px;
+		left: -140px;
+	}
+	.about-sec-page .about-tile-gallery-two .image-two {
+		left: -120px;
+	}
+}
+
+@media (max-width: 1200px) {
+    .about-text-warp .laptop-other {
+		display: none;
+	}
+
+	/* Shortcode */
+	.counter-style-1 .doccure-counter-icon i:before {
+		font-size: 52px;
+		line-height: 52px;
+		margin-right: 12px;
+	}
+	.infobox-style-4 {
+		padding: 0 0 20px 0 !important;
+	}
+	/* Custom */
+	.doccure-action-style1.doccure_custom_heading_wrapper .doccure-heading-title-wrapper .heading-title {
+		font-size: 24px;
+	}
+	.doccure-extend-des>.vc_column-inner {
+		max-width: 635px;
+		padding-top: 60px !important;
+		padding-bottom: 60px !important;
+		padding-left: 40px !important;
+	}
+	.wpb_single_image.vc_align_right {
+		margin-left: 30px;
+	}
+	/*About us*/
+	.about-section .about-tile-gallery .image-two {
+		max-width: 340px;
+	}
+	.about-section .about-tile-gallery .image-three,
+	.about-section .about-tile-gallery .icon {
+		right: 0;
+	}
+	.call-to-action.cta-inner.vc_row:after {
+		height: 335px;
+	}
+	.widget-area.sidebar .widget.widget_doccure_recent_entries .doccure_post-image {
+		width: 50px;
+	}
+	.portfolio-details-style-2 .show-meta .doccure_post-thumbnail {
+		min-height: 490px;
+	}
+}
+
+@media(max-width:1024px) {
+	.vc_row.ipad-content-bottom {
+		display: flex;
+		box-sizing: border-box;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+	}
+	.vc_row.ipad-content-bottom>.vc_column_container {
+		-webkit-box-align: end;
+		-webkit-align-items: flex-end;
+		-ms-flex-align: end;
+		align-items: flex-end;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+	}
+	.vc_row.ipad-content-bottom>.vc_column_container>.vc_column-inner {
+		-webkit-box-pack: end;
+		-webkit-justify-content: flex-end;
+		-ms-flex-pack: end;
+		justify-content: flex-end;
+		-webkit-box-flex: 1;
+		-webkit-flex-grow: 1;
+		-ms-flex-positive: 1;
+		flex-grow: 1;
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		-webkit-flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
+		z-index: 1;
+	}
+}
+
+@media only screen and (max-width: 992px){
+
+	.elementor-section .best-doctors-slider ul.slick-dots {
+		margin-top: 40px  !important;
+		margin-bottom: 0!important;
+	}
+
+	.page-template-homepagefour .clinic-section-four {
+		padding: 40px 0 20px 0;
+	}
+	.page-template-homepagefour .looking-section-four .heading_title p,
+	.page-template-homepagefour .clinic-section-four .heading_title p,
+	.page-template-homepagefour .doctor-section-four .heading_title p,
+	.page-template-homepagefour .features-clinic-four .heading_title p,
+	.page-template-homepagefour .blog-section-four .heading_title p {
+		margin-bottom: 40px !important;
+	}
+	.page-template-homepagefour .looking-section-four .heading_title p, 
+	.page-template-homepagefour .clinic-section-four .heading_title p, 
+	.page-template-homepagefour .doctor-section-four .heading_title p, 
+	.page-template-homepagefour .features-clinic-four .heading_title p, 
+	.page-template-homepagefour .blog-section-four .heading_title p
+	{
+		font-size: 36px;
+	}
+	.page-template-homepagefour .home-four-doctor .home-four-header{
+		padding: 50px 0 0 0;
+	}
+	.page-template-homepagethree .latest-news h5 a{
+		font-size: 18px;
+	}
+	.doccure_post.style-15 .doccure_post-body h5 a {
+		font-size: 18px !important;
+	}
+	.banner-details{
+        padding-top:0 !important;
+    }
+    .page-template-homepagetwo .banner-details h4{
+        font-size:15px;
+    }
+    .banner-details p{
+        font-size:18px;
+    }
+    .banner-left .banner-info h2 {
+    font-size: 33px;
+    margin-bottom: 10px !important;
+}
+.banner-info.banner-mobile .section-title{
+    margin-bottom:0;
+}
+.dr-img {
+    display: none;
+}
+.service-section, .doctor-section {
+    padding: 40px 0 40px !important;
+}
+ .banner-info.banner-mobile{
+     margin-bottom:0px !important;
+ }   
+ .appointment-grid{
+     margin-top:0;
+ }
+ .page-template-homepagetwo header.doccure_header{
+	background: transparent !important;
+ }
+	header.doccure_header{
+		background:#fff !important;
+	} 
+	.navbar img {
+		margin: 0 auto;
+	}
+
+	.clinic-grid-info {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.looking-grid-five{
+		margin-right:25px !important;
+	}
+
+	.custom-menu-class ul li a:hover{
+		color: #fff;
+		border: unset;
+		background: unset;
+		box-shadow: unset;
+	}
+	.looking-grid-four {
+		margin-bottom: 20px;
+		padding: 0 !important;
+		border: 1px solid rgba(192, 201, 213, 0.5) !important;
+	}
+	.looking-grid-four .vc_column-inner{
+		padding:0 !important;
+	}
+	.looking-grid-four .looking-box-four {
+		padding: 15px !important;
+	}
+	.looking-box-four .looking-inner-box {
+		padding: 15px !important;
+	}
+	.high-service-section .viewall_btn{
+		margin-top: 20px;
+	}
+	.doctor-grid-five .vc_btn3-container{
+		margin-bottom: 0;
+	}
+	.best-doctors-slider ul.slick-dots{
+		margin:0 !important;
+	}
+	.features-clinic-section{
+		padding: 60px 0 60px !important;
+	}
+	.home-four-doctor .home-four-header h2 {
+		margin-bottom: 40px !important;
+	}
+	.homefiveblog_section .viewall_btn{
+		margin-bottom:80px !important;
+	}
+	.doccure_post.style-15{
+		margin-bottom: 40px !important;
+	}
+	.homethreeblog_section .viewall_btn{
+		margin-bottom: 40px !important;
+	}
+	
+	.doctor-details.doctor-details-one{
+		margin-bottom: 0 !important;
+	}
+	.home-section-five h1 {
+		font-size: 1.875rem !important;
+	}
+	.home-section-five h1{
+		margin-bottom: 20px !important;
+	}
+	.home-section-five .wpb_content_element{
+		margin-bottom: 0;
+	}
+	ul#menu-primary-menu li ul.sub-menu li a{
+		padding: 10px 15px 10px 35px !important;
+	}
+	
+	.logo-wrap.mobile-logo img{
+		height:40px;
+	}
+	ul#menu-headerrightmenu li a{
+		color:#fff;
+	}
+	aside.doccure_aside .custom-menu-class ul li a{
+		padding: 0;
+        font-weight: 500;
+	}
+	.custom-menu-class ul li a{
+		font-size: 14px !important;
+	}
+	li.aside-toggle.aside-trigger{
+		left: 0;
+       margin-right: 0;
+       padding: 0 15px;
+       position: absolute;
+    z-index: 99;
+	}
+	.doccure_header.header-layout-10 .doccure_logo-wrapper img {
+		max-width: unset !important;
+		height: 40px;
+	}
+	.page-template-homepagetwo .navbar {
+		padding:0 20px !important;
+	}
+	.navbar {
+		padding: 0 !important; 
+		height: 85px;
+	}
+	.logo-wrap.site-logo {
+		max-width: 100%;
+	}
+	.doccure_header.header-layout-10 .doccure_header-middle .doccure_header-controls {
+		left: 0;
+		margin-right: 0 !important;
+		padding: 0;
+		position: absolute;
+		z-index: 99;
+	}
+	.clinic-section-five .doctor-see-btn {
+		padding-top: 0px !important;
+	}
+	h4.high-service-head{
+		margin-bottom: 5px;
+	}
+	footer.doccure_footer .widget h6{
+		margin-top: 20px;
+	}
+	.clinic-img img{
+		width:100%;
+	}
+	.clinic-grid img {
+		width: 100px !important;
+	}
+	
+	aside.doccure_aside .custom-menu-class ul{
+		background: #0071DC;
+    	border: 1px solid #0071DC;
+		padding:15px 20px;
+	}
+	
+	.high-service-section {
+		padding: 60px 0 60px !important;
+	}
+	.features-clinic-section .wpb_content_element{
+		margin-bottom: 0;
+	}
+	.looking-big-icon{
+		bottom: 3px !important;
+    	right: 30px !important;
+	}
+	.looking-big-icon span.doccure_cta-icon-box{
+		font-size: 100px !important;
+	}
+	.section-header {
+		margin-bottom: 40px !important;
+	}
+	.page-template-homepagethree .mobile_whatlooking{
+		margin-bottom:40px !important;
+	}
+	.page-template-homepagethree .slider_searchform {
+		margin-bottom: 40px;
+	}
+	
+	.mobile_doctorblock {
+		padding-bottom: 0 !important;
+	}
+	.page-template-homepagethree .best-doctor-section{
+		padding: 0px 0 40px !important;
+	}
+	.page-template-homepagethree .best-doctor-widget{
+		margin-bottom: 10px;
+	}
+	.page-template-homepagethree .latest-news article{
+		margin-bottom: 30px;
+	}
+	.best-doctor-section .wpb_content_element{
+		margin-bottom: 0;
+	}
+	.doccure_aside .doccure_close {
+		position: absolute;
+		right: 0;
+		top: 10px;
+	}
+
+	.availableblock_img{
+		display: none;
+	}
+	.page-template-homepagetwo ul#menu-homefivemenu{
+		display: block;
+	}
+	ul#menu-homefivemenu{
+		display: none;
+	}
+	.page-template-homepagefour ul#menu-homefivemenu{
+		display: block;
+	}
+	.features_width{
+		width:100% !important;
+	}
+	.looking-section-four {
+		padding: 0px 0 0px !important;
+	}
+	.section-header-four h2 {
+		font-size: 36px !important;
+	}
+	.doccure_header-top{
+		display: none !important;
+	}
+	.home-four-doctor .home-four-header h2{
+		font-size:36px !important;
+	}
+	.looking-row {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+		border: none !important;
+	}
+	.looking-grid-four {
+		margin-bottom: 20px;
+		padding: 15px !important;
+    	border: 1px solid rgba(192, 201, 213, 0.5) !important;
+	}
+	
+	.looking-section-four .custom-heading-style-1{
+		margin-bottom: 40px !important;
+	}
+	.clinic-grid-four {
+		margin-bottom: 30px !important;
+	}
+	.doctor-section-four {
+		padding: 60px 0 60px !important;
+	}
+	.page-template-homepagefour .best-doctors-grid {
+		margin-bottom: 10px !important;
+	}
+	.features-clinic-four {
+		padding: 60px 0 60px !important;
+	
+	}
+	.availableblock_img img{
+		display: none;
+	}
+	.features-clinic-four .feature-clinic-overlay{
+		padding-left: 20px;
+    	padding-right: 20px;
+	}
+	.features-clinic-four .feature-clinic-overlay p{
+		width:100%;
+	}
+	.blog-section-four {
+		padding: 60px 0 60px !important;
+	}
+	.blog-section-four .doccure_custom_heading_wrapper{
+		padding-top:0 !important;
+	}
+	.doccure_post.style-16{
+		margin-bottom: 30px !important;
+	}
+	 
+	.doccure_header.header-layout-10 .doccure_header-middle .container .navbar{
+		border-radius: unset !important;
+	}
+	.home-four-doctor .doccure_custom_heading_wrapper {
+		padding-top: 50px !important;
+	}
+	/*homepage6*/
+	.looking-section-five {
+		padding: 40px 0 !important;
+	}
+	.looking-bg-five{
+		padding-bottom: 0;
+	}
+	.clinic-section-five {
+		padding: 40px 0 40px !important;
+	}
+	.section-header {
+		margin-bottom: 40px !important;
+	}
+	.doctor-section-five{
+		padding: 40px 0 40px !important;
+	}
+	.browse-section-five {
+		padding: 40px 0 15px !important;
+	}
+	.best-section-five {
+		padding: 40px 0 40px !important;
+	}
+	.blog-section-five {
+		padding: 40px 0 40px 0 !important;
+	}
+	.page-template-homepagefive .latest-news article{
+		margin-bottom: 40px;
+	}
+	
+	 
+	.doctors-grid-five .doctors-img-five img{
+		height: auto !important;
+	}
+	.doctors-grid-five .doctors-img-five{
+		min-height: unset	 !important;
+	}
+	.middle_img{
+		display: none;
+	}
+	.doctor-grid-five {
+		width: 100% !important;
+		margin: 0;
+	}
+	
+	.high-service-box{
+		width: 100% !important;
+		margin-right:0 !important;
+	}
+	.btn-two {
+		font-size: 14px !important;
+	}
+	.looking-grid {
+		width: 30% !important;
+		margin-right: 17px !important;
+		margin-left: 15px !important;
+	}
+	.home .doccure_post .doccure_post-body h5 a{
+		font-size: 20px !important;
+	}
+	
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.home .latest-news article .homeblog_content_block .homeblog_date {
+		right: unset;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.latest-news article .homeblog_content_block .homeblog_date{
+		font-size: 12px;
+	}
+	.page-template-homepagefour .sub-title p {
+		margin: 0px auto 30px auto !important;
+	}
+	.page-template-homepagetwo .hometwo_space .col-md-12{
+		max-width:100%;
+	}
+	.doccure_header .container-fluid{
+		padding-left: 15px;
+    	padding-right: 15px;
+	}
+	.homepage_footer p{
+		font-size: 15px;
+	}
+	.tabs_accordionblock .vc_toggle_title>h4{
+		font-size: 14px;
+	}
+	.abouts_whychoose h5{
+		font-size: 19px;
+	}
+	.page-template-homepagefive .looking-grid-five .vc_icon_element-icon {
+		left: unset !important;
+	}
+	.page-template-homepagefive .looking-grid-five .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner {
+		margin: 0 auto;
+		display: block;
+		left: 35px !important;
+	}
+	.page-template-homepagetwo .header-layout-10 {
+		z-index: 9;
+		padding-left: 20px;
+		padding-top: 20px;
+		margin-left: 0;
+		padding-right: 20px;
+		padding-bottom: 50px;
+		margin-right: 0;
+	}
+	.doctor-img {
+		-ms-flex: 0 0 150px;
+		flex: 0 0 150px;
+		margin-right: 20px;
+		width: 150px;
+	}
+	.page-template-homepagefive .blog-section-five {
+		padding: 60px 0;
+	}
+}
+
+@media only screen and (max-width:1199px) and (min-width: 993px) {
+	.homepagetwo_blog .homeblog_content_block h5 a{
+		font-size: 21px;
+	}
+	.page-template-homepagefour .looking-section-four .heading_title p, .page-template-homepagefour .clinic-section-four .heading_title p, .page-template-homepagefour .doctor-section-four .heading_title p, .page-template-homepagefour .features-clinic-four .heading_title p, .page-template-homepagefour .blog-section-four .heading_title p {
+		margin-bottom: 40px !important;
+	}
+	.high-service-section .viewall_btn {
+		margin-top: 30px;
+	}
+	.btn-two {
+		font-size: 14px !important;
+	}
+	.looking-grid {
+		width: 30% !important;
+		margin-right: 17px !important;
+		margin-left: 15px !important;
+	}
+	.looking-grid-five {
+		margin-right: 25px !important;
+	}
+	
+}
+
+@media only screen and (max-width:1199px) and (min-width: 1101px) {
+	.doccure_header.header-layout-10 .doccure_header-middle .navbar-nav{
+		padding-left:25px !important;
+	}
+}
+
+@media only screen and (max-width:1025px) and (min-width: 992px) {
+	
+	.homesixspec_section .col-lg-2.col-md-4{
+		padding-left:0;
+	}
+	.clinic-grid-five .clinic-grid-info .clinic-five-btn .btn{
+		font-size:14px !important;
+		padding: 10px 15px !important;
+	}
+	
+	.homesixspec_section .col-lg-2.col-md-4:last-child{
+		padding-right: 0;
+	}
+}
+
+@media only screen and (max-width:1199px) and (min-width: 1026px) {
+	.homesixspec_section .col-lg-2.col-md-4{
+		padding-left:0;
+	}
+	.clinic-grid-five .clinic-grid-info .clinic-five-btn .btn{
+		font-size:14px !important;
+	}
+	
+	.homesixspec_section .col-lg-2.col-md-4:last-child{
+		padding-right: 0;
+	}
+}
+
+
+@media only screen and (max-width: 1200px) and (min-width: 991px) {
+	.page-template-homepagefive .latest-news article .blog-info-five .blog-news-title a{
+		font-size: 19px;
+	}
+	.page-template-homepagefive div#lang-widget-area {
+		margin-right: 0px;
+	}
+	.page-template-homepagefour .navbar{
+		padding: 0 15px !important;	
+	}
+	.page-template-homepagefour ul#menu-homefivemenu li a{
+		padding:10px 20px;
+	}
+	.page-template-homepagefour ul#menu-homefivemenu li{
+		padding-right:0;
+	}
+ 
+	 
+	.page-template-homepagethree .custom-menu-class ul{
+		padding: 0;
+	}
+	.page-template-homepagethree .custom-menu-class ul li a{
+	    font-size:14px;
+	    padding:10px 20px;
+	    
+	}
+	
+	.page-template-homepagethree .best-doctor-widget .provider-info h3 a{
+	    font-size:20px;
+	}
+
+	.doccure_post .doccure_post-body h5 a{
+        font-size:21px !important;
+    }
+    .doccure_post.style-15 {
+        margin-bottom: 60px !important;
+    }
+	.appoinment-box .appoinment-right {
+		display: flex;
+	}
+	.header-layout-10 {
+		z-index: 9;
+		padding-left: 0;
+		margin-left: 0;
+		padding-right: 0;
+		margin-right: 0;
+	}
+ 
+	.page-template-homepagetwo ul#menu-homefivemenu li{
+		padding-right:0;
+	}
+	.page-template-homepagetwo ul#menu-homefivemenu li a{
+		font-size:14px;
+	}
+	.home-section-five h2 {
+		margin-bottom: 20px !important;
+	} 
+	   .home-section-five h1 {
+		margin-bottom: 20px !important;
+	} 
+
+	.best-doctors-grid .best-doctors-info .booking-btn .btn i{
+        display:none;
+    }
+	.doccure_header .navbar-nav li a{
+	    
+			font-size: 14px;
+    padding: 30px 14px;
+	}
+	 
+ 
+	.switcher{
+		width:110px !important;
+	}
+	ul#menu-homefivemenu li:nth-child(2){
+		display: none;
+	}
+	 
+	ul#menu-homefivemenu li{
+	    padding-right:5px;
+	}
+	ul#menu-homefivemenu li a{
+	    padding:5px 10px;
+	    font-size: 14px;
+	}
+	.homethreeblog_section .viewall_btn {
+		margin-bottom: 40px !important;
+	}
+	.doccure_post.style-15{
+		margin-bottom: 15px !important;
+	}
+ 
+	.doccure_post.style-14 .blog-info-five .blog-news-title a{
+		font-size: 19px !important;
+	}
+	.looking-info-five h3{
+		font-size: 26px !important;
+	}
+	.looking-grid-five .vc_column-inner{
+		padding-left:20px !important;
+		padding-right:20px !important;
+	}
+	.looking-grid-five:last-child{
+		margin-right:0 !important;
+	}
+	.best-doctors-grid .best-doctors-info .booking-btn .btn{
+		font-size: 14px !important;
+	}
+	.services-secton.services-secton-three::before {
+		height: 250px;
+		width: 250px;
+	}
+	.section-title h2 {
+		font-size: 54px;
+	}
+	.section-title h3 {
+		font-size: 40px;
+	}
+	.services-secton.services-secton-three::after {
+		width: 310px;
+		height: 310px;
+		bottom: -100px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-image-container {
+		height: 500px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover {
+		left: 30px;
+		right: 50px;
+		padding: 40px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .portfolio-title {
+		font-size: 30px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .portfolio-link {
+		height: 60px;
+		width: 60px;
+		line-height: 60px;
+	}
+	.doccure_contact-image.style-6 {
+		width: calc(100% - 540px);
+	}
+}
+
+@media only screen and (max-width: 991px){
+
+	.tabs_accordionblock .vc_toggle_title>h4{
+		max-width: 400px;
+		font-size: 15px;
+	}
+	.tabs_accordionblock .vc_toggle_title{
+		padding: 12px 20px !important;
+	}
+	.tabs_accordionblock .vc_toggle .vc_toggle_title:after{
+		right: 20px;
+	}
+	.page-template-homepagefive .homefive_mainheading.whatlookingfive_section h2 {
+		margin-bottom: 30px;
+	}
+	.page-template-homepagefive .looking-grid-five .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner .vc_icon_element-icon:before{
+		font-size: 30px;
+	}
+	.page-template-homepagefive .looking-grid-five .vc_icon_element-icon{
+		width: 80px;
+    	height: 80px;
+		left: unset !important;
+	}
+	.page-template-homepagefive .looking-grid-five .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner{
+		margin: 0 auto;
+    	display: block;
+		left: 35px !important;
+	}
+	 
+	aside.doccure_aside div#lang-widget-area{
+		display: block;
+		background: #FFF;
+    	border: 1px solid #0071DC;
+    	padding: 15px 20px;
+		margin:0;
+	}
+	aside.doccure_aside h2.lang-chw-title.contact-header{
+		margin-top: 0px !important;
+	}
+	aside.doccure_aside ul#menu-headerrightmenu {
+		margin-bottom: 0;
+		border-bottom: 1px solid #8bbeef;
+	}
+	div#lang-widget-area{
+		display: none;
+	}
+	.page-template-homepagetwo ul#menu-homefivemenu {
+		display: none;
+	}
+	.page-template-homepagetwo .banner-info.banner-mobile h2{
+		margin-top: 160px;
+	}
+
+	.page-template-homepagetwo .doccure_post.style-15 .doccure_post-body .btn-link{
+		padding:0;
+		margin-top:0;
+
+	}
+	.appointment-left {
+		display: none!important;
+	}
+	
+	.img_mobile_section2{
+		display:none;
+	}
+	
+	.home-one-banner::before{
+		display:none;
+	}
+	.shapes_img{
+		display:none;
+	}
+
+	.doccure_header.header-layout-10{
+		padding:0;
+		margin:0;
+	}
+	.doccure_header.header-layout-10 .doccure_header-middle .container .navbar{
+		background:unset;
+			box-shadow: unset;
+	}
+	.doctor-section{
+		background-image:unset;
+	}
+	.page-template-homepagetwo.doctor-bg{
+		background-image:unset;
+	}
+
+	.navbar img {
+		margin-left: 0 !important;
+	}
+	.doccure_header .doccure_logo-wrapper {
+		width: 100%!important;
+	}
+	.doccure_header .doccure_logo-wrapper {
+		width: auto !important;
+		margin-left: 75px;
+	}
+	.page-template-homepagethree .custom-menu-class{
+		display: none;
+	}
+	.looking-grid{
+		width: 30% !important;
+    	margin-right: 18px !important;
+    	margin-left: 15px !important;
+	}
+	.high-service-box{
+		width: 97% !important;
+    	margin-right: 15px !important;
+	}
+
+	.looking-grid-five{
+		margin-right:0 !important;
+	}
+	
+}
+
+@media (max-width: 991px) {
+	.page-template-homepagefour .sub-title p {
+		margin: 0px auto 30px auto !important;
+	}
+	.page-template-homepagefour .app_btn input[type=submit]{
+		font-size: 14px;
+	}
+	.mainhome_whatlooking_sec,
+	.mainhome_clinic_sec{
+		padding-top: 30px;
+		padding-bottom: 30px;
+	
+	}
+	.mainhome_whatlooking_sec h2{
+		margin-bottom: 20px !important;
+	
+	}
+	.page-template-homepagefour #content {
+		margin-top: -200px;
+	}
+	.page-template-homepagefour ul#menu-homefivemenu{
+		display:none;
+	}
+ 
+
+	.dc-main .alignwide {
+        max-width: 100%
+    }
+    .single-full-section .alignfull:not(.has-background-dim),
+    .dc-main .alignfull:not(.has-background-dim) {
+        background: #FFF
+    }
+
+	.dc-location-holder .dc-searchvlistvtwo .dc-docpostcontent .dc-searchvtwo {
+		min-width: unset !important;
+	}
+	.timeslot_available {
+		width: auto !important;
+	}
+	.dc-doclocation.dc-doclocationvtwo.single_doc span {
+		text-align: left;
+	}
+	.availabletimings.row .col-md-4 {
+		max-width: 100% !important;
+	}
+	.container {
+		max-width: 100%;
+	}
+	 
+	 
+	.spacer-1 {
+		display: none;
+	}
+	.section.section-padding {
+		padding: 30px 0 10px;
+	}
+	.section-title {
+		margin-bottom: 30px;
+	}
+	/* Effect */
+	.hide-ipad {
+		display: none !important;
+	}
+	.doccure-extend-right-bg .doccure-extend-right-col:after {
+		display: none;
+	}
+	/* Custom */
+	.doccure-action-style1.doccure_custom_heading_wrapper .doccure-heading-title-wrapper .heading-title {
+		font-size: 24px;
+	}
+	.doccure-extend-des>.vc_column-inner {
+		max-width: 100%;
+		padding: 100px 40px !important;
+	}
+	.infobox-pad.infobox-style-2 {
+		margin-bottom: 40px;
+	}
+	.counter-style-3 {
+		top: 25%;
+	}
+	/* doccure contact box style1 */
+	.doccure-contact-box-style1 h4 {
+		left: -95px;
+	}
+	/* Contact us */
+	.doccure-contact-info .doccure-contact-box-style1 h4 {
+		left: -115px;
+	}
+	/* Footer */
+	.doccure-footer-widgets-wrapper {
+		padding-top: 50px;
+		padding-bottom: 40px;
+	}
+	.doccure-footer-widgets-wrapper .col-xl-3.col-lg-3.col-md-6.col-sm-12 {
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+	/*About us*/
+	.about-section .about-tile-gallery {
+		margin-bottom: 50px;
+	}
+	.about-section .about-tile-gallery .image-two {
+		max-width: 400px;
+	}
+	.about-section .about-tile-gallery .icon {
+		right: 95px;
+	}
+	.about-section .about-tile-gallery .image-three {
+		right: 50px;
+	}
+	.call-to-action.cta-inner.vc_row:after {
+		padding-top: 100px;
+		padding-bottom: 75px;
+		height: 290px;
+	}
+	.max-width-50 p,
+	.max-width-50 .custom-heading-style-1 {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.video-link.home {
+		top: auto;
+		bottom: 0;
+		right: 50%;
+		-webkit-transform: translate(50%, 50%);
+		transform: translate(50%, 50%);
+	}
+	.max-width-50 h2 {
+		font-size: 52px !important;
+	}
+	/*cta style 2*/
+	.call-to-action .need-cta-img:before {
+		right: 50%;
+		-webkit-transform: translateX(50%);
+		transform: translateX(50%);
+	}
+	.call-to-action.cta-style-two .cat-link {
+		line-height: 60px;
+		height: 60px;
+		width: 60px;
+	}
+	.call-to-action.cta-style-two .custom-heading-style-1 .heading-title {
+		font-size: 36px;
+	}
+	/*portfolio detail*/
+	.doccure-portfolio-details .doccure_post-thumbnail {
+		height: 550px;
+	}
+	.about-sec-page .about-text .about-extra {
+		padding-left: 0;
+		position: relative;
+		margin-top: -20px;
+		bottom: 0;
+	}
+	.about-sec-page .about-text .about-extra img {
+		left: 0;
+		max-width: 100%;
+		position: relative;
+		display: block;
+		top: 0;
+		transform: none;
+		margin-top: 20px;
+	}
+	.contact-form {
+		padding: 50px;
+	}
+	.site-footer.site-footer-layout-3 .footer-top h3 {
+		margin-bottom: 20px;
+	}
+	.doccure_doctor.style-11 {
+		margin-bottom: 50px;
+	}
+	.doccure-doctor-detail .doccure_post-thumbnail {
+		margin-bottom: 40px;
+	}
+	.doccure-doctor-detail .doccure-doctor-textwrap {
+		padding-left: 0;
+		margin-top: 20px;
+	}
+	.doccure-doctor-detail .doccure-doctor-textwrap .theme-btn {
+		position: relative;
+	}
+	/* header */
+	.doccure_header .aside-toggle {
+		display: flex;
+	}
+	.doccure_header .navbar-nav,
+	.doccure_header-bottom,
+	.doccure_header .aside-toggle.desktop-toggler {
+		display: none;
+	}
+	.doccure_aside-overlay.aside-trigger,
+	.doccure_aside:not(.doccure_aside-desktop) {
+		display: block;
+	}
+	body.admin-bar .doccure_aside:not(.doccure_aside-desktop) {
+		top: 32px;
+	}
+	/* footer */
+	.doccure_footer-layout-2 .doccure_footer-top,
+	.doccure_footer-layout-3 .doccure_footer-top,
+	.doccure_footer-layout-4 .doccure_footer-top,
+	.doccure_footer-layout-8 .doccure_footer-top {
+		flex-direction: column;
+	}
+	.doccure_footer-layout-3 .doccure_footer-top .footer-item:not(:last-child),
+	.doccure_footer-layout-3 .doccure_footer-top .footer-logo {
+		margin-bottom: 25px;
+	}
+	.doccure_footer-layout-2 .footer-logo,
+	.doccure_footer-layout-2 .doccure_footer-top .footer-item:not(:last-child) {
+		margin-bottom: 20px;
+	}
+	.doccure_footer-layout-2 .doccure_footer-top .footer-item {
+		margin-left: 0;
+	}
+	.doccure_footer-layout-7 .logo-wrap.footer-logo {
+		margin-bottom: 0;
+	}
+	.widget-area.sidebar {
+		margin-top: 40px;
+	}
+	.doccure_form.style-6 {
+		padding: 60px;
+	}
+	.portfolio-details-style-2 .show-meta .doccure_post-thumbnail {
+		margin-right: 0px;
+		margin-bottom: 0;
+	}
+	.portfolio-details-style-2 .widget.widget-doccure-portfolio-details {
+		position: relative;
+		top: auto;
+		bottom: 0;
+		transform: none;
+		margin-bottom: 50px;
+		padding: 30px;
+	}
+	.doccure_header.header-layout-7 .doccure_header-middle .doccure_header-top-links {
+		margin-left: auto;
+	}
+	.doccure_header.header-layout-8 .container-fluid,
+	.doccure_header.header-layout-10 .container-fluid {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+	.doccure_header.header-layout-8 .doccure_header-middle .doccure_header-controls .doccure_header-controls-inner {
+		margin-left: 0 !important;
+	}
+	.doccure_header.header-layout-9 .doccure_header-middle .doccure_header-controls .doccure_header-controls-inner,
+	.doccure_header.header-layout-8 .doccure_header-middle .doccure_header-controls .doccure_header-controls-inner {
+		display: flex;
+	}
+}
+@media only screen and (max-width: 958px) and (min-width: 769px) {
+	.page-template-homepagefour .looking-grid-four:last-child .looking-box-four .looking-inner-box .looking-info-four a{
+		height: 57px;
+	}
+}
+
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+	.clinical_info h5{
+		font-size: 20px;
+	}
+	 
+	.homepage_footer .specality_menu h6{
+		margin-top:0;
+	}
+	.appointment-schedule {
+		width: auto !important;
+	}
+	.appointment-schedule {
+		padding: 10px !important;
+	}
+	.page-template-homepagetwo.appointment-info-holder h2{
+		font-size:28px !important;
+	}
+	.appointment-img-holder {
+		width: 97%!important;
+	}
+	.schedule-title{
+		margin-bottom:10px !important;
+	}
+	.appointment-schedule ul li{
+		text-align:right;
+	}
+	.section2_row{
+		width: 100% !important;
+	}
+	.page-template-homepagetwo.appoinment-section.appoinment_section_elementor {
+		padding-top: 30px;
+	}
+	.homeboxtwo_boxes {
+		width: 100%!important;
+	}
+	.appointment-grid {
+		width: 47.5%!important;
+		margin-right: 30px !important;
+	}
+	.appointment-grid:nth-child(2){
+		margin-right:0 !important;
+	}
+
+	.doccure_cta.style-8 .doccure_cta-content h4 {
+        font-size: 19px !important;
+	}
+     
+.doccure_btn.btn-sm {
+    font-size: 12px;
+    padding: 7px 14px;}
+
+	.doccure_post.style-14 {
+		margin-bottom: 40px !important;
+	}
+ 
+	.logo_info,.contact_info{
+		margin-bottom: 30px;
+	}
+	.logo_info .doccure_social-icons{
+		padding-top:20px;
+	}
+	.logo_info .wpb_single_image img{
+		margin-bottom: 15px;
+	}
+	
+	.doctors-grid-five .doctors-img-five img {
+		height: auto !important;
+	}
+	.available_block .doctor-see-btn{
+		padding-top: 0px !important;
+	}
+	.search-input-five.loc_field,.search-input-five.line-five{
+		margin-right: 10px;
+	}
+	.clinic-section-five .doctor-see-btn{
+		margin-top:20px;
+	}
+	.doctor-grid-five .doctor-details{
+		margin-bottom:15px;
+	}
+	.doctor-grid-five .doctor-details-one{
+		margin-bottom: 0;
+	}
+	
+	
+	.doctor-grid-five .doctor-details p{
+		max-width:unset !important;
+	}
+	.best-section-five .doctor-see-btn {
+		margin-top: 20px !important;
+	}
+	
+.banner-two-form {
+	position: relative !important;
+	top: 23px !important;
+	left: 0 !important;
+	padding: 0px 0;
+	-webkit-transform: translateY(0%) !important;
+	 transform: translateY(0%) !important;
+	z-index: 9;
+	margin: -85px auto 0;
+
+}
+.looking-grid-five {
+    width: 100% !important;
+    margin-right: 0 !important;
+    margin-bottom: 30px;
+}
+.looking-grid-five .doccure_cta-icon-box {
+    width: 80px !important;
+    height: 80px !important;
+    font-size: 30px !important;
+    top: -40px !important;
+}
+.looking-section-five h2, .clinic-section-five h2, 
+.browse-section-five h2, .best-section-five h2,
+.blog-section-five h2 {
+    font-size: 36px !important;
+}
+.vc_col-sm-3 {
+    width: 50% !important;
+}
+	.doccure_footer .vc_col-sm-3 {
+		width: 50%;
+	}
+	.dc-haslayout {
+		margin-top: 0;
+	}
+	.dc-haslayout.dc-parent-section.single-doctor .row {
+		display: block;
+	}
+	.single-doctor {
+		background-color: unset !important;
+	}
+	.banner-two-form .app-form h2 {
+		font-size: 20px !important;
+		line-height: unset !important;
+		margin-bottom: 20px !important;
+	}
+	.banner-two-form label {
+		font-size: 14px !important;
+	}
+	.app-form{
+		width:100% !important;
+		
+	}
+	.banner-two-form .app-form {
+		margin-top: -135px;
+	}
+	.services-secton.services-secton-three::before {
+		width: 280px;
+		height: 280px;
+		left: -60px;
+		-webkit-transform: translateY(-55%);
+		transform: translateY(-55%);
+	}
+	.section-title h2 {
+		font-size: 48px;
+	}
+	.section-title h3 {
+		font-size: 36px;
+	}
+	.services-secton.services-secton-three::after {
+		width: 300px;
+		height: 300px;
+		bottom: -100px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-image-container {
+		height: 400px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover {
+		left: 20px;
+		right: 40px;
+		padding: 20px 30px;
+		bottom: 30px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .portfolio-title {
+		font-size: 24px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .doccure-portfolio-category {
+		font-size: 14px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .portfolio-link {
+		height: 60px;
+		width: 60px;
+		line-height: 60px;
+	}
+}
+
+@media(max-width: 782px) {
+	body.admin-bar .doccure_aside:not(.doccure_aside-desktop) {
+		top: 46px;
+	}
+}
+@media only screen and (max-width: 1199px){
+
+	.dc-docsingle-content { 
+		display: block!important;
+	}
+	.home_blog .wpb_content_element{
+		margin-top:0;
+	}
+	.home .home_blog .sub-title p {
+		margin: 30px auto 30px 0 !important;
+	}
+.map-listing {
+    height: 450px;
+}
+}
+@media only screen and (max-width: 422px){
+	.single.single-post .breadcrumb-nav{
+		display: none;
+	}
+}
+@media only screen and (max-width: 375px){
+	.aboutuspage_imgsection {
+		padding: 40px 0 0 0 !important;
+	}
+	.aboutus_firstsection .vc_column-inner {
+		height: 375px !important;
+	}
+	.tabs_accordionblock .vc_toggle .vc_toggle_title:after{
+		right:20px;
+	}
+	.tabs_accordionblock .vc_toggle_title{
+		padding: 12px 20px !important;
+	}
+	.tabs_accordionblock .vc_toggle_title>h4{
+		font-size: 13px;
+		max-width: 200px !important;
+	}
+	.dc-chatpopup .dc-chatbox{
+		left: -227px;
+		width: 294px;
+		padding: 0px 20px 0 0px;
+		bottom: 27px;
+		height: 200px;
+	}
+	.dc-chatpopup .dc-chatbox .dc-messages {
+		height: 100px;
+	}
+	.single.single-doctors .dc-chatpopup {
+		width: 30px;
+		height: 30px;
+		right: 50px;
+		bottom: 45px;
+	}
+	.single.single-doctors .dc-chatbox:before{
+		display: none;
+	}
+	#dc-booking_service_details .dc-status.dc-rightarea {
+		float: left;
+		margin-top: 10px;
+	}
+}
+@media (min-width: 376px) and (max-width:460px) {
+	.single.single-doctors .dc-chatbox{
+		right: -26px;
+		width: 366px;
+	}
+	
+
+}
+@media (min-width: 320px) and (max-width:500px) {
+
+	.aboutus_accordion .vc_tta-panel-heading{
+		padding:12px 20px;
+	}
+	.aboutus_accordion h4 span{
+		width: 268px;
+		display: inline-block;
+		line-height: 1.4;
+	}
+}
+@media only screen and (max-width: 645px){
+	.dc-replaybox .form-control+.emojionearea.form-control, .dc-replaybox .form-control{
+		width:100% !important;
+	}
+}
+
+@media (min-width: 376px) and (max-width:1199px) {
+	.single.single-doctors .dc-chatbox{
+		height:350px;
+	}
+	.single.single-doctors .dc-chatbox .dc-messages {
+		height: 270px;
+	}
+}
+
+@media only screen and (max-width: 767px){
+	.aboutuspage_imgsection{
+		padding:60px 0 0 0;
+	}
+	.aboutuspage_imgsection p:last-child{
+		margin-bottom: 20px !important;
+	}
+	ul#menu-privacymenu{
+		text-align: left !important;
+		margin: 10px 0 0 0 !important;
+	}
+	.single.single-services .servicedetail_online_con{
+		background-image: unset !important;
+		background-color: #c0d4db;
+	}
+	.elementor-section.servicedetail_online_con {
+		background-image:none !important;
+		background-color: #c0d4db;
+	}
+	.tabs_accordionblock .vc_tta-panel:last-child .vc_tta-panel-heading{
+		margin-bottom: 0 !important;
+	}
+	.tabs_accordionblock .vc_tta-panels-container{
+		padding-left:0;
+	}
+	.tabs_accordionblock .vc_tta-color-grey.vc_tta-style-outline .vc_tta-panel.vc_active .vc_tta-panel-heading{
+		border:unset;
+	}
+	.tabs_accordionblock .vc_tta.vc_general .vc_tta-icon::before{
+		position: absolute;
+		right: 15px;
+	}
+	.tabs_accordionblock .vc_tta-panel-heading:first-child{
+		margin-top: 0 !important;
+    	margin-bottom: 20px !important;
+	}
+	.tabs_accordionblock .vc_tta-panel-heading {
+		margin-top: 20px !important; 
+		justify-content: space-between;
+		align-items: center;
+		border-radius: 6px;
+	}
+	.tabs_accordionblock  .vc_tta-panel .vc_tta-panel-body
+	{
+		margin-bottom: 20px;
+	}
+	.tabs_accordionblock .vc_tta-color-grey.vc_tta-style-outline .vc_tta-panel .vc_tta-panel-title>a{
+		color: var(--doccure_terthemecolor) ;
+		font-weight: 500;
+		border-radius: 6px;
+		padding: 15px;
+		display: flex;
+		align-items: center;
+		transition: 0.3s;
+		position: relative;
+		font-size: 14px;
+		line-height: 1.8;
+		border: 0;
+	}
+	.tabs_accordionblock .vc_tta-color-grey.vc_tta-style-outline .vc_tta-panel.vc_active .vc_tta-panel-title>a  {
+		background: var(--thm-base);
+		color: #fff;
+		border-radius: 6px;
+	}
+	.portfolio_section .wpb_single_image .vc_figure,
+	.portfolio_section .wpb_single_image img{
+		width:100%;
+	}
+	.aboutus_faq_section h2{
+		font-size: 25px;
+		margin-bottom: 25px;
+	}
+	.single.single-doctors .gallery-img {
+		margin-bottom: 20px;
+	}
+
+	.appointment-info-holder h2{
+        font-size: 20px !important;
+    }
+	.page-template-homepagetwo .appointment-grid{
+		margin-right:0;
+	}
+    .appointment-schedule ul li{
+        text-align:right;
+        
+    }
+    .appointment-grid {
+    width: auto !important;
+    margin-right: 0;
+}
+.appointment-schedule {
+    width: auto !important;
+    margin: 0 15px !important;
+}
+.page-template-homepagetwo .appointment-img-holder {
+    width: auto !important;
+    margin: 0 15px !important;
+}
+.section2_row{
+    margin-left:0;
+}
+}
+
+@media (max-width: 767px) {
+ 
+	.home_searchform .dc-form-advancedsearch fieldset .form-group span.form-text{
+		margin-bottom: 10px;
+	}
+	.dc-dashboardboxcontent.dc-appsetting form.dc-update-providingservices,
+	.dc-skills.dc-tabsinfo.dc-tabsinfo-mt,
+	.dc-dashboardboxcontent.dc-addservices.dc-articlesservices,
+	.dc-featuredphoto-holder.dc-tabsinfo,.dc-category-holder.dc-tabsinfo,
+	.dc-addtag-holder.dc-tabsinfo
+	{
+		
+		margin-top: 1.25rem;
+	}
+	.dc-clinics{
+		margin-bottom: 1.25rem;
+
+	}
+	.dc-dbsectionspace{
+		padding-top:20px;
+	}
+	.dc-tabscontenttitle{
+		margin-top:0 !important;
+	}
+
+	.appointment-list .profile-info-widget img{
+		margin-right:80px;
+	}
+	
+	.page-template-homepagetwo .section-title .title {
+		font-size: 1.875rem !important;
+	}
+	.dc-articlesrow>.col-12:nth-child(n+2) {
+        margin-top: 30px
+    }
+	.custom-heading-style-1{
+		margin-bottom:0;
+	}
+	.section-title .title {
+		font-size: 25px;
+  }
+
+ 
+	.dc-haslayout.dc-parent-section.single-doctor .row {
+		display: block;
+	}
+	.single-doctor {
+		background-color: unset !important;
+	}
+	li.Patients {
+		display: inline-block;
+	}
+	.dc-docsingle-content .dc-title {
+		margin-bottom: -20px !important;
+	}
+	.doccure-footer-template .doccure_footer_menu_wrapper.footer-menu-horizontal.footer-menu-aligned-right ul{
+		justify-content: flex-start !important;
+	}
+
+	
+	.vc_row.counter-big-text:before {
+		font-size: 120px;
+	}
+	.home_searchform .dc-form-advancedsearch .col-md-6 {
+		max-width: 100% !important;
+	}
+	.rounded-frame:after {
+		width: 300px;
+		height: 300px;
+	}
+	.cartext {
+		margin-left: 0px;
+	}
+	.section-title h2 {
+		font-size: 42px;
+	}
+	.section-title h3 {
+		font-size: 32px;
+	}
+	/* Sidebar */
+	body.page-template-full-width #content .site-main .entry-content>.wpb_row.vc_row-fluid {
+		padding-top: 60px;
+		padding-bottom: 40px;
+	}
+	/* Blog */
+	.comment-list .comment-body,
+	.post-author-box {
+		display: block;
+	}
+	.comment-list .comment-avatar,
+	.post-author-box .post-author-image {
+		margin-bottom: 30px;
+	}
+	.comment-list .children {
+		padding-left: 30px;
+	}
+	.gallery-columns-2 .gallery-item {
+		max-width: 100%;
+	}
+	.comment-respond p.comment-form-author,
+	.comment-respond p.comment-form-email {
+		margin-right: 0;
+		flex: 100%;
+	}
+	.comment-form .form-submit {
+		margin: 0;
+	}
+	/* Shortcode */
+	.doccure_custom_heading_wrapper .doccure-heading-title-wrapper .heading-title {
+		line-height: 36px;
+		font-size: 28px;
+	}
+	.infobox-pad.infobox-style-2 {
+		margin-bottom: 30px;
+	}
+	.testimonials-style-1 .doccure-testimonial-content p {
+		max-width: 100%;
+		margin-left: 0;
+	}
+	.testimonials-style-2 .doccure-testimonial-content p {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	.counter-style-3 {
+		top: 0;
+		right: 15px;
+	}
+	/* 404 */
+	section.error-404 h1.page-title {
+		font-size: 180px;
+		line-height: 180px;
+	}
+	/* Footer */
+	.doccure-footer-widgets-wrapper .col-xl-3.col-lg-3.col-md-6.col-sm-12 {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	.doccure-footer-widgets-wrapper {
+		padding-bottom: 30px;
+	}
+	.doccure-copyright .footer-left {
+		text-align: center;
+	}
+	.doccure-copyright .footer-right {
+		text-align: center;
+		margin-top: 20px;
+	}
+	.doccure-footer-widgets-wrapper .col-xl-3.col-lg-3.col-md-6.col-sm-12 {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	.doccure-contact-info .wpcf7-form-control-wrap {
+		width: 100%;
+	}
+	/* Nav */
+	.woocommerce nav.woocommerce-pagination ul li a,
+	.woocommerce nav.woocommerce-pagination ul li span,
+	.nav-links .page-numbers {
+		width: 40px;
+		height: 40px;
+		font-size: 13px;
+	}
+	.comment-navigation a h3,
+	.posts-navigation a h3,
+	.post-navigation a h3 {
+		width: auto;
+		white-space: unset;
+		overflow: visible;
+		text-overflow: unset;
+	}
+	.navigation .nav-links .nav-next a,
+	.navigation .nav-links .nav-previous a {
+		text-align: left;
+	}
+	.comment-navigation .nav-next a,
+	.posts-navigation .nav-next a,
+	.post-navigation .nav-next a {
+		padding-left: 0;
+	}
+	.comment-navigation .nav-previous,
+	.posts-navigation .nav-previous,
+	.post-navigation .nav-previous {
+		width: 100%;
+		text-align: center;
+	}
+	.navigation-dots {
+		display: none;
+	}
+	.post-navigation .nav-next {
+		text-align: center;
+		width: 100%;
+	}
+	.comment-navigation .nav-next,
+	.posts-navigation .nav-next,
+	.post-navigation .nav-next {
+		max-width: 100%;
+		margin-top: 30px;
+	}
+	/* Custom */
+	.doccure-extend-des>.vc_column-inner {
+		max-width: 100%;
+		padding: 60px 15px !important;
+	}
+	.vc_btn3-container.vc_btn3-right {
+		text-align: left;
+	}
+	.custom-heading-style-1 {
+		margin-bottom: 35px;
+	}
+	.custom-heading-style-1.doccure-light-space {
+		margin-bottom: 20px;
+	}
+	.services-style-1 h3 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	.doccure-d-inherit-sm {
+		display: inherit !important;
+	}
+	.arrow-on-hover .owl-nav,
+	.arrow-middle-right .owl-nav {
+		display: none;
+	}
+	/* Home Page */
+	.infobox-style-4 i {
+		width: 55px;
+		height: 55px;
+		line-height: 55px;
+		font-size: 20px;
+	}
+	.doccure-contact-box-style1 h4 {
+		left: -95px;
+	}
+	/* Services Details */
+	.call-to-action.cta-inner.vc_row:after {
+		display: none !important;
+	}
+	.call-to-action.cta-inner .cta-text {
+		background-color: var(--thm-base);
+		-webkit-clip-path: polygon(0 0, 100% 50px, 100% 100%, 0 100%);
+		clip-path: polygon(0 0, 100% 50px, 100% 100%, 0 100%);
+		padding: 80px 0 40px;
+		padding-left: 30px;
+	}
+	/*footer top*/
+	footer .social-icon a {
+		font-size: 15px;
+		line-height: 45px;
+		height: 45px;
+		width: 45px;
+	}
+	.site-footer.site-footer-layout-3 .footer-top {
+		text-align: center;
+	}
+	.site-footer.site-footer-layout-3 .footer-top input {
+		margin-bottom: 20px;
+	}
+	/*portfolio detail*/
+	.doccure-portfolio-details .doccure-portfolio-details-container {
+		padding: 30px;
+	}
+	.video-style-2 .video-text h2 {
+		font-size: 40px !important;
+	}
+	.services-secton.services-secton-three::before {
+		width: 200px;
+		height: 200px;
+		left: -80px;
+	}
+	.services-secton.services-secton-three::after {
+		width: 250px;
+		height: 250px;
+		bottom: -80px;
+	}
+	.post-author-box {
+		padding: 20px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-image-container {
+		height: 350px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover,
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper:hover .doccure-portfolio-content-cover {
+		left: auto;
+		right: auto;
+		bottom: auto;
+		padding: 20px 30px;
+		opacity: 1;
+		visibility: visible;
+		width: 100%;
+		position: relative;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .portfolio-title {
+		font-size: 20px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .doccure-portfolio-category {
+		font-size: 14px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .portfolio-link {
+		height: 50px;
+		width: 50px;
+		line-height: 50px;
+		transform: translate(0, 0);
+		right: 0;
+		top: auto;
+		bottom: 100%;
+	}
+	.slick-slider.shortcode_slider .slick-arrow {
+		display: none !important;
+	}
+	.section-title h2 {
+		font-size: 28px;
+	}
+	.section-heading {
+		margin-bottom: 10px;
+	}
+	.doccure_post.style-11 {
+		display: block;
+	}
+	.doccure_post.style-11 .doccure_post-thumb {
+		margin-right: 0;
+	}
+	.post-details-box .doccure_post-details-inner .doccure_post-details-meta.footer-meta {
+		display: block;
+	}
+	.post-details-box .doccure_post-details-inner .doccure_post-details-meta.footer-meta .doccure_post-details-meta {
+		margin-top: 20px;
+	}
+	.doccure_form.style-4 {
+		margin: 0 20px;
+		left: 0;
+	}
+	.section-heading.slider-heading .section-title {
+		margin-bottom: 30px;
+	}
+	.doccure_related-portfolio h3.doccure-related-title {
+		font-size: 32px;
+		margin: 0 0 30px;
+	}
+	.search-form-wrapper form input,
+	.search-form-wrapper form button {
+		font-size: 20px;
+		padding: 0;
+	}
+	.doccure_subheader.style-3.curve .doccure_subheader-shape svg,
+	.doccure_subheader.style-3.curve .doccure_subheader-shape {
+		height: 85px;
+	}
+	.doccure_single-pagination.style-2 .doccure_single-pagination-item a .doccure_single-pagination-content h4 {
+		font-size: 22px;
+	}
+	.doccure_single-pagination.style-2 .grid-block,
+	.doccure_header.header-layout-8 .doccure_header-middle .doccure_header-controls .doccure_header-top-links {
+		display: none;
+	}
+	.post-details-box.style-4 .doccure_post-details-inner .doccure_post-details-meta .doccure_post-share {
+		text-align: left;
+	}
+	.post-details-box.style-4 .doccure_post-details-inner .doccure_post-details-meta-item .doccure_sm {
+		justify-content: flex-start;
+	}
+	.doccure_doctor.style-19 .col-md-6:not(:first-child) .doccure_doctor-info span:first-child {
+		margin-top: 10px;
+	}
+	.doccure_header.header-layout-8 .doccure_header-middle .doccure_header-controls {
+		padding-left: 0;
+		border: 0;
+	}
+	.post-details-box.style-5 .doccure_post-details-inner .doccure_post-details-meta.tags-share .doccure_post-share .doccure_sm,
+	.post-details-box.style-6 .doccure_post-details-inner .doccure_post-details-meta.tags-share .doccure_post-details-meta .doccure_post-share {
+		justify-content: flex-start;
+	}
+	.doccure_header.header-layout-10 .doccure_logo-wrapper img {
+		max-width: 130px;
+	}
+}
+
+@media(max-width: 600px) {
+	body.admin-bar .doccure_aside:not(.doccure_aside-desktop) {
+		top: 0px;
+	}
+	.tabs_accordionblock .vc_toggle_title{
+		padding: 12px 10px !important;
+	}
+	.tabs_accordionblock .vc_toggle .vc_toggle_title:after{
+		right:10px;
+	}
+}
+
+@media only screen and (max-width: 575.98px){
+	.home .latest-news article .homeblog_content_block .homeblog_date{
+		font-size: 12px;
+	}
+	.tabs_accordionblock .vc_toggle .vc_toggle_title:after{
+		right: 20px;
+	}
+	.tabs_accordionblock .vc_toggle_title{
+		padding: 12px 20px !important;
+	}
+	.tabs_accordionblock .vc_toggle_title>h4{
+		font-size: 14px;
+		max-width: 260px;
+	}
+	.portfolio_section {
+		padding: 40px 0 5px 0;
+	}
+	.blog .doccure_subheader .doccure_subheader-inner h1{
+		font-size: 20px;
+	}
+	.single.single-post .doccure_subheader .doccure_subheader-inner h1 {
+		font-size: 20px;
+	}
+	.bloggrid_page article h5{
+		line-height: 20px;
+	}
+	.bloggrid_page article p{
+		font-size: 14px;
+	}
+	.bloggrid_page article h5 a {
+		font-size: 16px !important;
+	}
+	.bloggrid_page {
+		padding: 40px 0 20px 0;
+	}
+	.services_testimonials_section h2.title {
+		margin-bottom: 30px;
+	}
+	.aboutus_faq_section{
+		padding:40px 0 40px 0;
+	}
+	.page-template-homepagefive .browse-section-five h2,
+	.page-template-homepagefive .clinic-section-five h2,
+	.page-template-homepagefive .best-section-five h2,
+	.page-template-homepagefive .clinic-section-five h2,
+	.page-template-homepagefive .blog-section-five h2{
+		margin-bottom: 0;
+	}
+	.homepage_footer h6{
+		font-size: 1.125rem !important;
+		margin-bottom: 20px !important;
+		margin-top: 30px;
+	}
+	.homepage_footer p:last-child{
+		margin-bottom: 0;
+	}
+	.home_countersection .counter{
+		font-size: 20px;
+	}
+	.home_countersection p{
+		font-size: 18px;
+	}
+	.home_available_info .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner{
+		border: unset;
+		width: 40px;
+		height: 40px;
+	}
+	.home .home_available_info p{
+		font-size: 18px;
+	}
+	.home .home_available_info .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner .vc_icon_element-icon{
+		width: 40px;
+		height: 45px;
+		font-size: 34px !important;
+	}
+	.homemain_looking,.homemain_clinic{
+		padding: 40px 0;
+	}
+	.homemain_looking .looking_infoblock .vc_column-inner{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.home_blog {
+		padding: 40px 0 10px 0;
+	}
+	.home_available {
+		padding: 40px 0 10px 0;
+	}
+	.home_doctor {
+		padding: 40px 0 20px 0;
+	}
+	.home_counter_block {
+		padding: 40px 0;
+	}
+	.home_countersection{
+		margin-bottom: 30px;
+	}
+	.home_countersection:last-child{
+		margin-bottom: 0;
+	}
+	.home_doctor_slider .col-xl-4 .row{
+		margin-right:0;
+	}
+	.page-template-homepagethree .section_heading h2 {
+		font-size: 1.5rem !important;
+	}
+	.section-header h2 {
+		font-size: 1.5rem !important;
+	}
+	.mobile_section p{
+		font-size: 0.875rem;
+	}
+	.doccure_header .custom-menu-class{
+		display: none;
+	}
+	.navbar img{
+		margin:0 auto;
+	}
+	.doccure_header .doccure_logo-wrapper {
+		padding-top:0 !important;
+	}
+	.logo-wrap.mobile-logo img{
+		height:40px;
+	}
+	
+	.doccure_footer h6{
+		font-size: 1.125rem !important;
+	}
+	.banner-two-form {
+		position: relative !important;
+		top: 0 !important;
+		left: 0 !important;
+		padding: 0px 0;
+		-webkit-transform: translateY(0%) !important;
+		 transform: translateY(0%) !important;
+		z-index: 9;
+		margin: -85px auto 0;
+	}
+	.banner-two-form .app-form h2 {
+		font-size: 20px !important;
+		line-height: unset !important;
+		margin-bottom: 20px !important;
+	}
+	.banner-two-form label {
+		font-size: 14px !important;
+	}
+	.app-form{
+		width:100% !important;
+	}
+	.doccure_aside .doccure_logo-wrapper{
+		padding:15px;
+	}
+	.section_heading h2 {
+		font-size: 1.5rem !important;
+	}
+	.section_desc p {
+		font-size: 0.9375rem !important;
+	}
+	
+	.section-title {
+		margin-bottom: 0 !important;
+	}
+	.looking-grid{
+		width: 100% !important;
+    	margin-right: 15px !important;
+    	margin-left: 15px;
+	}
+	.looking-grid h2{
+		font-size:22px !important;
+	}
+	.features-clinic-section{
+		padding: 40px 0 40px !important;
+	}
+	.clinic-grid{
+		padding-top:20px !important;
+		padding-bottom: 20px !important;
+	}
+	.clinic-grid .doccure_about .doccure_about-image-1 img{
+		width:70px !important;
+	}
+	.clinic-grid h4 {
+		font-size: 18px !important;
+	}
+	.high-service-box{
+		width: 100% !important;
+	}
+	.doccure_post .doccure_post-body h5 a{
+		font-size: 18px !important;
+	}
+	.spacingdiv{
+		margin-left:0px !important;
+		margin-right:0px !important;
+	}
+	.best-doctor-slider .slick-prev, .best-doctor-slider .slick-next{
+		width:40px !important;
+		height:40px !important;
+	}
+	.best-doctor-slider .slick-prev {
+		left: -10px !important;
+		right: auto !important;
+		z-index: 9;
+	}
+	.best-doctor-slider .slick-next{
+		right: -10px !important;
+    	left: auto !important;
+	}
+	.btn-two{
+		font-size: 14px !important;
+	}
+	.home-four-doctor .home-four-header h2 {
+		font-size: 1.5rem !important;
+	}
+	.section-header-four h2 {
+		font-size: 1.5rem !important;
+	}
+	.doccure_post.style-16 .blog-info-four h5 a{
+		font-size: 18px !important;
+	}
+	footer.doccure_footer .widget h6{
+		font-size:1.125rem !important;
+	}	
+	/*homepage6*/
+	.home-section-five h1{
+		font-size: 1.5rem !important;
+	}
+	.looking-section-five h2{
+		font-size: 1.5rem !important;
+	}
+	.looking-info-five h3{
+		font-size: 20px !important;
+	}
+	.looking-grid-five .looking-info-btn a {
+		min-width: 150px !important;
+		font-size: 15px !important;
+	}
+	.looking-section-five h2, .clinic-section-five h2, .browse-section-five h2, .best-section-five h2 {
+		font-size: 1.5rem !important;
+	}
+
+}
+
+@media (min-width: 575px) and (max-width:767px) {
+
+	.high-service-section  .col-md-4{
+        width:50%;
+    }
+    .features-clinic-section .col-md-6{
+        width:50%;
+    }
+
+	.service-section .col-md-6{
+        width:50%;
+    }
+
+	.clinic-section-five .col-md-4{
+		width:50%;
+	}
+    .clinic-section-four .col-md-6{
+        width:50%;
+    }
+	
+}
+@media only screen and (max-width: 768px){
+	.services_testimonials_section {
+		margin-top: 0px;
+		margin-bottom: 30px;
+	}
+	.servicepage_testimonial {
+  		padding: 20px;
+ 	}
+
+	.page-template-homepagefour.clinic-section-four {
+		padding: 60px 0 30px 0;
+	}
+	.page-template-homepagefour.looking-section-four {
+		padding: 60px 0 40px 0!important;
+	}
+
+
+	.page-template-homepagethree .latest-news{
+		margin-bottom: 30px;
+	}
+	.page-template-homepagetwo .appointment-request {
+		 
+		padding: 18px;
+	}
+	.page-template-homepagetwo.doctor-section {
+		padding-top: 60px !important;
+		padding-bottom: 60px !important;
+	}
+	.home_counter_block{
+		padding:60px 0 30px;
+	}
+	.homemain_looking {
+		padding: 60px 0;
+	}
+	.homemain_clinic {
+		padding: 60px 0;
+	}
+	.home_counter_block{
+		padding:60px 0 30px;
+	}
+	.home_doctor {
+		padding: 60px 0 30px 0;
+	}
+	.home_blog {
+		padding: 60px 0 30px 0;
+	}
+	.home_available {
+		padding: 60px 0 30px 0;
+	}
+	#sample_slider.sa_owl_theme .owl-dots { 
+		bottom: -10px !important;
+	}
+	.page-template-homepagefour .section-heading h2 {
+		font-size: 30px;
+   }
+   .page-template-homepagefour .home-four-doctor {
+    padding: 40px 0;
+    max-width: 683px;
+    margin-left: auto;
+}
+ 
+
+.section-heading.section-heading_elementor {
+	margin-bottom: 30px;
+}
+.section-search.elementor_banner1 .banner-header h1 {
+	font-size: 30px;
+}
+
+ 
+.section-search.elementor_banner1 .sidebar_search {
+	padding: 0;
+}
+
+.homemain_looking.homemain_looking_elementor h2 {
+	margin-bottom: 0!important;
+	font-size: 30px;
+}
+
+.home_doctor .section-heading_elementor h2{
+	margin-bottom: 0px;
+	font-weight: 500;
+	font-size: 25px;
+	}
+
+ .page-template-homepagetwo h2.banner-info {
+		font-size: 30px;
+		margin-bottom: 10px!important;
+  }
+.appoinment-wrapper.elemento_hometwohero {
+		margin-top: 25px;
+  }
+
+.page-template-homepagetwo .appointment-grid {
+		margin-top: 0;
+		 margin-bottom: 30px;
+ }
+ 
+ 
+.page-template-homepagethree .section-heading h2 {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.page-template-homepagefour .section-heading h2 {
+	 font-size: 30px;
+}
+.page-template-homepagefour .home-four-doctor {
+	padding: 20px 0;
+	 margin-left: auto;
+}
+.section.hero_section3 {
+    padding-bottom: 0 !important;
+    padding-top: 80px !important;
+}
+.page-template-homepagethree.mobile_doctorblock.elementor_home3 {
+    margin-bottom: 60px;
+    margin-top: 40px;
+}
+
+.elementor-section  .looking-grid-four .looking-box-four {
+    padding: 0px !important;
+}
+
+.elementor-section.services_testimonials_section .section-heading h2 {
+	font-size: 25px;
+}
+.elementor-section.servicedetail_online_con {
+	background-image:none !important;
+	background-color: #c0d4db;
+}
+
+.section_spacing{
+	padding: 40px 0;
+}
+.section_spacing_br {
+	padding: 40px 0 10px;
+}
+
+.page-template-homepagefour.blog-section-four.homepagefour_elementor {
+	margin-top: 0;
+}
+.page-template-homepagetwo.appoinment-section.appoinment_section_elementor {
+    padding-top: 60px;
+	padding-bottom: 30px;
+}
+.contact_firstsection .section-heading .section-title {
+     font-size: 25px;
+ }
+ .contact_secsection .section-heading .section-title {
+	font-size: 25px;
+}
+}
+
+@media (max-width: 767.98px) { 
+	.elementor-column.home_countersection{
+ 		width: 100%!important;
+	}
+	.elementor-column {
+		width: 100%;
+	}
+	.section-heading.section-heading_elementor {
+		margin-bottom: 30px;
+	}
+	.section-search.elementor_banner1 .banner-header h1 {
+		font-size: 30px;
+	}
+	
+	.homemain_looking .homemain_looking_inner_space  {
+		 margin: 30px 0;
+	}
+	.section-search.elementor_banner1 .sidebar_search {
+		padding: 0;
+	}
+
+	.homemain_looking.homemain_looking_elementor h2 {
+		margin-bottom: 0!important;
+		font-size: 30px;
+	}
+
+	.home_doctor .section-heading_elementor h2{
+		margin-bottom: 0px;
+		font-weight: 500;
+		font-size: 25px;
+		}
+
+     .page-template-homepagetwo h2.banner-info {
+			font-size: 30px;
+			margin-bottom: 10px!important;
+ 	 }
+	.appoinment-wrapper.elemento_hometwohero {
+			margin-top: 25px;
+ 	 }
+
+	.page-template-homepagetwo .appointment-grid {
+			margin-top: 0;
+             margin-bottom: 30px;
+	 }
+	 .page-template-homepagetwo .appointment-schedule.elementor_schedule {
+		 width: 100%!important;
+		 margin: 0 0 30px!important;
+	}
+	.page-template-homepagethree .section-heading h2 {
+		font-size: 30px;
+		font-weight: 700;
+	}
+
+	.page-template-homepagefour .section-heading h2 {
+ 		font-size: 30px;
+	}
+	.page-template-homepagefour .home-four-doctor {
+		padding: 20px 0;
+ 		margin-left: auto;
+	}
+
+	.contact_form_section{ 
+		margin-top: 30px;
+	}
+		 
+	}
+
+@media (max-width: 575px) {
+	.page-template-homepagetwo h2.section-title {
+		font-size: 1.5rem!important;
+ 	}
+	.page-template-homepagetwo .banner-details h4 {
+		display: inline-flex;
+ 		align-items: center;
+	}
+	.doccure_header .doccure_logo-wrapper {
+		width: auto !important;
+		margin-left: 65px;
+	}
+
+	.section-search.elementor_banner1 .banner-header h1 {
+		font-size: 26px;
+	}
+	.homemain_looking.homemain_looking_elementor h2 {
+		margin-bottom: 0!important;
+		font-size: 26px;
+	}
+	.home_counter_block.elementor_counter .icon-box-v1 h3 {
+		font-size: 20px;
+	}
+	.home_counter_block.elementor_counter .icon-box-v1 p {
+  		font-size: 18px;
+ 	}
+	 .page-template-homepagetwo h2.banner-info {
+		font-size: 28px;
+		
+ 	}
+	 .page-template-homepagethree .section.hero_section3 .app-form {
+		margin: 0 !important;
+		margin-top:100px !important;
+		flex: 0 0 100%!important;
+        max-width: 100%!important;
+    }
+	.page-template-homepagethree .section-heading h2 {
+		font-size: 1.5rem!important;
+		font-weight: 700;
+	}
+	.page-template-homepagefour .section-heading h2 {
+		font-size: 30px;
+   }
+
+	.page-template-homepagethree .slider_searchform{
+		margin-bottom: 40px;
+	}
+	.page-template-homepagethree .best-doctor-section{
+		padding: 0px 0 40px !important;
+	}
+	.page-template-homepagethree .best-doctor-widget{
+		margin-bottom: 40px;
+	}
+	.page-template-homepagethree .mobile_whatlooking {
+		margin-bottom: 40px !important;
+	}
+	.dc-clinicsimg img {
+		max-width: unset !important;
+	}
+	a.dc-btn.dc-btn-block.dc-add-appointment,a.dc-btn.dc-btn-del.dc-remove-appointment-all{
+		width:100%;
+		
+	}
+	a.dc-btn.dc-btn-del.dc-remove-appointment-all{
+		margin-bottom: 1.25rem !important;
+	}
+	.dc-clinics-title h4{
+		font-size: 15px !important;
+	}
+	.aside-collapse.desktop-aside {
+		width: 100%;
+	}
+	/* Contact us */
+	.doccure-contact-info .infobox-style-4 .doccure-infobox-wrapper {
+		display: inherit;
+	}
+	.doccure-contact-info .infobox-style-4 .doccure-infobox-wrapper .doccure-infobox-content {
+		margin-top: 15px;
+	}
+	.wpb_single_image.vc_align_right {
+		margin-left: 0;
+	}
+	.doccure-contact-info .doccure-contact-box-style1 h4 {
+		top: 72px;
+	}
+	.contact-form {
+		padding: 30px;
+	}
+	/*About us*/
+	.about-section .about-tile-gallery {
+		min-height: 450px;
+	}
+	.about-section .about-tile-gallery .image-one {
+		max-width: 100%;
+	}
+	.about-section .about-tile-gallery .image-two {
+		right: 0;
+		max-width: 300px;
+	}
+	.about-section .about-tile-gallery .image-three {
+		right: -15px;
+	}
+	.about-section .about-tile-gallery .icon {
+		display: none;
+	}
+	.about-section .about-tile-gallery .zero-icon {
+		left: -30px;
+		max-width: 150px;
+	}
+	.video-style-2 .video-text h2 {
+		font-size: 32px !important;
+	}
+	.video-style-2 .video-text .video-link-two .popup-video {
+		height: 100px;
+		width: 100px;
+		line-height: 100px;
+	}
+	.about-sec-page .about-tile-gallery-two .image-two {
+		display: none;
+	}
+	.about-sec-page .about-tile-gallery-two {
+		min-height: auto;
+	}
+	.site-footer.site-footer-layout-2 .form-group {
+		display: block;
+	}
+	.site-footer.site-footer-layout-2 .form-group button {
+		display: block;
+		width: 100%;
+		margin-top: 10px;
+	}
+	/* 404 */
+	section.error-404 h1.page-title {
+		font-size: 120px;
+		line-height: 120px;
+	}
+	section.error-404 .page-content>p {
+		font-size: 14px;
+	}
+	.doccure_subheader.style-6 .doccure_subheader-inner .page-title:before,
+	.doccure_subheader.style-6 .doccure_subheader-inner .page-title:after {
+		height: 10px;
+	}
+	/* footer */
+	.doccure_footer-layout-6 .doccure_footer-bottom .doccure_social-icons {
+		margin-bottom: 20px;
+	}
+	.post-details-box.style-3 .doccure_author-about {
+		display: block;
+	}
+	.post-details-box.style-3 .doccure_author-about .doccure_author-about-content {
+		margin-left: 0;
+	}
+	.post-details-box.style-3 .doccure_author-about img {
+		margin-bottom: 20px;
+	}
+	.comment-list li.comment .comment-body .comment-avatar img {
+		width: 50px;
+	}
+	.comment-list li.comment .comment-body .comment-content .reply a {
+		position: relative;
+		margin-top: 15px;
+		display: inline-block;
+		top: auto;
+	}
+	.doccure_subheader.style-6 .doccure_subheader-inner h1 {
+		font-size: 32px;
+	}
+	.doccure_doctor.style-18 .doccure_doctor-body {
+		border: 0;
+	}
+	.doccure_doctor.style-18 .doccure_doctor-footer {
+		border-top: 1px solid var(--thm-border);
+	}
+	.doccure_doctor.style-18 .doccure_doctor-footer .doccure_rating {
+		position: relative;
+		margin-top: 10px;
+		bottom: 0;
+	}
+	.doccure_single-pagination.style-2 {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.doccure_single-pagination.style-2 .doccure_single-pagination-item a .doccure_single-pagination-content h4 {
+		max-width: 100%;
+	}
+	.doccure_single-pagination.style-2 .doccure_single-pagination-item.doccure_single-pagination-next {
+		margin-top: 30px;
+	}
+	.doccure_header.header-layout-7 .doccure_header-middle .doccure_header-top-links {
+		display: none;
+	}
+	.doccure_header.header-layout-10 .doccure_header-middle .doccure_btn {
+		display: none;
+	}
+}
+
+@media (max-width: 400px) {
+	/*FOOTER TOP*/
+	footer .social-icon a {
+		margin-left: 5px;
+	}
+	.comment-respond .comment-form .form-submit input {
+		width: 100%;
+		padding: 5px 0;
+	}
+	.section-title h2 {
+		font-size: 32px;
+	}
+	.section-title h3 {
+		font-size: 28px;
+	}
+	.doccure_header.header-layout-8 .doccure_logo-wrapper {
+		padding-right: 40px;
+	}
+}
+
+@media (max-width: 399px) {
+
+	.vc_row.counter-big-text:before {
+		font-size: 80px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .doccure-portfolio-category {
+		padding-left: 30px;
+	}
+	.doccure-portfolio-style-2 .doccure-portfolio-thumbnail-wrapper .doccure-portfolio-content-cover .doccure-portfolio-category:before {
+		width: 15px;
+	}
+}
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+	.about-sec-page .about-text .about-extra img {
+		left: -220px;
+		max-width: 350px
+	}
+	.about-sec-page .about-text .about-extra {
+		padding-left: 155px;
+	}
+}
+@media (min-width: 1199px) {
+	.doctors_experiance {
+		min-width: 350px;
+		margin-right: 15px;
+		margin-left: 15px;
+	}
+	.dc-docsingle-content .dc-title {
+  		min-width: 350px;
+	}
+	 
+ }
+@media (min-width: 576px) {
+	.modal.page-template-style .modal-dialog {
+		max-width: 510px;
+	
+	}
+	.modal-dialog.header-user-wrapper {
+		max-width: 760px;
+	}
+	#doccure_newsletter-popup.page-template-wrapper .doccure_popup.popup-dm-fw {
+		width: 540px;
+		margin: 0 15px;
+	}
+}
+
+@media(min-width:576px) {
+    .dc-author>li>.dc-child {
+        padding-left: 0
+    }
+}
+
+@media (min-width: 768px) {
+
+	.dc-author>li>.dc-child {
+        padding-left: 44px
+    }
+
+	.doctordetail {
+		text-align: right;
+	}
+	
+	.sub-title p{
+		margin: 30px auto 0;
+	}
+
+	 
+	.home-four-banner{
+		background-position: center center !important;
+	}
+	.modal.page-template-style .modal-dialog {
+		max-width: 690px;
+	}
+	#doccure_newsletter-popup.page-template-wrapper .doccure_popup.popup-dm-fw {
+		width: 690px;
+	}
+}
+
+@media (min-width: 992px) {
+
+ .header-layout-10.doccure_header .navbar {
+		height: 100px;
+	}
+	
+ .header-layout-10.doccure_header.header-sticky .navbar {
+		height: 80px!important;
+ }
+
+	.page-template-homepagethree .app-form{
+ 		margin-top: -332px;
+	}
+
+	.dc-author>li>.dc-child {
+        padding-left: 74px
+    }
+    .dc-99-section {
+        width: 90%
+    }
+	.modal.page-template-style .modal-dialog {
+		max-width: 930px;
+	}
+	#doccure_newsletter-popup.page-template-wrapper .doccure_popup.popup-dm-fw {
+		width: 930px;
+	}
+	 
+ 
+
+	body.rtl .navbar-nav li.menu-item-has-children>a:after {
+		right: auto;
+		left: 4px;
+	}
+	.navbar-nav li.menu-item-has-children>a:after {
+		position: absolute;
+		font-family: "Font Awesome 6 Free";
+		font-weight: 900;
+		content: "\f107";
+		right: 4px;
+		display: flex;
+		align-items: center;
+		font-size: 15px;
+		top: 31px;
+		font-weight: 900;
+	}
+	.navbar-nav li .sub-menu::before {
+		border: 7px solid #fff;
+		border-color: transparent transparent #fff #fff;
+		box-shadow: -2px 2px 2px -1px rgb(0 0 0 / 10%);
+	}
+	.doccure_header .navbar-nav li .sub-menu {
+		min-width: 200px;
+		box-shadow: 0 0 3px rgb(0 0 0 / 10%);
+	}
+	.doccure_header .navbar-nav li .sub-menu li a {
+		padding: 10px 15px;
+		color: #2d3b48;
+		font-size: 15px;
+		font-weight: 500;
+	}
+	.doccure_header .navbar-nav li .sub-menu {
+		border-radius: 3px;
+	}
+	.doccure_header .navbar-nav li .sub-menu li a {
+		font-size: 15px;
+	}
+	.doccure_header .navbar-nav li .sub-menu::before {
+		border: 7px solid #fff;
+		border-color: transparent transparent #fff #fff;
+		box-shadow: -2px 2px 2px -1px rgb(0 0 0 / 10%);
+		content: "";
+		left: 45px;
+		position: absolute;
+		top: 2px;
+		transform-origin: 0 0;
+		transform: rotate(135deg);
+	}
+}
+
+@media (min-width: 1200px) {
+
+	.appointment-info-holder h2{
+		font-size: 39px !important;
+	}
+	.doccure_post.style-15 .doccure_post-body h5 a{
+		font-size: 22px !important;
+	}
+	.homefiveblog_section .viewall_btn{
+		margin-bottom:0 !important;
+	}
+	.high-service-section .viewall_btn{
+		margin-top:20px;
+	}
+	.homethreeblog_section .viewall_btn{
+		margin-bottom: 60px !important;
+	}
+	.home-section-five h1{
+		margin-bottom: 30px !important;
+	}
+	.section-header-four h2 {
+		font-size: 44px !important;
+	}
+	.sub-title p{
+		margin: 30px auto 35px auto !important;
+	}
+	.doccure_post.style-16 .blog-info-four h5 a{
+		font-size: 22px !important;
+	}
+	.section-header-four h2{
+		margin-bottom: 0px !important;
+	}
+
+	.doccure_footer h6,.doccure_footer h2{
+		font-size: 22px !important;
+	}
+	.home-section-five h2{
+		font-size: 18px !important;
+	}
+	.home-section-five h1{
+		font-size: 48px !important;
+	}
+	.home-section-five p{
+		font-size: 18px !important;
+	}
+	.looking-section-five h2{
+		font-size: 36px !important;
+	}
+	.clinic-grid-info p{
+		font-size: 15px !important;
+	}
+	.modal.page-template-style .modal-dialog {
+		max-width: 1110px;
+	}
+	#doccure_newsletter-popup.page-template-wrapper .doccure_popup.popup-dm-fw {
+		width: 1140px;
+	}
+}
+
+
+
+@media (max-width: 768px) {
+
+	.page-template-homepagefour .clinic-section-four .heading_title p, 
+	.page-template-homepagefour .looking-section-four .heading_title p, 
+	.page-template-homepagefour .doctor-section-four .heading_title p, 
+	.page-template-homepagefour .features-clinic-four .heading_title p, 
+	.page-template-homepagefour .blog-section-four .heading_title p
+	{
+		font-size: 1.875rem;
+		line-height: 1.2;
+	}
+	.page-template-homepagefour .home-four-doctor .home-four-header p{
+		font-size: 2rem;
+		max-width: unset;
+    	text-align: center;
+    	line-height: 40px;
+	}
+	.page-template-homepagethree .section-title .title{
+		font-size: 1.875rem;
+	}
+	.page-template-homepagetwo .banner-left h2.banner-info{
+		font-size: 1.875rem;
+	}
+	.homepage_footer .homepage_firstsec .widget p{
+		font-size: 14px;
+	}
+	.clinic-services{
+		display: block;
+		margin-bottom: 5px;
+	}
+	
+	.footer_gap .vc_column-inner {
+		margin-bottom: 10px !important;
+	}
+
+	.doccurecore-vc-inner-column-624ef281606de {
+		margin-bottom: 0px !important;
+	}
+	.doccure_post.style-14 {
+		margin-bottom: 0px !important;
+	}
+	.doctordetail.doctordetails {
+		text-align: center;
+	}
+	.dc-searchvtwo {
+		float: none !important;
+	}
+	.service-list {
+		margin-top: 2rem;
+	}
+	.single.single-doctors .card {
+		padding: 1.5rem;
+	}
+	.dc-searchvlistvtwo .dc-docpostholder .dc-doclocation {
+		padding: 0 15px 15px 15px !important;
+	}
+	.single_price span {
+		float: none !important;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 769px) {
+	.page-template-homepagethree .section-header {
+		margin-bottom: 0px !important;
+	}
+	.whychoose_aboutmainsection  .section-title,
+	.aboutus_clinic .section-title
+	{
+		margin-bottom: 0;
+	}
+	.services_testimonials_section{
+		margin-bottom: 0;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+	.homemain_looking .vc_row{
+		margin-right: 15px;
+	}
+	.servicedetail_info h5{
+		font-size: 17px;
+	}
+	.doccure_footer p {
+		font-size: 14px;
+	}
+	
+	.doccure_footer_menu_wrapper ul.menu {
+		font-size: 12px;
+		line-height: 14px;
+	}
+	.home-section-five h2 {
+		margin-bottom: 20px !important;
+	} 
+	.doccure_cta.style-8 .doccure_cta-content h4 {
+		font-size: 19px !important;
+	}
+	.section-title .title {
+		font-size: 25px;
+	}
+}
+
+	
+
+@media (max-width: 767px) {
+
+
+	.contact_firstsection .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner{
+		width: 30px;
+		height: 30px;
+	}
+	.contactus_infobox .vc_icon_element.vc_icon_element-outer .vc_icon_element-inner .vc_icon_element-icon:before {
+		font-size: 30px;
+	}
+	.contactus_infobox h5{
+		font-size: 16px;
+    	margin-bottom: 10px;
+	}
+	.contactus_infobox p{
+		font-size: 14px;
+	}
+	.homemain_looking .looking_infoblock .vc_column-inner > .wpb_wrapper:before{
+		margin: 0 15px;
+	}
+	.homemain_looking .looking_infoblock:nth-child(2) .vc_column-inner{
+		padding-left: 15px;
+		margin: 30px 0;
+	}
+	.serviceslist_section article a img{
+		width:100%;
+	}
+	.tabs_accordionblock .vc_tta-panel-heading:last-child{
+		margin-bottom: 0 !important;
+	}
+	.tabs_accordionblock .vc_toggle_title>h4{
+		font-size: 13px;
+	}
+	.servicedetail_firstsec h2{
+		font-size: 25px;
+	}
+	.aboutus_firstsection .vc_column-inner{
+		height:400px;
+	}
+	.section-title .title {
+		font-size: 25px;
+	}
+	.homemain_looking .looking_infoblock .vc_column-inner{
+		padding-left:15px !important;
+		padding-right:15px;
+	}
+	.homemain_looking .looking_infoblock .wpb_single_image .vc_single_image-wrapper,
+	.homemain_looking .looking_infoblock .wpb_single_image .vc_figure
+	{
+		width:100%;
+	}
+}
+
+
+
+@media (max-width: 991px) {
+	.contactus_infobox h5{
+		margin-bottom: 10px;
+	}
+	.contactus_infobox p{
+		font-size: 14px;
+	}
+	.servicedetail_online_con{
+		background-position: left top;
+	}
+	.aboutimage_two{
+		right: 15px;
+		left: 15px;
+	}
+	 
+	.page-template-homepagefour .latest-news .blog-info-four h5 a{
+		font-size: 18px;
+	}
+	.page-template-homepagefour .latest-news article .homeblog_img{
+		margin-bottom: 0;
+	}
+	.page-template-homepagefour .homefiveblog_section .viewall_btn {
+		margin-bottom: 0 !important;
+	}
+	.page-template-homepagefour .blog-section-four .heading_title p{
+		margin-top:0;
+	}
+	.page-template-homepagefour .latest-news article{
+		margin-bottom: 30px;
+	}
+	.home .latest-news article .homeblog_content_block .homeblog_date{
+		right: unset;
+   		left: 50%;
+    	transform: translateX(-50%);
+	}
+	.homepage_footer p{
+		font-size: 14px;
+	}
+	.page-template-homepagetwo .banner-left h2.banner-info.blue{
+		margin-top:0;
+	}
+	.page-template-homepagetwo .banner-left h2.banner-info{
+		margin-top:160px;
+		margin-bottom: 10px !important;
+	}
+	.banner-details.banner-left .wpb_content_element.pagetwoinstant_text {
+		margin-bottom: 15px;
+		padding-top: 5px;
+	}
+	.homepagetwo_blog .homeblog_content_block h5 a{
+		font-size: 18px;
+	}
+	.homepagetwo_blog .homeblog_content_block h5{
+		margin-bottom: 10px;
+	}
+	.homemain_looking h2,
+	.homemain_clinic .section-title, 
+	.home_doctor .section-title, 
+	.home_blog .section-title, 
+	.home_available .section-title{
+		font-size: 25px;
+		margin-bottom: 30px !important;
+	}
+	.home_countersection{
+		margin-bottom: 30px;
+		width: 50%!important;
+	}
+	
+	.homepage_footer h6{
+		font-size: 1.125rem !important;
+		margin-bottom: 20px !important;
+		margin-top: 30px;
+	}
+	.homepage_footer p:last-child{
+		margin-bottom: 0;
+	}
+	#dc-twocolumns{
+		margin-top:15px;
+	}
+	.page-template-homepagetwo .service-section{
+		padding-top: 60px !important;
+        padding-bottom: 30px !important;
+	}
+	 .page-template-homepagetwo .doctor-section{
+		padding-top: 60px !important;
+        padding-bottom: 60px !important;
+	}
+	.page-template-homepagetwo .homepagetwo_blog .latest-news article{
+		margin-bottom: 30px;
+	}
+	.page-template-homepagetwo.homepagetwo_blog .latest-news article{
+		margin-bottom: 30px;
+	}
+	.dash-widget.dct-border-rht {
+		margin-bottom: 10px;
+	}
+	ul#menu-primary-menu {
+		background-color:var(--theme_mheader_color);
+		padding: 0;
+	}
+	ul#menu-primary-menu li a{
+		line-height: 1.5;
+		padding: 15px 20px !important;
+		color: #fff !important;
+		font-size: 14px;
+		font-weight: 500;
+	}
+	ul#menu-primary-menu li a{
+		border-bottom: 1px solid #8bbeef;
+
+	}
+	.doccure_aside .navbar-nav li .sub-menu{
+		background-color: #3474ac;
+	}
+	.doccure_aside .navbar-nav li .sub-menu li a{
+		border-bottom: none !important;
+		color:#fff !important;
+	}
+	.doccure-footer-widgets-wrapper {
+		padding-top: 0px; 
+		padding-bottom: 0px; 
+   }
+ 
+	.container-fluid {
+		padding-left: 15px !important;
+		padding-right: 15px !important;
+	}
+	.dc-docsingle-content {
+		overflow: unset !important;
+	}
+	.dc-navdocsingletab li {
+		float: unset !important;
+		text-align: center !important;
+	}
+
+	.hero_section3{
+		background-size: 100%!important;
+		background-position: top center!important;
+	}
+	.page-template-homepagethree .hero_section3 .app-form {
+		margin: 0 !important;
+		margin-top:180px !important;
+		flex: 0 0 100%!important;
+        max-width: 100%!important;
+    }
+	 
+}
+
+@media (max-width: 500px) {
+	.dc-docsingle-content .dc-btnarea .dc-btn {
+		float: unset !important;
+	}
+	.dc-docsingle-content .dc-btnarea .dc-btn+.dc-btn {
+		margin-top: 10px !important;
+		margin-left: 0px !important;
+	}
+	.dc-specializationslist li {
+		width: 100% !important;
+	}
+}
+
+
+@media(max-width: 1500px) {
+	.about-text-warp .laptop-img {
+		bottom: 0;
+		top: 23%;
+	}
+	.about-text-warp .laptop-other {
+		top: 53%;
+	}
+}
+
+@media only screen and (max-width:1199px){
+
+	.appoinment-wrapper.elemento_hometwohero{
+		position: relative;
+		width: 100%;
+		margin-top: 25px;
+		margin-bottom: 50px;
+	 }
+	 .appoinment-wrapper.elemento_hometwohero .appoinment-box{
+		margin-top: 0;
+	 }
+	 
+	.page-template-homepagefour .clinic-section-four .wpb_content_element, 
+	.page-template-homepagefour .doctor-section-four .wpb_content_element, 
+	.page-template-homepagefour .features-clinic-four .wpb_content_element, 
+	.page-template-homepagefour .blog-section-four .wpb_content_element
+	{
+		margin-bottom: 0px;
+	}
+	.page-template-homepagefour .clinic-section-four .wpb_content_element.heading_title,
+	.page-template-homepagefour .doctor-section-four .wpb_content_element.heading_title,
+	.page-template-homepagefour .features-clinic-four .wpb_content_element.heading_title,
+	.page-template-homepagefour .blog-section-four .wpb_content_element.heading_title
+	{
+		margin-bottom: 15px;
+	}
+	.appoinment-box .dc-select{
+		margin-bottom: 1.25rem;
+	}
+	.appoinment-box{
+		margin-top:0;
+	}
+	.page-template-homepagetwo .appoinment-box .appoinment-right{
+		display:block;
+	}
+	.page-template-homepagetwo .appoinment-box .appoinment-location{
+		padding-right: 0;
+	}
+	.appoinment-box input[type=submit]{
+		width:100%;
+	}
+	}
+	
+@media (max-width: 1199px) {
+
+	.dokan-single-store .profile-frame .profile-info-box.profile-layout-layout1 .profile-info-summery-wrapper .profile-info-summery .profile-info .store-name {
+        color: #fff;
+        text-shadow: none;
+    }
+
+	body.post-template-full-single-post .dc-articlesingle-holder .dc-articlesingle-content {
+        padding: 30px
+    }
+
+	.dc-workingtimeline .main-timeline .timeline-content+.timeline-content {
+        margin-top: 20px
+    }
+    .dc-articlesrow>.col-12:nth-child(n+3) {
+        margin-top: 30px
+    }
+	.header-contact-img {
+		display: none;
+	}
+	.header-contact-detail {
+		display: none;
+	}
+}
+@media only screen and (max-width: 768px){
+
+	.page-template-homepagefour .section-heading h2 {
+		font-size: 30px;
+   }
+   .page-template-homepagefour .home-four-doctor {
+    padding: 40px 0;
+    max-width: 683px;
+    margin-left: auto;
+}
+	
+	.single.single-doctors .dc-docsingle-content .dc-docinfo li+li{
+		margin-top:0;
+	}
+	.single.single-doctors .doc-info-right span{
+		font-size: 14px;
+	}
+	.single.single-doctors  .dc-docsingle-content .dc-title .dc-docinfo{
+		padding:0;
+		margin:0;
+		line-height: unset;
+	}
+	.single.single-doctors .dc-docsingle-content .dc-title{
+		margin-bottom: 0;
+	}
+	.doccure_post.style-15 .doccure_post-body .btn-link{
+		font-size:16px !important;
+	}
+	.page-template-homepagetwo .view-more {
+		padding: 8px 20px;
+		font-size: 16px;
+	}
+
+	
+    .appointment-link,.schedule-title{
+        font-size:18px !important;
+        margin-bottom: 0;
+    }
+    .appointment-info p,.appointment-read-btn{
+        font-size:15px !important;
+    }
+.page-template-homepagetwo .viewall {
+    padding: 8px 20px;
+    font-size: 14px;
+}
+	.callus_txt{
+		margin-left: 10px;
+		display: inline-block;
+	   }
+	   .page-template-homepagetwo .appointment-info-holder h2 {
+		 font-size: 28px;
+	 }
+	 .page-template-homepagetwo .schedule-title{
+		 margin-bottom:10px !important;
+	 }
+	 .page-template-homepagetwo   .appointment-request img{
+		  width:auto;
+	   }
+	   .banner-info{
+	   margin-bottom:0px !important;
+   }
+	   .banner-details{
+		   padding-top:10px !important;
+		   margin-bottom:0;
+	   }
+	   .banner-details p{
+		   font-size:15px !important;
+	   }
+	 .banner-left .banner-info h2 {
+	   font-size: 26px !important;
+	   margin-bottom: 10px !important;
+   }
+   .banner-left .banner-details h4 {
+	   font-size: 15px;
+	   margin-bottom: 10px !important;
+   }
+	.doccure_post.style-14 {
+		margin-bottom: 20px !important;
+	}
+ 
+	.logo_info,.contact_info,.homesixfootermenu_one,.logo_info img{
+		margin-bottom: 30px;
+	}
+	.logo_info .doccure_social-icons{
+		padding-top:20px;
+	}
+	.custom-heading-style-1{
+		margin-bottom: 0 !important;
+	}
+	.home-section-five h2{
+		margin-bottom: 18px !important;
+	}
+	
+	.home-four-doctor .home-four-header h2{
+		max-width:unset !important;
+		text-align:center !important;
+	}
+	.section-title{
+		max-width:unset;
+	}
+	footer.doccure_footer .widget h6{
+		font-size: 1.125rem !important;
+	}
+	.clinic-grid img {
+		width: 70px !important;
+	}
+	.home-four-banner{
+		background-position: 20% !important;
+	}
+	.section-header-four h2 {
+		font-size: 1.875rem !important;
+	}
+	.banner-two-form {
+		position: relative !important;
+		top: 0 !important;
+		left: 0 !important;
+		padding: 0px 0;
+		-webkit-transform: translateY(0%) !important;
+		 transform: translateY(0%) !important;
+		z-index: 9;
+		margin: -85px auto 0;
+	}
+	.home-four-doctor .home-four-header h2{
+		font-size: 2rem !important;
+	}
+	.doccure_footer p,ul#menu-privacymenu li a {
+		font-size: 14px !important;
+	}
+	ul#menu-specalitiesmenu li a, ul#menu-servicesmenu li a{
+		font-size: 14px !important;
+	}
+	.banner-two-form .app-form h2 {
+		font-size: 20px !important;
+		line-height: unset !important;
+		margin-bottom: 20px !important;
+	}
+	.banner-two-form label {
+		font-size: 14px !important;
+	}
+	.app-form{
+		width:100% !important;
+	}
+	.dc-disabled .dc-searchvlistvtwo .dc-searchvtwo {
+		-ms-flex-direction: column;
+		flex-direction: column;
+	}
+	.doctor-img {
+		margin: 0 auto 20px;
+	}
+	.dc-disabled .dc-searchvlistvtwo .dc-docpostholder .dc-doclocation {
+		margin-left: 0 !important;
+		-ms-flex: 0 0 100% !important;
+		flex: 0 0 100% !important;
+		max-width: 100% !important;
+		min-width: 100% !important;
+	}
+	.dc-doclocation span {
+		text-align: center;
+	}
+	.dc-searchvlistvtwo .dc-docpostcontent {
+		display: block !important;
+	}
+	.dc-docpostcontent .dc-title h3 a {
+		float: none !important;
+		max-width: 100% !important;
+	}
+	.dc-searchvlistvtwo .dc-docpostholder .dc-title {
+		text-align: center;
+		display: block;
+		margin: 0 auto;
+	}
+	.dc-docpostcontent .dc-title h3 {
+		font-size: 18px !important;
+	}
+	.dc-doclocationvtwo .dc-btnarea .dc-btn {
+		width: 100%;
+	}
+	.dc-doclocationvtwo .dc-btnarea .dc-like {
+		display: block;
+	}
+	.dc-doclocationvtwo .dc-btnarea .dc-like i {
+		margin: 10px auto 0 auto;
+	}
+	/*single doctor*/
+	.dc-docsingle-content {
+		-ms-flex-direction: column;
+		flex-direction: column;
+		text-align: center;
+	}
+	.dc-title.doc-info-left {
+		-ms-flex-direction: column;
+		flex-direction: column;
+	}
+	.dc-docsingle-content .dc-title h2 a {
+		float: none !important;
+	}
+	.doc-info-right {
+		margin-left: 0;
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+		text-align:left;
+		margin-top: 30px;
+	}
+	.clenic_location {
+   		margin-top: 15px!important;
+	}
+	.doctor_details_experiance {
+ 		margin-top: 30px!important;
+ 	}
+	 .doctor_details_experiance li{
+		margin-right: 0!important;
+		margin-bottom: 15px!important;
+	}
+	.doctor_details_experiance li:last-child{
+ 		margin-bottom: 0!important;
+	}
+	 .clenic_location {
+		text-align: left;
+	 }
+	.dc-infotitle h3 {
+		font-size: 1rem !important;
+	}
+	.experience-list>li .experience-content .timeline-content {
+		font-size: 0.8125rem !important;
+	}
+	.dc-aboutinfo .dc-description p {
+		font-size: 0.8125rem !important;
+	}
+	.dc-specializationslist li span a,
+	.dc-specializationslist li span {
+		font-size: 0.8125rem !important;
+	}
+	/*Homepage3*/
+	.section_heading h2 {
+		font-size: 1.875rem !important;
+	}
+	.section_desc p {
+		font-size: 0.9375rem !important;
+	}
+	.section-title {
+		margin-bottom: 0 !important;
+	}
+	.looking-grid{
+		width: 100% !important;
+    	margin-right: 15px !important;
+    	margin-left: 15px;
+	}
+	.looking-grid h2{
+		font-size:22px !important;
+	}
+	.clinic-grid{
+		padding-top:20px !important;
+		padding-bottom: 20px !important;
+	}
+	.clinic-grid .doccure_about .doccure_about-image-1 img{
+		width:70px !important;
+	}
+	.clinic-grid h4 {
+		font-size: 18px !important;
+	}
+	.high-service-box{
+		width: 100% !important;
+	}
+	
+	.doccure_post .doccure_post-body h5 a{
+		font-size: 18px !important;
+	}
+	.spacingdiv{
+		margin-left:0px !important;
+		margin-right:0px !important;
+	}
+	.best-doctor-slider .slick-prev, .best-doctor-slider .slick-next{
+		width:40px !important;
+		height:40px !important;
+	}
+	.best-doctor-slider .slick-prev {
+		left: -10px !important;
+		right: auto !important;
+		z-index: 9;
+	}
+	.best-doctor-slider .slick-next{
+		right: -10px !important;
+    	left: auto !important;
+	}
+
+	.btn-two{
+		font-size: 14px !important;
+	}
+	.looking-box-four .looking-inner-box .looking-info-four a{
+		font-size:20px !important;
+	}
+	.looking-box-four .looking-inner-box .looking-info-four a i {
+		font-size: 30px !important;
+	}
+	.looking-grid-four {
+		margin-bottom: 20px;
+	}
+	.looking-box-four .looking-inner-box .looking-info-four strong {
+		font-size: 14px;
+	}
+	.looking-box-four .looking-inner-box .looking-four-btn a {
+		font-size: 15px !important;
+	}
+	.home-four-banner {
+		background-position: 20%;
+	}
+	.home_blog .wpb_content_element{
+		margin-top:0;
+	}
+	.sub-title p {
+		margin: 0px auto 30px 0 !important;
+		font-size: 0.875rem !important;
+	}
+	.page-template-homepagefour .sub-title p {
+		max-width: unset;
+	}
+	.clinic-grid-four .clinic-content h4 {
+		font-size: 22px !important;
+	}
+	.clinic-grid-four .overlay h4 {
+		font-size: 18px !important;
+	}
+	.btn-one {
+		font-size: 14px !important;
+	}
+	.doccure_post.style-16 .doccure_post-content p{
+		font-size: 15px !important;
+	}
+	.viewall_btn a{
+		font-size: 14px !important;
+	}
+	.viewall_btn{
+		margin-bottom: 0px !important;
+	}
+	/*homepage6*/
+	.home-section-five h2{
+		font-size: 16px !important;
+	}
+	.home-section-five {
+		padding: 40px 0 !important;
+	}
+	.home-section-five p{
+		font-size: 16px !important;
+	}
+	.search-box-five {
+		margin-top: 20px !important;
+	}
+	.search-box-five form {
+		display: block !important;
+		height: auto !important;
+		padding: 10px;
+	}	
+	.search-input-five.loc_field,.search-input-five.line-five {
+		width: 100% !important;
+		margin-bottom: 15px;
+	}
+	.search-btn-five .btn {
+		min-width: 100% !important;
+	}
+	.looking-section-five h2:before, .clinic-section-five h2:before, 
+	.browse-section-five h2:before, .best-section-five h2:before, 
+	.blog-section-five h2:before,
+	.looking-section-five h2:after, .clinic-section-five h2:after, 
+	.browse-section-five h2:after, .best-section-five h2:after,
+	.blog-section-five h2:after{
+		display: none;
+	}
+	.looking-grid-five .doccure_cta-icon-box {
+		width: 80px !important;
+		height: 80px !important;
+		font-size: 30px !important;
+		top: -40px !important;
+	}
+	.looking-grid-five{
+		width:100% !important;
+		margin-right:0 !important;
+		margin-bottom: 30px;
+	}
+	.looking-info-five p{
+		font-size: 0.875rem !important;
+	}
+	.clinic-grid-info p{
+		font-size: 16px !important;
+
+	}
+	.clinic-grid-five .clinic-grid-info .clinic-five-btn .btn {
+		font-size: 14px !important;
+		padding: 8px 20px !important;
+	}
+	.page-template-homepagefive .doctor-see-btn .btn a{
+		margin-top:0;
+	}
+	.doctor-see-btn .btn a{
+		min-width: 170px !important;
+		padding: 8px 20px !important;
+		font-size: 14px !important;
+		margin-top:20px;
+	}
+	.doctor-grid-five .doctor-details{
+		margin-bottom: 20px;
+		margin-left: 0px;
+    	margin-right: 0px;
+	}
+	.doctor-grid-five .doctor-details h2{
+		font-size: 18px !important;
+	}
+	.doctor-grid-five .doctor-details p {
+		max-width: none !important;
+		font-size: 0.875rem;
+		
+	}
+	.doctor-grid-five .doctor-details .vc_column-inner{
+		padding:0;
+	}
+	.doctor-grid-five .doctor-details .btn button {
+		font-size: 14px !important;
+		min-width: 120px !important;
+		padding: 7px 20px !important;
+	}
+	
+	.specialist-info a{
+		font-size: 0.875rem;
+	}
+	.doctors-grid-five .best-doctors-info h3 a {
+		font-size: 20px !important;
+	}
+	.doctors-grid-five .best-doctors-info .doctor-posting {
+		font-size: 15px !important;
+	}
+	.doctors-grid-five .doctors-btn-five .btn {
+		font-size: 14px !important;
+	}
+	.doctor-see-btn {
+		margin-top: 0px !important;
+	}
+	.available_block .doctor-see-btn {
+		padding-top: 0 !important;
+	}
+	.doccure_post.style-14 .blog-info-five p{
+		font-size: 0.875rem;
+	}
+	 
+ 
+	 
+	.footer-bottom p{
+		font-size: 14px !important;
+	}
+	.looking-info-five h3{
+		font-size: 26px !important;
+	}
+	.looking-section-five h2,.clinic-section-five h2,
+	.browse-section-five h2,.best-section-five h2{
+		font-size: 1.875rem;
+	}
+
+	.home-section-five h1 {
+		font-size: 1.875rem;
+		margin-bottom: 20px;
+	}
+
+	.dc-title.locationtab_title h3 {
+		margin-top: 20px !important;
+	}
+	.looking-grid{
+		width: 100% !important;
+    	margin-right: 15px !important;
+    	margin-left: 15px;
+	}
+	.spacingdiv{
+		margin-left:0px !important;
+		margin-right:0px !important;
+	}
+	.high-service-box{
+		width: 100% !important;
+	}
+	.looking-grid-four{
+		width:100% !important;
+	}
+	.app_btn input[type=submit]{
+		font-size: 14px !important;
+	}
+}
+
+@media (max-width: 425px) {
+
+	.doctor_details_experiance li{
+		margin-right: 0!important;
+		margin-bottom: 15px!important;
+	}
+	.doctor_details_experiance li:last-child{
+ 		margin-bottom: 0!important;
+	}
+	.doccure_header.header-layout-10 .doccure_header-middle .doccure_header-controls {
+		margin-right: 0px !important;
+	}
+	.doccure_header .doccure_logo-wrapper {
+		width: auto !important;
+	}
+	 
+	.doccure_header .aside-toggle,
+	.doccure_header .aside-toggle.desktop-toggler {
+		width: 10px;
+	}
+	.doccure_header .doccure_header-controls ul {
+		padding: 0;
+	}
+}
+
+
+
+@media only screen and (max-width: 1315px) and (min-width: 992px) {
+	.navbar-nav li.menu-item-has-children>a:after {
+		right: -4px!important;
+	}
+}
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+	 
+	.page-template-homepagefour .looking-box-four .looking-inner-box .looking-info-four a{
+		font-size: 18px;
+	}
+	.doctor-grid-five .doctor-details,.doctor-details.doctor-details-one {
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.doctor-grid-five .doctor-details {
+		margin-bottom: 15px;
+	}
+	.doctor-grid-five .doctor-details p {
+		max-width: unset !important;
+	}
+}
+
+@media only screen and (max-width: 992px) and (min-width: 375px) {
+	.best-doctor-widget .best-doctor-image,
+	.best-doctors-grid .best-doctors-img{
+		height: auto !important;
+	}
+	.best-doctor-image img,
+	.best-doctors-grid .best-doctors-img img{
+		min-height: auto !important;
+	}
+	.best-doctor-widget .best-doctor-image .pro-icon img{
+		height:auto;
+		min-height: unset !important;
+	}
+}
+
+@media(max-width:480px) {
+    .dc-doccarecontent h3 {
+        font-size: 22px
+    }
+    .wp-block-quote.is-style-large p {
+        font-size: 20px
+    }
+    .dc-description .wp-block-pullquote p,
+    .wp-block-pullquote.is-style-solid-color blockquote p {
+        font-size: 22px
+    }
+    .dc-articlesingle-content .dc-postarticlemeta {
+        display: block
+    }
+    .dc-description p.wp-block-cover-text {
+        font-size: 1.5em
+    }
+}
+
+@media(max-width: 467px){
+    .subscribe-cta-form .doccure-subscribe-form-style-1 input[type="submit"]{
+        padding: 10px;
+        font-size: 12px;
+    }
+    .subscribe-cta-form .doccure-subscribe-form-style-1 input[type="email"]{
+        padding: 10px;
+    }
+}
+
+ @media (min-width: 992px) and (max-width:1279px) {
+	.homefiveblog_section .viewall_btn{
+		margin-bottom:80px !important;
+	}
+    .schedule-title{
+        margin-bottom:0 !important;
+    }
+.appointment-grid:last-child{
+    margin-right:0 !important;
+}
+    .appointment-grid {
+    width: 31% !important;
+    margin-right: 18px !important;
+}
+.appointment-read-btn{
+    min-width: 50px !important;
+    font-size: 13px !important;
+        padding: 10px 17px !important;
+}
+.appointment-link {
+    font-size: 18px !important;
+}
+}
+
+@media (min-width: 1200px) and (max-width:1320px) {
+    .header-layout-10 {
+    z-index: 9;
+    padding-left: 0;
+    padding-top: 20px;
+    margin-left: 0;
+    padding-right: 0;
+    padding-bottom: 50px;
+    margin-right: 0;
+}
+}
+
+@media (min-width: 768px) and (max-width:876px) {
+    .footer_firsrsec{
+    padding-top:0px;
+}
+
+}
+
+@media (min-width: 320px) and (max-width:363px) {
+    .appointment-info-holder h2 {
+    font-size: 15px !important;
+}
+}
+
+@media (min-width: 1126px) and (max-width:1200px) {
+    .appointment-schedule ul li{
+        padding-bottom:0;
+    }
+}
+
+@media only screen and (max-width:1250px) and (min-width: 768px) {
+	.best-doctor-slider .slick-prev {
+	 left: -13px;
+	 right: auto;
+	 z-index: 9;
+ }
+ .best-doctor-slider .slick-next {
+	 right:-13px;
+	 left: auto;
+ }
+ .best-doctor-slider .slick-prev, .best-doctor-slider .slick-next{
+	 width:39px;
+	 height:39px;
+ }
+ }
+
+ @media (min-width: 768px) and (max-width:876px) {
+    .footer_firsrsec,.page-template-homepagetwo .footer_firsrsec{
+    padding-top:0px;
+}
+.footer_singlelogo{
+    margin-bottom:3px;
+    margin-top:0px;
+}
+.footer_singlelogo {
+    margin-bottom: 10px !important;
+}
+
+}
+
+@media (min-width: 768px) and (max-width:876px) {
+	.footer_firsrsec {
+	 padding-top: 0px;
+ } 
+ }
+
+ @media (min-width: 320px) and (max-width:360px) {
+	.doccure_header.header-layout-10 .doccure_logo-wrapper img {
+		max-width: 113px !important;
+		height: auto;
+	}
+ }
+ @media (max-width:329px) {
+	.dc-docsingle-holder .dc-feedback .dc-consultation-content .dc-consultation-title+.dc-description{
+		margin-left:0;
+	}
+ }
+ @media (min-width: 769px) and (max-width:989px) {
+	.page-template-homepagethree .looking-grid:nth-child(2),
+	.looking-grid:last-child{
+		margin-left: 0 !important;
+	}
+	.looking-grid:last-child{
+		margin-right: 0 !important;
+	}
+	.looking-grid{
+		width:30.5% !important;
+	}
+ }
+ 
+
+ @media only screen and (min-width: 768px) and (max-width: 1024px) {
+	.dc-searchvlistvtwo .dc-search-doctors .dc-docpostcontent{
+		display: block !important;
+	}
+	.dc-searchresult-list .dc-docpostholder.dc-search-doctors .dc-doclocation{
+		float: left !important;
+	}
+ }

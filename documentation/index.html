@@ -1,0 +1,1765 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="Doccure - Car Rental Booking Management WordPress Theme.">
+	<meta name="author" content="dreamstechnologies">
+
+	<title>Doccure WP - Online Documentation.</title>
+
+	<!-- App favicon -->
+	<link rel="shortcut icon" href="assets/img/logo/favicon.png">
+
+	<!-- Vendor -->
+	<link href="assets/css/bootstrap.min.css" rel="stylesheet">
+	<link href="assets/css/prism.css" rel="stylesheet">
+
+	<!-- Fontawesome CSS -->
+	<link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.min.css">
+	<link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css">
+	
+	<link rel="stylesheet" href="assets/css/magnific-popup.css">
+
+	<!-- Main CSS -->
+	<link id="mainCss" href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+	<main class="wrapper sb-default">
+		<!-- Loader -->
+		<div id="loader-wrapper">
+			<div class="loader-ellipsis">
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div>
+		</div>
+
+		<!-- Header -->
+		<header class="header">
+			<div class="container-fluid">
+				<div class="header-left">
+					<div class="left-header me-2">
+						<a href="javascript:void(0)" class="sidebar-toggle">
+							<span class="outer-ring">
+								<span class="inner-ring"></span>
+							</span>
+						</a>
+					</div>
+					<ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+						<li><a href="https://themeforest.net/item/doccure-medical-wordpress-theme/34329202/support" target="_blank" class="nav-link px-2 link-body-emphasis"><i class="fa-solid fa-headset me-2"></i>Support</a></li>
+						<li><a href="https://calendly.com/dreamstechnologies" class="nav-link px-2 link-body-emphasis" target="_blank"><i class="fa-brands fa-hire-a-helper me-2"></i>Hire Us</a></li>
+						<li><a href="https://themeforest.net/user/dreamstechnologies" target="_blank" class="nav-link px-2 link-body-emphasis"><i class="fa-brands fa-hire-a-helper me-2"></i>Our Envato</a></li>
+					</ul> 
+					
+					<div class="right-header">
+						<div class="me-2 header-item theme-light">
+							<button type="button" class="btn-topbar tools-item mode" data-bs-theme-tool="light">
+								<span class="feather-icon"><i data-feather="moon"></i></span>
+							</button>
+						</div>
+						<div class="me-2 header-item theme-dark">
+							<button type="button" class="btn-topbar tools-item mode active" data-bs-theme-tool="dark">
+								<span class="feather-icon"><i data-feather="sun"></i></span>
+							</button>
+						</div>
+					</div>
+					<div class="text-end">
+						<a href="https://doccure-wp.dreamstechnologies.com/" target="_blank" class="btn btn-white btn-sm me-2"><i class="fa-solid fa-link me-2"></i>Live Demo</a>
+						<a href="https://1.envato.market/QO0vV9" class="btn btn-primary btn-sm" target="_blank"><i class="fa-solid fa-cart-plus me-2"></i>Buy Now</a>
+					</div>
+				</div>
+			</div>
+		</header>
+		
+
+         <div class="doc-progress">
+           <div class="doc-progress-inner" id="scrollProgress">
+
+           </div>
+         </div>
+		 
+		<div class="sidebar-overlay"></div>
+		<div class="sidebar" data-mode="light">
+			<div class="sidebar-logo">
+				<a href="index.html" class="sb-full"><img src="assets/img/logo/logo.svg" alt="logo"><span class="badge badge-soft-danger fs-14 ms-1">WP</span></a>
+				<a href="index.html" class="sb-collapse"><img src="assets/img/logo/logo-small.png" alt="logo"></a>
+			</div>
+			 <div class="sidebar-inner">
+				 <div class="sidebar-menu">
+				   <ul id="menu-main-menu" class="sidebar-nav">
+						<li class="menu-item submenu">
+							<a href="#instructions" class="active menu-link">
+								<span class="feather-icon"><i data-feather="box"></i></span>
+								<span class="condense">Getting Started</span>
+							</a>
+							<ul class="sidebar-dropdown condense active">
+								<li>
+									<a href="#instructions" class="page-link drop">
+										<span class="menu-dash"><span></span></span>Introduction
+									</a>
+								</li>
+								<li><a href="#requirement" class="page-link drop"><span class="menu-dash"><span></span></span>Requirement</a></li>
+								<li><a href="#features" class="page-link drop"><span class="menu-dash"><span></span></span>Features</a></li>
+ 							</ul>
+						</li>
+						<li class="menu-item-separator"></li>
+						<li class="menu-title condense">Configuration</li>
+						<li class="menu-item submenu">
+							<a href="#html_config" class=" menu-link">
+								<span class="feather-icon"><i data-feather="pie-chart"></i></span>
+								<span class="condense">Installation</span>
+							</a>
+							<ul class="sidebar-dropdown condense">
+								<li><a href="#html_config" class="page-link drop"><span class="menu-dash"><span></span></span>Installation Guide</a></li>
+								<li><a href="#ftp_installation" class="page-link drop"><span class="menu-dash"><span></span></span>FTP Installation</a></li>
+								<li><a href="#wordpress_client" class="page-link drop"><span class="menu-dash"><span></span></span>WordPress Installation</a></li>
+
+							</ul>
+						</li>
+
+						<li class="menu-item">
+							<a href="#demo_content" class="page-link">
+								<span class="feather-icon"><i data-feather="command"></i></span><span class="condense"><span class="hover-title">Demo Content</span> </span>
+							</a>
+						</li>
+						 
+
+
+						<li class="menu-item submenu">
+							<a href="#theme_options" class=" menu-link">
+								<span class="feather-icon"><i data-feather="database"></i></span>
+								<span class="condense">Theme Options</span>
+							</a>
+							<ul class="sidebar-dropdown condense">
+								<li><a href="#theme_api" class="page-link drop"><span class="menu-dash"><span></span></span>Zoom Setting </a></li>
+
+								<li><a href="#theme_options" class="page-link drop"><span class="menu-dash"><span></span></span>Logo Change</a></li>
+
+								<li><a href="#theme_header" class="page-link drop"><span class="menu-dash"><span></span></span>Header</a></li>
+								<li><a href="#theme_styling" class="page-link drop"><span class="menu-dash"><span></span></span>Styling</a></li>
+								<li><a href="#theme_shsettings" class="page-link drop"><span class="menu-dash"><span></span></span>Subheader Settings</a></li>
+
+								<li><a href="#theme_blogsettings" class="page-link drop"><span class="menu-dash"><span></span></span>Blog Setting</a></li>
+								<li><a href="#theme_pagesettings" class="page-link drop"><span class="menu-dash"><span></span></span>Page Settings </a></li>
+								<li><a href="#theme_directorysettings" class="page-link drop"><span class="menu-dash"><span></span></span>Directory Settings </a></li>
+								<li><a href="#theme_emailsettings" class="page-link drop"><span class="menu-dash"><span></span></span>Email Settings</a></li>
+								<li><a href="#theme_bookingssettings" class="page-link drop"><span class="menu-dash"><span></span></span>Booking Settings</a></li>
+								<li><a href="#theme_sdsettings" class="page-link drop"><span class="menu-dash"><span></span></span>Search Doctor Settings</a></li>
+								<li><a href="#theme_registrationsettings" class="page-link drop"><span class="menu-dash"><span></span></span>Registration Settings</a></li>
+								<li><a href="#theme_404settings" class="page-link drop"><span class="menu-dash"><span></span></span>404 Page</a></li>
+ 
+							</ul>
+						</li>
+
+						 
+
+						<li class="menu-item">
+							<a href="#doctor_packages" class="page-link">
+								<span class="feather-icon"><i data-feather="command"></i></span><span class="condense"><span class="hover-title">Doctor Packages</span> </span>
+							</a>
+						</li>
+
+						<li class="menu-item">
+							<a href="#paw" class="page-link">
+								<span class="feather-icon"><i data-feather="aperture"></i></span><span class="condense"><span class="hover-title">Payout and Wallet</span> </span>
+							</a>
+						</li>
+
+						<li class="menu-item">
+							<a href="#woocommerce_payments" class="page-link">
+								<span class="feather-icon"><i data-feather="database"></i></span><span class="condense"><span class="hover-title">Woocommerce Payments</span> </span>
+							</a>
+						</li>
+						
+
+						<li class="menu-item">
+							<a href="#widget_sidebars" class="page-link">
+								<span class="feather-icon"><i data-feather="shield"></i></span><span class="condense"><span class="hover-title">Widget Sidebars</span> </span>
+							</a>
+						</li>
+
+						<li class="menu-item">
+							<a href="#language_module" class="page-link">
+								<span class="feather-icon"><i data-feather="anchor"></i></span><span class="condense"><span class="hover-title">Language Module</span> </span>
+							</a>
+						</li>
+
+						
+						<li class="menu-item">
+							<a href="#rtl" class="page-link">
+								<span class="feather-icon"><i data-feather="box"></i></span><span class="condense"><span class="hover-title">RTL</span> </span>
+							</a>
+						</li>
+
+						<li class="menu-item">
+							<a href="#theme_update" class="page-link">
+								<span class="feather-icon"><i data-feather="briefcase"></i></span><span class="condense"><span class="hover-title">Theme Update</span> </span>
+							</a>
+						</li>
+						
+
+						<li class="menu-item">
+							<a href="#source_credits" class="page-link">
+								<span class="feather-icon"><i data-feather="command"></i></span><span class="condense"><span class="hover-title">Source & Credits</span> </span>
+							</a>
+						</li>
+						
+
+						 
+ 						 
+						 
+						<li class="menu-item-separator"></li>
+						<li class="menu-title condense">Info</li>
+						 
+						<li class="menu-item">
+							<a href="#support" class="page-link">
+								<span class="feather-icon"><i data-feather="star"></i></span><span class="condense"><span class="hover-title">Support</span> </span>
+							</a>
+						</li>
+						<li class="menu-item submenu">
+							<a href="#license" class="page-link">
+								<span class="feather-icon"><i data-feather="settings"></i></span>
+								<span class="condense">License & Credits</span>
+							</a>
+							<ul class="sidebar-dropdown condense">
+								<li><a href="#license" class="page-link drop"><span class="menu-dash"><span></span></span>License</a></li>
+								<li><a href="#credits" class="page-link drop"><span class="menu-dash"><span></span></span>Credits</a></li>
+								
+							</ul>
+						</li>
+						<li class="menu-item">
+							<a href="#customwork" class="page-link">
+								<span class="feather-icon"><i data-feather="briefcase"></i></span><span class="condense"><span class="hover-title">Custom Work</span> </span>
+							</a>
+						</li>
+						<li class="menu-item">
+							<a href="changelog.html" class="page-link">
+								<span class="feather-icon"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-hexagon"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path></svg></span>
+								<span class="condense"><span class="hover-title">Change Log</span> </span>
+								<span class="badge badge-changelog badge-soft-danger fw-semibold fs-8 px-2 ms-2 condense">v1.4.0</span>
+							</a>	
+						</li>
+						<li class="menu-item">
+							<a href="#thanks" class="page-link">
+								<span class="feather-icon"><i data-feather="smile"></i></span><span class="condense"><span class="hover-title">Thank
+										You</span> </span>
+							</a>
+						</li>
+				   </ul>
+				 </div>
+			 </div>
+         </div>
+		<!-- main content -->
+		<div class="main-content">
+			<div class="container-fluid">
+				<!-- Page title & breadcrumb -->
+				<div class="page-title">
+					<div class="breadcrumb">
+						<h1>Getting Started</h1>
+						<ul>
+							<li><a href="index.html">Doccure WordPress</a></li>
+							<li>Getting Started</li>
+						</ul>
+					</div>
+				</div>
+				<div class="row sections">
+					<div class="col-xl-12 col-md-12">
+						<!-- Introduction -->
+						<section class="section-block hentry" id="instructions">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Introduction<a class="anchor-link ms-2" href="#instructions"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span>
+										</a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="intro">
+										<div class="item-details mb-3">
+										<div class="row">
+										<div class="col-md-6">
+										<ul class="auth-detail">
+											<li><strong>Item Name : </strong>Doccure - Medical Wordpress Theme</li>
+											<li><strong>Published: </strong> 12 Nov 2024</li>
+											<li><strong>Item Version : </strong><span class="badge badge-changelog badge-soft-danger fw-semibold fs-8 px-2 ms-2">v1.4.0</span></li>
+											<li><strong>Author : </strong><a target="_blank" href="https://dreamstechnologies.com">Dreams Technologies</a></li>
+											<li>Support via email: <a href="mailto:support@dreamstechnologies.com">support@dreamstechnologies.com</a></li>
+											<li>Support via Themeforest: <a target="_blank" href="https://themeforest.net/item/doccure-medical-wordpress-theme/34329202/support">Take me there</a></li>
+										</ul>
+										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/banners/banner.png">
+												<img src="assets/img/banners/banner.png" class="img-fluid" alt="Banner">
+											</a>
+										</div>
+										</div>
+										</div>
+										<h5>
+											<a href="#" class="pro-thumbnail me-2" target="_blank">
+												<img src="assets/img/banners/thumbnail.png" class="img-fluid" alt="Thumbnail">
+											</a>Doccure
+										</h5>
+										<p>This documentation will provide you all the details you need to use the Doccure theme and understanding of how Doccure is structured and guide you in performing the most common features. If you require further assistance, related to topics not covered in this documentation, then please contact us via our support forum.</p>
+										<p>We assume that you already have WordPress installed and ready to go. If you do not, please see our section on WordPress to help you get started.</p>
+										
+									</div>
+									<a href="https://themeforest.net/item/doccure-medical-wordpress-theme/34329202/support" class="btn btn-primary rounded-pill me-2" target="_blank">Contact Support</a>
+									<a href="https://themeforest.net/item/doccure-medical-wordpress-theme/34329202/support" class="btn btn-soft-primary rounded-pill" target="_blank" rel="noreferrer">Create Support ticket</a>
+								</div>
+							</div>
+						</section>
+						<!-- /Introduction -->
+
+						<!-- Requirments -->
+						<section class="section-block hentry" id="instructions">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">WordPress Instructions<a class="anchor-link ms-2" href="#instructions"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+								
+<p>To use this theme you need a working version of WordPress already installed on your server or the local environment. We have given the documentation links, where you will find the requirements and the other details about WordPress.
+</p>
+<div class="shortcode-list">
+<ul>
+<li><a href="https://wordpress.org/support/article/before-you-install/">WordPress Before Install</a> – general info before you install WordPress.</li>
+<li><a href="https://wordpress.org/about/requirements/">WordPress Requirements</a> – general info for WordPress requirements.</li>
+<li><a href="https://wordpress.org/support/article/how-to-install-wordpress/">WordPress Installation</a> – general info about WordPress and installation instructions.</li>
+<li><a href="https://learn.wordpress.org/lesson-plans/">WordPress Lessons</a> – general lessons for WordPress.</li>
+</ul>
+</div>
+<div class="clear"></div>
+								</div>
+							</div>
+						</section>
+						<!-- /Requirments -->
+
+						<!-- Requirments -->
+						<section class="section-block hentry" id="requirement">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Theme Requirements<a class="anchor-link ms-2" href="#requirement"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+<p>To use the Doccure WP theme you need the latest version of WordPress, PHP Version 7 or higher, and MySQL 5 or higher. Apart from the necessary WordPress requirements here are listed recommended server configuration requirements to make the theme work properly.
+</p>
+<div class="row">
+<div class="col-md-6">
+<div class="shortcode-list">
+<ul>
+<li><strong>PHP</strong> – Version 7.2 or higher</li>
+<li><strong>MySQL</strong> – Version 5.6 or higher ( OR MariaDB version 10.1 or higher)</li>
+<li><strong>memory_limit</strong> – 512M or higher</li>
+<li><strong>max_execution_time</strong> – 300 or higher</li>
+<li><strong>upload_max_filesize</strong> – 256M or higher</li>
+</ul>
+</div>
+</div>
+<div class="col-md-6">
+<div class="bean-note">If you are not sure about the server requirements here is the quick guide on how you can easily change the server requirements.
+<a href="https://www.wpbeginner.com/wp-tutorials/how-to-increase-the-maximum-file-upload-size-in-wordpress/">Changing server requirements</a>. We still prefer contact your server provider for this.
+</div>
+</div>
+</div>
+								</div>
+							</div>
+						</section>
+						<!-- /Requirments -->
+
+						<!-- Features -->
+						<section class="section-block hentry" id="features">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Features<a class="anchor-link ms-2" href="#features"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<p class="mb-0">Creative Design<br>
+										Fully Responsive<br>
+										Color & Fonts is easily changed<br>
+										W3C Validated Code<br>
+										Bootstrap 5.x used<br>
+										Compatible Browsers: IE8+, Firefox, Safari, Opera, Chrome<br>
+										Scss Used<br>
+										Font Awesome icons<br>
+										Feather icons<br>
+										Easy to Customize
+									</p>
+								</div>
+								
+							</div>
+						</section>
+						<!-- /Features -->
+
+						 
+						  
+
+						<!-- Installation -->
+						<section class="section-block hentry" id="html_config">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Installation Guide<a class="anchor-link ms-2" href="#html_config"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="server">
+										<div class="custom-list mb-4">
+ 											<p>We assume that WordPress website is set, Now the next step is to install the theme. To get started with theme installation you'll need to download the theme file. To download the theme file, go to Template Monster Downloads and locate the theme. </p>
+											 <p>There are three ways to install the theme in you wordpress environment you can use any of them to install theme.</p>
+											<h5 class="mb-3">FTP Client:</h5>
+											<p>You can use the FTP Client for this.</p>
+											<h5 class="mb-3">Through WordPress:</h5>
+											<p>You can install it directly using WordPress theme installation.</p>
+											
+										</div>	 
+									</div>
+											 
+								</div>
+							</div>
+						</section>
+						<!-- /Installation -->
+
+						<!-- FTP Installation -->
+						<section class="section-block hentry" id="ftp_installation">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">FTP Installation<a class="anchor-link ms-2" href="#ftp_installation"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="server">
+										<div class="custom-list mb-4">
+											<h5 class="mb-3">Step 1:</h5>
+											<p>Log into your web server with FTP client software</p>
+											<h5 class="mb-3">Step 2:</h5>
+											<p>Unzip the Doccure.zip file and ONLY use the extracted Doccure theme folder</p>
+											<h5 class="mb-3">Step 3:</h5>
+											<p>Upload the extracted theme folder into wp-content > themes folder</p>
+											<h5 class="mb-3">Step 4:</h5>
+											<p>To Activate the newly installed theme. Go to Appearance > Themes and activate it.</p>
+										</div> 
+								</div>
+							</div>
+							</div>
+
+						</section>
+						<!-- /FTP Installation -->
+
+						
+						<!-- WordrPress Installation -->
+						<section class="section-block hentry" id="wordpress_client">
+
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">WordPress Installation<a class="anchor-link ms-2" href="#ftp_installation"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="server">
+										<div class="custom-list mb-4">
+											<h5 class="mb-3">Step 1:</h5>
+											<p>Navigate to Appearance > Themes</p>
+											<h5 class="mb-3">Step 2:</h5>
+											<p>Click Install Themes and hit the upload button.</p>
+											<h5 class="mb-3">Step 3:</h5>
+											<p>Navigate to find the “Doccure.zip” file on your systen and click “Install Now”</p>
+											<h5 class="mb-3">Step 4:</h5>
+											<p>Activate the newly installed theme. Go to Appearance > Themes and activate it.</p>
+										</div> 
+								</div>
+							</div>
+							</div>
+
+ 						</section>
+						<!-- /WordrPress Installation -->
+
+						<!-- Demo Content -->
+						<section class="section-block hentry" id="demo_content">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Demo Content <a class="anchor-link ms-2" href="#demo_content"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+
+											<p>Before you start importing the demo content make sure you have installed all the required plugins for the theme so that demo content import properly. Here is the plugin list that you need to install and active before you start import. You will find them in ( Appearance > Install Plugins )</p> 
+									<p><b>Note:</b> Install & Activate plugins one by one</p>
+									
+										<div class="shortcode-list">
+										<ul>
+ 										<li>Doccure Core</li>
+										<li>Doccure Elementor</li>
+										<li>Dreams Zoom Integration</li>
+ 										<li>Redux Framework</li>
+										<li>One Click Demo Import</li>
+ 										<li>Contact Form 7</li>
+										<li>Advanced Category and Custom Taxonomy Image</li>
+										<li>Dynamic Featured Image</li>
+ 										<li>Woocommerce</li>
+
+ 										</ul>
+										</div>
+										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/ocdi1.jpg">
+											<img class="img-fluid" src="assets/img/ocdi1.jpg">
+										</a>
+										</div>
+										</div>
+										<div class="mt-5"> 
+										<p>Now for the demo import, you have to go to the <strong>( Appearance &gt; Import Demo Data )</strong>. Now click on the <span class="note">Import Demo Data</span> and then click on <span class="note">Import Demo</span> button and wait for some time your demo will be ready in a few minutes.
+										</p>
+										</div>
+  
+										<p><strong>IMPORTANT NOTE</strong></p>
+
+										<p>After Import demo content. Change the elementor settings. Go to <strong>(Elementor &gt; Settings &gt; Features Tab &gt; Inline Font Icons change DEFAULT to INACTIVE)</strong>.</p>
+										<p><strong>Some notes about other plugins</strong></p>
+
+										<p>The following plugins will also be installed, but are not required to run the theme.</p>
+
+										<div class="shortcode-list">
+											<ul>
+											  <li><strong>Autoptimize</strong> - is used to optimize your website</li>
+											  <li><strong>Yoast SEO</strong> - is used to optimize your website SEO </li>
+											   <li><strong>Stripe Payment</strong> - is used for stripe payment</li>
+											  
+											</ul>
+										  </div>
+									
+									</div>
+								</div>
+							</div>
+						</section>
+						<!-- /Demo Content -->
+
+
+
+						 <!-- theme_options  -->
+						 <section class="section-block hentry" id="theme_api">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Zoom Setting <a class="anchor-link ms-2" href="#theme_header"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row mb-2">
+										<div class="col-md-6">
+                                         <h6>Getting Started </h6>
+										<p>In order to setup the plugin you'll first need a Zoom Account. So, sign up if you don't have a Zoom account already or just sign in with your existing Zoom Account and follow the next steps. </p>
+										 <strong>Setup Server-to-Server OAuth </strong>
+										  <p>In order for you to setup the plugin, carefully follow all the steps below:</p>
+										  <strong>Creating Server to Server App type</strong>
+										  <div class="shortcode-list mb-3">
+										  <ul>
+											<li>Goto Zoom Marketplace page from <a href="https://marketplace.zoom.us/">https://marketplace.zoom.us/</a> </li>
+											<li>Now, you will need to create a <strong>"Server-to-Server"</strong> App type from here.</li>
+											<li>Hover on <strong>Manage</strong> dropdown and select <strong>"Build Server-to-Server App</strong> like shown in below image.</li>
+										  </ul>
+										</div>
+											<p><strong>OR</strong> you can simply click this <a href="https://marketplace.zoom.us/develop/create">https://marketplace.zoom.us/develop/create</a> and this will open a modal like in below screenshot.</p>	
+											<p>Click on <strong>Server to Server OAuth App</strong> and click <strong>create</strong>.</p>	
+										 
+										</div>
+										<div class="col-md-6 ">
+											<a class="gallery-thumb " href="assets/img/create-server-to-server.png">
+ 											<img class="img-fluid mb-3" src="assets/img/create-server-to-server.png">
+										</a>
+ 
+
+										<a class="gallery-thumb" href="assets/img/create-page.png">
+											<img class="img-fluid" src="assets/img/create-page.png">
+									   </a>
+										</div>
+										</div>
+
+										 
+
+
+
+											<div class="row mb-2">
+												<div class="col-md-6">
+												 <h6>Setting Up API Credentials: </h6>
+												 <p>After you click on <strong>"Create"</strong> button in the popup you will be asked few details to fill up.</p>
+ 												<h6>1. App Name </h6>
+												  <p>Add you app name to anything of your Preference so that you can remember that this app type is for your WordPress website.  </p>
+ 												</div>
+												<div class="col-md-6">
+													<a class="gallery-thumb" href="assets/img/app-name.png">
+													 <img class="img-fluid" src="assets/img/app-name.png">
+												</a>
+		 
+												</div>
+												</div>
+											 
+
+												<div class="row mb-2">
+													<div class="col-md-6">
+													 <h6>2. App Credentials </h6>
+													 <p>Once App is created - you will be taken to an App Overview page where you can see App Credentials. These highlighted credentials will be used in our WordPress Video conferencing Zoom plugin to connect with your account. We'll get back to this in next steps. Click <strong>Continue</strong> for now. </p> 
+													 </div>
+													<div class="col-md-6">
+														<a class="gallery-thumb" href="assets/img/app-credentials.png">
+														 <img class="img-fluid" src="assets/img/app-credentials.png">
+													</a>
+			 
+													</div>
+													</div>
+										
+													<div class="row mb-2">
+														<div class="col-md-6">
+														 <h6>3. Information Page </h6>
+														 <p>In this next step you will need to add <strong>Contact name, Contact email and Company name</strong> on the information page in order to activate this app type. Fill in the details according to your needs. </p>
+														 </div>
+														<div class="col-md-6">
+															<a class="gallery-thumb" href="assets/img/information.png">
+															 <img class="img-fluid" src="assets/img/information.png">
+														</a>
+				 
+														</div>
+														</div>
+
+
+														<div class="row mb-2">
+															<div class="col-md-6">
+															 <h6>4. Scopes Page </h6>
+															 <p><strong>Ignore "Feature" page</strong> - After you've added details from previous step - Goto <strong>Scopes</strong> page from the left navigation menu and Click on <strong>"Add Scopes"</strong> as highlighted in the screenshot. </p>
+															 <p>Scopes are basically added in order to allow permissions to access your Zoom meetings into Video Conferencing Zoom plugin. So, this step is very crucial step and you should properly assign each of the defined scopes properly otherwise <strong>you will get no permission issues when trying to create,delete or access Zoom Meetings from your WordPress site</strong>.</p>
+
+															 <p> <strong>Required Scopes section.</strong> in order to add necessary permissions. Come back to this step after you've added all the necessary permissions.</p>
+															 
+															 </div>
+															<div class="col-md-6">
+																<a class="gallery-thumb " href="assets/img/scope-page.png">
+																 <img class="img-fluid mb-2" src="assets/img/scope-page.png">
+															</a>
+
+															<a class="gallery-thumb" href="assets/img/scopes.png">
+																<img class="img-fluid" src="assets/img/scopes.png">
+														   </a>
+															
+															</div>
+															</div>
+
+
+															<div class="row mb-2">
+																<div class="col-md-6">
+																 <h6>5. Activation </h6>
+																 <p>Finally, click on <strong>Activate your App</strong> button and your activated.</p>	
+																
+																</div>
+																<div class="col-md-6">
+																	<a class="gallery-thumb" href="assets/img/activation.png">
+																	 <img class="img-fluid" src="assets/img/activation.png">
+																</a>
+						 
+																</div>
+																</div>
+
+
+																<div class="row mb-5">
+																	<div class="col-md-6">
+																	 <h6>Required Scopes: 	</h6>
+																	 <p>These below are the scopes required from step 4 when setting up the scopes for your application. </p>	
+
+																	 <p><strong>Note: Not adding any of the below permissions may result in permission issue error notices when trying to create your meeting/webinars.</strong></p>
+																	 <h6>Meetings</h6>
+
+																	 <ul>
+																		<li><strong>View all user meetings</strong><ul>
+																		<li><em>View a meeting/meeting:read:meeting:admin</em></li>
+																		<li><em>View a user's meetings/meeting:read:list_meetings:admin</em></li>
+																		</ul>
+																		</li>
+																		<li><strong>View and manage all user meetings</strong><ul>
+																		<li><em>Update a meeting/meeting:update:meeting:admin</em></li>
+																		<li><em>Delete a meeting/meeting:delete:meeting:admin</em></li>
+																		<li><em>Create a meeting for a user/meeting:write:meeting:admin</em></li>
+																		</ul>
+																		</li>
+																		<li><strong>View and manage sub account’s user meetings/meeting:master</strong><ul>
+																		<li><em>Create a meeting for a user/meeting:write:meeting:master</em></li>
+																		<li><em>View a user's meetings/meeting:read:list_meetings:master</em></li>
+																		<li><em>Delete a meeting/meeting:delete:meeting:master</em></li>
+																		<li><em>Update a meeting/meeting:update:meeting:master</em></li>
+																		<li><em>View a meeting/meeting:read:meeting:master</em></li>
+																		</ul>
+																		</li>
+																		</ul>
+																	
+																	</div>
+																	<div class="col-md-6">
+																		<a class="gallery-thumb" href="assets/img/meeting-permissions.png">
+																		 <img class="img-fluid" src="assets/img/meeting-permissions.png">
+																	</a>
+							 
+																	</div>
+																	</div>
+
+
+																	<div class="row mb-5">
+																		<div class="col-md-6">
+																		 <h6>Recordings </h6>
+ 																		<ul>
+																			<li>
+																			<p><strong>View all user recordings/recording:read:admin</strong></p>
+																			<ul>
+																			<li><em>Returns all of a meeting's recordings/cloud_recording:read:list_recording_files:admin</em></li>
+																			<li><em>Lists all cloud recordings for a user/cloud_recording:read:list_recording_files:admin</em></li>
+																			<li><em>list account recording/cloud_recording:read:list_account_recordings:admin</em></li>
+																			</ul>
+																			</li>
+																			<li>
+																			<p><strong>View and manage all user recordings/recording:write:admin</strong></p>
+																			<ul>
+																			<li><em>Recover meeting recordings/cloud_recording:update:recover_meeting_recordings:admin</em></li>
+																			<li><em>Recover a single recording/cloud_recording:update:recover_single_recording:admin</em></li>
+																			<li><em>Delete a specific recording file from a meeting/cloud_recording:delete:recording_file:admin</em></li>
+																			<li><em>Delete all recording files of a meeting/cloud_recording:delete:meeting_recording:admin</em></li>
+																			</ul>
+																			</li>
+																			<li>
+																			<p><strong>View and manage sub account’s user recordings/recording:master</strong></p>
+																			<ul>
+																			<li><em>Returns all of a meeting's recordings/cloud_recording:read:list_recording_files:master</em></li>
+																			<li><em>Lists all cloud recordings for a user/cloud_recording:read:list_user_recordings:master</em></li>
+																			<li><em>Delete all recording files of a meeting/cloud_recording:delete:meeting_recording:master</em></li>
+																			<li><em>Delete a specific recording file from a meeting/cloud_recording:delete:recording_file:master</em></li>
+																			</ul>
+																			</li>
+																			<li>
+																			<p><strong>View your recordings</strong></p>
+																			<ul>
+																			<li><em>Return a specific meeting instance's archived files/archiving:read:archived_files:admin</em></li>
+																			</ul>
+																			</li>
+																			</ul>
+																		</div>
+																		<div class="col-md-6">
+																			<a class="gallery-thumb" href="assets/img/recording-permissions.png">
+																			 <img class="img-fluid" src="assets/img/recording-permissions.png">
+																		</a>
+								 
+																		</div>
+																		</div>
+
+
+																		<div class="row mb-5">
+																			<div class="col-md-6">
+																			 <h6>Reports </h6>
+																			 <ul>
+																				<li>
+																				<p><strong>View report data</strong></p>
+																				<ul>
+																				<li><em>View webinar detail reports/report:read:webinar:admin</em></li>
+																				</ul>
+																				</li>
+																				<li>
+																				<p><strong>View sub account’s report data</strong></p>
+																				<ul>
+																				<li><em>View webinar detail reports/report:read:webinar:master</em></li>
+																				</ul>
+																				</li>
+																				</ul>	
+																			
+																			</div>
+																			<div class="col-md-6">
+																				<a class="gallery-thumb" href="assets/img/report-permissions.png">
+																				 <img class="img-fluid" src="assets/img/report-permissions.png">
+																			</a>
+									 
+																			</div>
+																			</div>
+
+
+																			<div class="row mb-5">
+																				<div class="col-md-6">
+																				 <h6>Users </h6>
+																				 <ul>
+																					<li>
+																					<p><strong>View all user information</strong></p>
+																					<ul>
+																					<li><em>View users/user:read:list_users:admin</em></li>
+																					<li><em>View a user/user:read:user:admin</em></li>
+																					</ul>
+																					</li>
+																					<li>
+																					<p><strong>View and manage sub account’s user information</strong></p>
+																					<ul>
+																					<li><em>Update a user/user:update:user:master</em></li>
+																					<li><em>View a user/user:read:user:master</em></li>
+																					<li><em>Create a user/user:write:user:master</em></li>
+																					<li><em>View users/user:read:list_users:master</em></li>
+																					<li><em>Delete a user/user:delete:user:master</em></li>
+																					</ul>
+																					</li>
+																					<li>
+																					<p><strong>View users information and manage users</strong></p>
+																					<ul>
+																					<li><em>Create a user/user:write:user:admin</em></li>
+																					<li><em>Delete a user/user:delete:user:admin</em></li>
+																					<li><em>Update a user/ user:update:user:admin</em></li>
+																					</ul>
+																					</li>
+																					</ul>	
+																				
+																				</div>
+																				<div class="col-md-6">
+																					<a class="gallery-thumb" href="assets/img/user-permissions.png">
+																					 <img class="img-fluid" src="assets/img/user-permissions.png">
+																				</a>
+										 
+																				</div>
+																				</div>
+
+																		
+
+																				<div class="row mb-5">
+																					<div class="col-md-6">
+																					 <h6>Webinars </h6>
+																					 <ul>
+																						<li>
+																						<p><strong>View all user Webinars</strong></p>
+																						<ul>
+																						<li><em>View a webinar's alert/webinar:read:alert:admin</em></li>
+																						<li><em>View a user's webinars/webinar:read:list_webinars:admin</em></li>
+																						<li><em>View a webinar/webinar:read:webinar:admin</em></li>
+																						</ul>
+																						</li>
+																						<li>
+																						<p><strong>View and manage all user Webinars</strong></p>
+																						<ul>
+																						<li><em>Delete a webinar/webinar:delete:webinar:admin</em></li>
+																						<li><em>Update a webinar's status/webinar:update:status:admin</em></li>
+																						<li><em>Update a webinar/webinar:update:webinar:admin</em></li>
+																						<li><em>Create invite links for a webinars/webinar:write:invite_links:admin</em></li>
+																						<li><em>Create a webinar for a user/webinar:write:webinar:admin</em></li>
+																						</ul>
+																						</li>
+																						<li>
+																						<p><strong>View and manage sub account's user webinars</strong></p>
+																						<ul>
+																						<li><em>View a webinar/webinar:read:webinar:master</em></li>
+																						<li><em>Update a webinar/webinar:update:webinar:master</em></li>
+																						<li><em>Create a webinar for a user/webinar:write:webinar:master</em></li>
+																						</ul>
+																						</li>
+																						</ul>
+																					
+																					</div>
+																					<div class="col-md-6">
+																						<a class="gallery-thumb" href="assets/img/webinar-permissions.png">
+																						 <img class="img-fluid" src="assets/img/webinar-permissions.png">
+																					</a>
+																					
+											 
+																					</div>
+
+																					</div>
+
+																					<div class="col-md-12">
+																						<a class="gallery-thumb" href="assets/img/zoom-integration.jpg">
+																						 <img class="img-fluid" src="assets/img/zoom-integration.jpg">
+																					</a>
+																					
+											 
+																					</div>
+
+										 
+										  </div>
+									
+									</div>
+								</div>
+							</div>
+						</section>
+
+
+ 						 
+						<!-- theme_options  -->
+						<section class="section-block hentry" id="theme_options">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Logo Change <a class="anchor-link ms-2" href="#theme_options"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										<a class="gallery-thumb" href="assets/img/logo-change.png">
+ 										<img class="img-fluid" src="assets/img/logo-change.png">
+									</a>
+ 										  </div>
+									
+									</div>
+								</div>
+							</div>
+						</section>
+ 
+						<!-- /theme_options -->
+ 
+ 
+                        <!-- theme_options  -->
+						<section class="section-block hentry" id="theme_header">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Header <a class="anchor-link ms-2" href="#theme_header"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+                                         <h6>General Header</h6>
+										<p>Using the Header settings theme options you can manage the header layouts, Header logo, search options, links and much more.</p>
+										 <strong>Select Header Layout</strong>
+										 <p> Changes the header style </p>
+										 <strong>Header Position</strong>
+										 <p> There are two options here, one is to allow the header to overlap the content <strong> <i>Absolute</i> </strong>, and the other allows the header to be placed above the content <strong> <i> Relative</i> </strong> </p>
+										 <strong>Set Custom Header Width</strong>
+										 <p> Changes the header width <span class="note">On Desktop Only</span> to the desired size you set. </p>
+										 <strong>Enable Sticky Header</strong>
+										 <p> Adds a sticky navigation header. </p>
+										 <strong>Sticky Color Scheme</strong>
+										 <p> Similar to the Header Color Scheme option, this sets the color scheme for the Sticky header </p>
+										 <strong>Sticky header Background color, Color and Hover color</strong>
+										 <p> Set the colors for the sticky header </p>
+										 <strong>Select Controls Style</strong>
+										 <p>Select the style of collapse sidebar menu, search button</p>
+										 
+ 
+										 
+										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/header_settings.png">
+											<img class="img-fluid" src="assets/img/header_settings.png">
+										</a>
+ 
+										</div>
+										</div>
+										
+										<div class="mt-2"> 
+ 											 
+											<strong>Colors of Controls</strong>
+											<p>set the colors for controls</p>
+											<strong>Display Search Bar</strong>
+											<p>Checking this option will enable the Search bar on desktop. </p>
+											<strong>Display Collapse Bar</strong>
+											<p>Checking this option will enable the collapse sidebar on desktop &amp; mobile. This option doesn't only require you to enable it for it to work. You will have to go to <strong>Appearance &gt; Widgets</strong>, and add a widget to <span class="note">Header Collapse Sidebar</span> </p>
+											<strong>Contact Info Style</strong>
+											<p>Changes the Contact information style that go in the header <strong>Note that this option doesn't work on all header layouts</strong> </p>
+											<strong>Display Email, Phone, Address</strong>
+											<p>Check any of the 3 options to hide/show the specific contact detail in the header. This Funtion will not work until you will upload the information in <strong>Theme options &gt; contact information.</strong> </p>
+											<strong>Contact info background color, and color</strong>
+											<p> Set the colors contact information </p>
+											<strong>Header Background color, Color and Hover color</strong>
+											<p> Set the colors for the header </p>
+											<hr>
+											<p> <i><strong>Note:</strong> that Contact Information should be filled from the <span class="note">Contact Information Tab</span> from theme options</i> </p>
+
+											   </div>
+										 
+										  </div>
+									
+									</div>
+								</div>
+							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="theme_styling">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Styling <a class="anchor-link ms-2" href="#theme_styling"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+										<p>Styling settings contain the all site colors.  </p>
+										<a class="gallery-thumb" href="assets/img/styling.png">
+										<img class="img-fluid" src="assets/img/styling.png">
+									</a>
+										 
+										  </div>
+									
+									</div>
+								</div>
+ 						</section>
+ 
+
+						<section class="section-block hentry" id="theme_shsettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Subheader Settings<a class="anchor-link ms-2" href="#theme_shsettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+ 										   <p>Subheader settings contain the Subheader and the breadcrumb, you can enable/disable them, you can also set the background, colors, alignment, style and so on.</p>
+             <strong>Display Subheader</strong>
+             <p>Check to show the subheader</p>
+             <strong>Subheader style</strong>
+             <p>Select the subheader style</p>
+             <strong>Display breadcrumb</strong>
+             <p>Check to show the breadcrumb</p>
+             <strong>Breadcrumb Position</strong>
+             <p>Where you want to show the breadcrumbs, whether <strong> <i>After the title</i> </strong>, <strong> <i>Below the title</i> </strong> or <strong> <i>Bewlow the Subheader</i> </strong> </p>
+										
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/subheder_settings.png">
+											<img class="img-fluid" src="assets/img/subheder_settings.png">
+										</a>
+										</div>
+										</div>
+										 
+										  </div>
+									
+									</div>
+								</div>
+ 						</section>
+
+
+						<section class="section-block hentry" id="theme_blogsettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Blog Settings<a class="anchor-link ms-2" href="#theme_blogsettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+											<p>Using the blog settings, you can manage the blog sidebar and the social share for the blog.</p>
+											<strong>Blog Style</strong>
+											<p>Select the blog style you want to show (This is for the archive)</p>
+											<strong>Masonry Layout</strong>
+											<p>Enable to show masonry layout in archive.</p>
+											<strong>Number of columns</strong>
+											<p>Set the number of columns you want to show per row in the blog archive page</p>
+											<strong>Blog Sidebar</strong>
+											<p>Where you want the sidebar to be positioned, whether to the left or to the right of the content. This requires you to fill some widgets in the <span class="note">Blog Sidebar</span> in the <strong>Appearance &gt; Widgets</strong> page
+											</p>
+											<p>Delete the default "classic" widgets settings screens in Appearance - Widgets and Disables the block editor from managing widgets.
+										   </p>
+											<strong>Blog Sidebar Style</strong>
+											<p>Select the style for blog sidebar.</p>
+											<strong>Single Blog Style</strong>
+											<p>Select the Style for Single Blog</p>
+											<p>Enable to show no of comments in post.</p>
+											<strong>Show Post Category</strong>
+							   
+											<strong>Show Post Excerpt</strong>
+										
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/blog_settings.png">
+											<img class="img-fluid" src="assets/img/blog_settings.png">
+										</a>
+										</div>
+										</div>
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="theme_pagesettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Page Settings<a class="anchor-link ms-2" href="#theme_pagesettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+											<p>Using the page settings, you can manage the page sidebar position, and the width of the pages.</p>
+											<strong>Page Sidebar</strong>
+											<p>You can select the sidebar position for pages.</p>
+											<strong>Page Layout</strong>
+											<p>Select whether you want the pages to be boxed or full width</p>
+											<hr>
+											<p> <strong>Note: </strong> This option can be specified for every individual page if you desire. Check <span class="note">Meta Fields &gt; Page</span> tab in the documentation </p>
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/page-settings.png">
+											<img class="img-fluid" src="assets/img/page-settings.png">
+										</a>
+										</div>
+										</div>
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="theme_directorysettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Directory Settings<a class="anchor-link ms-2" href="#theme_directorysettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										<p>Using these settings, Admin can manage dashbaord settings, search pages, locations, teams, feedacks, calendar appointments settings.</p>
+										<a class="gallery-thumb" href="assets/img/directory-settings.png">
+										<img class="img-fluid" src="assets/img/directory-settings.png">
+									</a>
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+						<section class="section-block hentry" id="theme_emailsettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Email Settings<a class="anchor-link ms-2" href="#theme_emailsettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										<p>Using these settings, You can changes the email templates from theme options</p>
+										<a class="gallery-thumb" href="assets/img/Email-Settings.png">
+										<img class="img-fluid" src="assets/img/Email-Settings.png">
+									</a>
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="theme_bookingssettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Booking Settings<a class="anchor-link ms-2" href="#theme_bookingssettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										<p>Using these settings, You can changes the Booking options for patient and doctors
+
+										</p>
+										<a class="gallery-thumb" href="assets/img/booking-settings.png">
+										<img class="img-fluid" src="assets/img/booking-settings.png">
+									</a>
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="theme_sdsettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Search Doctor Settings<a class="anchor-link ms-2" href="#theme_sdsettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										<p>Using these settings, You can changes the Search Options for users
+
+										</p>
+										<a class="gallery-thumb" href="assets/img/search-doctor.png">
+										<img class="img-fluid" src="assets/img/search-doctor.png">
+									</a>
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+						<section class="section-block hentry" id="theme_registrationsettings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Registration Settings<a class="anchor-link ms-2" href="#theme_registrationsettings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										<p>Using these settings, You can changes the register and login options for users and doctors </p>
+										<a class="gallery-thumb" href="assets/img/Reg-settings.png">
+										<img class="img-fluid" src="assets/img/Reg-settings.png">
+									</a>
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="theme_404settings">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">404 Page<a class="anchor-link ms-2" href="#theme_404settings"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+											<p>Here you can manage the 404 page for your website</p>
+											<strong>404 Page type</strong>
+											<p> Similar to footer type, you can select from either <strong> <i> Static </i> </strong>, <strong> <i> Slider Revolution </i> </strong> or <strong> <i> Page Template </i> </strong>. The only new addition is that you get to select a
+											  slider revolution template which will show in your 404 page </p>
+											<strong>404 page Title</strong>
+											<p>Sets the title for the 404 page</p>
+											<strong>404 page description</strong>
+											<p>Sets the description for the 404 page</p>
+											<strong>404 Background</strong>
+											<p>Sets the background image / color for the 404 page</p>
+											<strong>Back to home</strong>
+											<p>Check if you want to show the Back to Home button in the 404 page</p>
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/404-page.png">
+											<img class="img-fluid" src="assets/img/404-page.png">
+										</a>
+										</div>
+										</div>
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+						
+						<!-- /theme_options -->
+
+
+						
+
+						<section class="section-block hentry" id="doctor_packages">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Doctor Package <a class="anchor-link ms-2" href="#doctor_packages"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+											<strong> <p>For doctor package process follow the below steps</p></strong>
+			<p>Create a package</p>
+			<p>Assign regular price for package </p>
+			<p>Select for doctos</p>
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/package_settings.png">
+											<img class="img-fluid" src="assets/img/package_settings.png">
+										</a>
+										</div>
+										</div>
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="paw">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Payout and Wallet<a class="anchor-link ms-2" href="#paw"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+											<p>After appointment booking process, the status of doctor's amount is listed in admin &gt; doccure &gt; Earning.</p>
+											<p>When the appointment is completed, the status of earing is changed to completed.</p>
+											
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/payroll.png">
+											<img class="img-fluid" src="assets/img/payroll.png">
+										</a>
+										</div>
+										</div>
+
+
+										<div class="row mt-3">
+											<div class="col-md-6">
+												<p>For payrol, we need to set cron job interval to run the cron job as "once a monthly, once a weekly or once a day" in admin &gt; Appearance &gt; Theme Settings &gt; Payment Settings. After that need to set cron job from cpanel for root folder cron.php file.</p>
+												<p>Cron change the status of earing completed to "processed" and copy to payout table. We will see in admin &gt; doccure &gt; Payouts.</p>
+												
+												<p>Note : After change of cron job interval we need to deactivate and then active the Doccure Cron Plugin (for save intervals in wp cron job)</p>
+
+												<p>Payout doctor need to check the payment method and email address. Doctor's payouts are listed in dashboard</p>
+
+
+											 </div>
+											<div class="col-md-6">
+												<a class="gallery-thumb" href="assets/img/payoutsettings.png">
+												<img class="img-fluid" src="assets/img/payoutsettings.png">
+											</a>
+											</div>
+											</div>
+
+										 
+
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+						
+
+
+						<section class="section-block hentry" id="woocommerce_payments">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Woocommerce Payments <a class="anchor-link ms-2" href="#woocommerce_payments"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+											<strong> <p>Appointment booking process have the following steps</p></strong>
+											<p>Create a product</p>
+											<p>Check "Booking" in product data that will be used to make the payment for the appointment. </p>
+											<p>Assign Regular price 1 that replace to the appoitment price in booking process.</p>
+											
+											   <li><a href="https://woocommerce.com/document/paypal-standard/#section-21">Paypal Payment</a> – general information Paypal Payment</li>
+											
+											
+											<li><a href="https://woocommerce.com/document/stripe/">Stripe Payment</a> – general information
+											Stripe Payment</li>
+											
+											<li><a href="https://woocommerce.com/document/stripe/">Razorpay Payment</a> – general information
+											razorpay Payment</li>
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/booking-process.png">
+											<img class="img-fluid" src="assets/img/booking-process.png">
+										</a>
+										</div>
+										</div>
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+ 
+  
+ 
+
+						<section class="section-block hentry" id="widget_sidebars">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Widget Sidebars <a class="anchor-link ms-2" href="#widget_sidebars"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+								
+									<div class="row">
+										<div class="col-md-6">
+ 											<p>We have created different sidebars for the widgets. There are the individual sidebars for the Blog page, Normal page, and service page named with the Blog sidebar, Page Sidebar, Service sidebar. You can use the widgets to set the widgets as per your requirements. There are also other Fours sidebars for the footer area named Footer 1, Footer 2, Footer 3, Footer 4 to create the different grid layout for the footer. </p>
+  											
+
+											 <p><strong>Blog Sidebar</strong> – Sidebar for the blog details and the blog archive page.</p>
+											 <p><strong>Blog Sidebar</strong> – Sidebar for the blog details and the blog archive page.</p>
+											 <p><strong>Footer column</strong> – Footer area for footer column 1.</p>
+ 										</div>
+										<div class="col-md-6">
+											<a class="gallery-thumb" href="assets/img/widget-sidebars.png">
+											<img class="img-fluid" src="assets/img/widget-sidebars.png">
+										</a>
+										</div>
+										</div>
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="language_module">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Language Module<a class="anchor-link ms-2" href="#language_module"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+										<p>You can manage the wordpress language settings. </p>
+											<p>Step 1 : Please install Loco Translate <a href="https://wordpress.org/plugins/loco-translate/" target="_blank">Click here</a></p>
+											<p>Step 2 : Translate your theme</p>
+											<p>Step 3 : Translate your theme required plugins same like theme</p>
+											<p><strong>Note :</strong> Please refer the right side image for your reference</p>
+											<a class="gallery-thumb" href="assets/img/language-1.png">
+  											<img class="img-fluid" src="assets/img/language-1.png">
+										</a>
+
+											  <a class="gallery-thumb" href="assets/img/language-2.png">
+											<img class="img-fluid mt-3" src="assets/img/language-2.png">
+										</a>
+
+											<a class="gallery-thumb" href="assets/img/language-3.png"> 
+											<img class="img-fluid mt-3" src="assets/img/language-3.png">
+											</a>
+
+											<a class="gallery-thumb" href="assets/img/language-4.png">
+											<img class="img-fluid mt-3" src="assets/img/language-4.png">
+										</a>
+ 									 
+										 
+										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+
+						<section class="section-block hentry" id="rtl">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">RTL<a class="anchor-link ms-2" href="#rtl"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="#" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><svg xmlns="http://www.w3.org/2000/svg" width="18px" height="18px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-maximize"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="file-structure">
+										
+										<p>RTL to change Right to left. </p>
+										<a class="gallery-thumb" href="assets/img/rtl.png">
+   											<img class="img-fluid" src="assets/img/rtl.png">
+										</a>
+ 										  </div>
+									
+									</div>
+ 							</div>
+						</section>
+
+  						<section class="section-block page-block hentry" id="support">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Support<a class="anchor-link ms-2" href="#support"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="javascript:void(0)" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+
+							<p>If this documentation does not address your questions, please feel free to contact us via email at <a class="btn btn-primary btn-sm" target="_blank" href="https://themeforest.net/item/doccure-medical-wordpress-theme/34329202/support">Item Support Page</a>
+							</p>
+							<p>We are in the GMT+5:30 time zone and typically respond to inquiries on weekdays within 12-24 hours. Please note that in rare cases, the response time may extend to 48 hours, especially during holiday seasons.</p>
+							<div class="alert alert-warning mb-4">
+								<span class="badge rounded-pill text-bg-danger text-uppercase">Note:</span> 
+								<p class="mb-0">We strive to offer top-notch support, but it's only available to verified buyers and for template-related issues such as bugs and errors. Custom changes and third-party module setups are not covered.</p>
+							</div>
+							<h5>Don’t forget to Rate Doccure WordPress! <i class="fas fa-star text-warning"></i>
+								<i class="fas fa-star text-warning"></i>
+								<i class="fas fa-star text-warning"></i>
+								<i class="fas fa-star text-warning"></i>
+								<i class="fas fa-star text-warning"></i>
+							</h5>
+							<div class="alert alert-success mb-0">Please take a moment to rate our product on Themeforest. Your support means a lot to us. Just go to your <strong>Themeforest Profile > Downloads Tab</strong>, and you can leave a review for our script. Thank you!</div>
+						
+								</div>
+							</div>
+						</section>
+						
+						<section class="section-block page-block hentry" id="license">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">License<a class="anchor-link ms-2" href="#license"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="javascript:void(0)" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<p>Doccure is developed by <a href="https://themeforest.net/user/dreamstechnologies/portfolio" target="_blank">Dreams Technologies</a> and is available under both <a href="https://themeforest.net/licenses/standard" target="_blank">Envato Extended &amp; Regular License</a> options.</p>
+									<h6>Regular License</h6>
+									<p>Usage by either yourself or a single client is permitted for a single end product, provided that end users are not subject to any charges.</p>
+									<h6>Extended License</h6>
+									<p>For use by you or one client in a single end product for which end users may be charged.</p>
+									<p><a href="https://themeforest.net/licenses/faq#main-differences-licenses-a" target="_blank">What are the main differences between the Regular License and the Extended License?</a></p>
+									<div class="alert alert-info mb-0">
+										<span class="badge rounded-pill text-bg-danger text-uppercase">Note</span>
+										<p class="mb-0">If you operate as a freelancer or agency, you have the option to acquire the Extended License, which permits you to utilize the item across multiple projects on behalf of your clients.</p>
+									</div>
+								</div>
+							</div>
+						</section>
+
+						<section class="section-block page-block hentry" id="credits">
+							<div class="custom-card">
+								<div class="card-header">
+									<h4 class="card-title">Credits<a class="anchor-link ms-2" href="#credits"><i class="fa-solid fa-hashtag"></i></a></h4>
+									<div class="header-tools">
+										<a href="javascript:void(0)" class="card-maximize">
+											<span class="feather-icon" title="Full Screen"><i data-feather="maximize"></i></span></a>
+									</div>
+								</div>
+								<div class="card-body">
+									<div class="table-responsive ref-table">
+										<table class="table table-borderless mb-0">
+											<thead class="thead-light">
+												<tr>
+													<th class="w-20">Plugin Name</th>
+													<th class="w-80">URL</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td><span class="text-high-em">Bootstrap</span></td>
+													<td><a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" class="link-high-em" target="_blank">https://getbootstrap.com/docs/</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">jQuery</span></td>
+													<td><a href="https://jquery.com/" class="link-high-em" target="_blank">https://jquery.com/</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">Fontawesome</span></td>
+													<td><a href="https://fontawesome.com/" class="link-high-em" target="_blank">https://fontawesome.com/</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">Select2</span></td>
+													<td><a href="https://github.com/select2/select2" class="link-high-em" target="_blank">https://github.com/select2/select2</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">Date Timepicker</span></td>
+													<td><a href="https://cdnjs.com/libraries/jquery-datetimepicker" class="link-high-em" target="_blank">https://cdnjs.com/libraries/jquery-datetimepicker</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">Google Fonts</span></td>
+													<td><a href="https://fonts.google.com/" class="link-high-em" target="_blank">https://fonts.google.com/</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">Fancy Box</span></td>
+													<td><a href="http://fancybox.net/" class="link-high-em" target="_blank">http://fancybox.net/</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">Moment JS</span></td>
+													<td><a href="https://momentjs.com/" class="link-high-em" target="_blank">https://momentjs.com/</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">theia-sticky-sidebar</span></td>
+													<td><a href="https://momentjs.com/" class="link-high-em" target="_blank">https://github.com/WeCodePixels/theia-sticky-sidebar</a></td>
+												</tr>
+												<tr>
+													<td><span class="text-high-em">Range-Slider</span></td>
+													<td><a href="https://momentjs.com/" class="link-high-em" target="_blank">https://ionicframework.com/docs/api/range</a></td>
+												</tr>
+											</tbody>
+										</table>
+									</div>	
+								</div>
+							</div>
+						</section>
+
+						<section class="section-block page-block hentry" id="customwork">
+							<div class="custom-card bg-gr-1 text-center">
+								<div class="card-body">
+									<h4 class="card-title">Do you need a customized application for your business?</h4>
+									<p>If you need a customized application for your business depends on your specific requirements and goals, Please contact us.</p>
+									<p>Customization can be the key to success, ensuring your project perfectly aligns with your unique goals and requirements.</p>
+									<div class="hire">
+										<h6>Don't Miss Out on the Benefits of Customization!</h6>
+										<p>Unlock the potential of your project. It's time to ensure that your project isn't just another cookie-cutter solution but a truly unique and effective one.</p>
+										<p>Discover how customization can make a difference in your project's success. Let's create a solution that's as unique as your vision!</p>
+										<ul>
+											<li>We'll tailor the application to meet your specific needs and preferences.</li>
+											<li>We will upload your website to the server and ensure it is live.</li>
+										</ul>
+										<div class="contact-btn mb-3">
+											<a target="_blank" href="https://calendly.com/dreamstechnologies" class="btn btn-primary me-2"><i class="fa-solid fa-calendar-days me-2"></i>Book an Appointment</a>
+											<a href="mailto:support@dreamstechnologies.com" class="btn btn-primary"><i class="fa-solid fa-calendar-days me-2"></i>Get a Free Quote</a>
+										</div>
+										<div class="contact-link">
+											<a href="https://join.skype.com/invite/KqfsfMbmDu9a" class="px-2 link-body-emphasis"><i class="fa-brands fa-skype me-1"></i>dreamstechnologies</a>
+											<a target="_blank" href="mailto:business@dreamstechnologies.com" class="px-2 link-body-emphasis"><i class="fa fa-envelope me-1"></i> business@dreamstechnologies.com</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</section>
+						
+						<section class="custom-card page-block hentry  min-h-100" id="thanks">
+							<div class="card-body">
+								<div class="thanks">
+									<img src="assets/img/banners/ratings.svg" alt="thanks">
+									<h2>Thank You</h2>
+									<p>Thank you once again for downloading <strong>Doccure WordPress</strong>.<br>
+									We hope you're enjoying your experience, and we kindly request that you take a moment to share your valuable review and rating with us.</p>
+									<strong>Review Link:</strong><a href="https://themeforest.net/downloads" class="text-primary fw-bold fs-5" target="_blank">https://themeforest.net/downloads</a>
+								</div>
+							</div>
+						</section>
+					</div>
+				</div>
+			</div><footer class="content-footer footer">
+  <div class="container-fluid d-flex flex-wrap justify-content-between align-items-center text-center py-3">
+    <div>
+      &copy; 2015- <script>
+      document.write(new Date().getFullYear())
+
+      </script>
+      
+      <a href="#" class="footer-text fw-medium text-primary" target="_blank">Dreams Technologies</a>
+      
+    </div>
+    <div class="social-icons">
+		<a href="https://www.facebook.com/dreamstechnologieslimited/" class="footer-link me-2"
+			target="_blank"><i class="fa-brands fa-facebook"></i></a>
+		<a href="https://twitter.com/dreamstechltd" class="footer-link me-2" target="_blank"><i
+				class="fa-brands fa-twitter"></i></a>
+		<a href="https://www.behance.net/dreamstechnologies" class="footer-link me-2" target="_blank"><i
+				class="fa-brands fa-behance"></i></a>
+		<a href="https://dribbble.com/dreamstechnologies" class="footer-link me-2" target="_blank"><i
+				class="fa-brands fa-dribbble"></i></a>
+		<a href="https://www.instagram.com/dreamstechnologieslimited/" class="footer-link"
+			target="_blank"><i class="fa-brands fa-instagram"></i></a>
+	</div>
+  </div>
+</footer>
+		</div>	
+
+	</main>
+
+<script src="assets/js/jquery-3.7.1.min.js"></script>
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="assets/js/prism.js"></script>
+<script src="assets/js/feather.min.js"></script>
+<script src="assets/js/jquery.zoom.min.js"></script>
+
+<script src="assets/js/jquery.magnific-popup.min.js"></script>
+<script src="assets/js/isotope.pkgd.min.js"></script>
+<script src="assets/js/main.js"></script>
+</body>
+
+
+</html>
