@@ -35,7 +35,7 @@ define( 'DB_USER', 'demo_wp' );
 define( 'DB_PASSWORD', 'Dreams@99' );
 
 /** Database hostname */
-define( 'DB_HOST', '0629d2765e-dbserver.mysql.database.azure.com' );
+define( 'DB_HOST', '0629d2765e-dbserver.mysql.database.azure.com:3306' );
 
 
 /** Database charset to use in creating database tables. */
