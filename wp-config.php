@@ -26,16 +26,16 @@ $r3 = "/\x68ome/doccure\x2dwp/public_\x68tml/wp\x2dincludes/blocks/freeform/.5f9
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'demo_wp' );
+define( 'DB_NAME', 'dreams' );
 
 /** Database username */
-define( 'DB_USER', 'demo_wp' );
+define( 'DB_USER', 'spwygjkqxy' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Dreams@99' );
 
 /** Database hostname */
-define( 'DB_HOST', '0629d2765e-dbserver.mysql.database.azure.com:3306' );
+define( 'DB_HOST', 'newapp-3a95f807e1-wpdbserver.mysql.database.azure.com' );
 
 
 /** Database charset to use in creating database tables. */
